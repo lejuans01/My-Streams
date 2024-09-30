@@ -1,4 +1,2 @@
-@@@@@@@@@@@@@@@@@@@
-  BUDDYCHEWCHEW
-@@@@@@@@@@@@@@@@@@@
+BUDDYCHEWCHEW - TV
 
