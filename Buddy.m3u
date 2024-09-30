@@ -1,22 +1,22 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
 ---------- Local TV ----------
-#EXTINF:-1 group-title="LOCAL NO GUIDE",ABC (WPVI) Philadelphia
+#EXTINF:-1 group-title="Local TV",ABC (WPVI) Philadelphia
 http://fortv.cc:8080/5ybSS2/616430/121149
-#EXTINF:-1 group-title="LOCAL NO GUIDE", US: ABC
+#EXTINF:-1 group-title="Local TV", US: ABC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="LOCAL NO GUIDE", US: ABC
+#EXTINF:-1 group-title="Local TV", US: ABC
 http://fl3.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="LOCAL NO GUIDE", US: CBS
+#EXTINF:-1 group-title="Local TV", US: CBS
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
-#EXTINF:-1 group-title="LOCAL NO GUIDE", US: CBS
+#EXTINF:-1 group-title="Local TV", US: CBS
 http://fl1.moveonjoy.com/CBSEAST/index.m3u8
-#EXTINF:-1 group-title="LOCAL NO GUIDE", US: FOX
+#EXTINF:-1 group-title="Local TV", US: FOX
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="LOCAL NO GUIDE", US: FOX
+#EXTINF:-1 group-title="Local TV", US: FOX
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="LOCAL NO GUIDE", US: NBC
+#EXTINF:-1 group-title="Local TV", US: NBC
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 group-title="LOCAL NO GUIDE", US: NBC
+#EXTINF:-1 group-title="Local TV", US: NBC
 http://fl5.moveonjoy.com/NBC_EAST/index.m3u8
 ---------- Cable TV ----------
 
