@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
 ---------- Local TV ----------
-#EXTINF:-1 group-title="Local TV",ABC Philadelphia
+#EXTINF:-1 group-title="Local TV", US: ABC Philadelphia
 http://fortv.cc:8080/5ybSS2/616430/121149
 #EXTINF:-1 group-title="Local TV", US: ABC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
