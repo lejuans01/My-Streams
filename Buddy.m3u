@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
 ---------- Local TV ----------
-#EXTINF:-1 group-title="Local TV", ABC (WPVI) Philadelphia
+#EXTINF:-1 group-title="Local TV", ABC (WPVI) Philadelphia PA
 http://fortv.cc:8080/5ybSS2/616430/121149
-#EXTINF:-1 group-title="Local TV", ABC (WOLO) Columbia
+#EXTINF:-1 group-title="Local TV", ABC (WOLO) Columbia SC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="Local TV", US: ABC
 http://fl3.moveonjoy.com/ABC_EAST/index.m3u8
@@ -14,7 +14,7 @@ http://fl1.moveonjoy.com/CBSEAST/index.m3u8
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="Local TV", US: FOX
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="Local TV", NBC (WMAQ) Chicago
+#EXTINF:-1 group-title="Local TV", NBC (WMAQ) Chicago IL
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 group-title="Local TV", US: Bad
 http://fl5.moveonjoy.com/NBC_EAST/index.m3u8
