@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
 ---------- Local TV ----------
 #EXTINF:-1 group-title="LOCAL NO GUIDE",ABC (WPVI) Philadelphia
 http://fortv.cc:8080/5ybSS2/616430/121149
@@ -19,7 +19,7 @@ http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 group-title="LOCAL NO GUIDE", US: NBC
 http://fl5.moveonjoy.com/NBC_EAST/index.m3u8
 ---------- Cable TV ----------
-#EXTM3U url-tvg="[XML_EPG]"
+
 #EXTINF:-1 tvg-id="WABC.us" tvg-name="ABC_EAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" group-title="CABLE TV" streamId="0" channel-number="0",ABC East
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
