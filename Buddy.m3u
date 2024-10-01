@@ -95,9 +95,6 @@ http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="DISNEY_XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="CABLE TV" streamId="33" channel-number="33",DisneyXD
 http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 
-#EXTINF:-1 group-title="CABLE TV", MAGNOLIA NETWORK (CA)
-http://fl2.moveonjoy.com/DIY/index.m3u8
-
 #EXTINF:-1 tvg-id="MGMplus.us" tvg-name="EPIX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-us.png?raw=true" group-title="CABLE TV" streamId="34" channel-number="34",EPIX
 http://fl2.moveonjoy.com/EPIX/index.m3u8
 
@@ -196,6 +193,9 @@ http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Logo.us" tvg-name="Logo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png" group-title="CABLE TV" streamId="69" channel-number="69",Logo East
 http://fl3.moveonjoy.com/Logo/index.m3u8
+
+#EXTINF:-1 group-title="CABLE TV", MAGNOLIA NETWORK (CA)
+http://fl2.moveonjoy.com/DIY/index.m3u8
 
 #EXTINF:-1 tvg-id="MeTVNetwork.us" tvg-name="MeTV East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-us.png?raw=true" group-title="CABLE TV" streamId="70" channel-number="70",MeTV
 http://fl2.moveonjoy.com/ME_TV/index.m3u8
