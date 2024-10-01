@@ -82,7 +82,7 @@ http://fl2.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON_NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Cable TV" streamId="18" channel-number="18",Cartoon Network (CA)
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="WCBS.us" tvg-name="CBSEAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="CABLE TV" streamId="19" channel-number="19",CBS (WSBK)
+#EXTINF:-1 tvg-id="WCBS.us" tvg-name="CBSEAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="Cable TV" streamId="19" channel-number="19",CBS (WSBK)
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 
 #EXTINF:-1 tvg-id="CineMAX.us" tvg-name="CINEMAX_EAST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Cable TV" streamId="21" channel-number="21",Cinemax
@@ -106,7 +106,7 @@ http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Cable TV" streamId="28" channel-number="28",Discovery Channel 1
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 
-#EXTINF:-1 group-title="Local TV", Discovery Channel 2
+#EXTINF:-1 group-title="Cable TV", Discovery Channel 2
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="DISCOVERY_FAMILY_CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="Cable TV" streamId="29" channel-number="29",Discovery Family
@@ -295,20 +295,17 @@ http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="POP.us" tvg-name="PopTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pop-us.png?raw=true" group-title="Cable TV" streamId="95" channel-number="95",PopTV East
 http://fl3.moveonjoy.com/Pop_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="ReelzChannel.us" tvg-name="ReelzChannel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s52199_dark_360w_270h.png" group-title="Cable TV" streamId="96" channel-number="96",ReelzChannel
-http://fl2.moveonjoy.com/REELZ/index.m3u8
+#EXTINF:-1 group-title="Cable TV", Reelz East
+https://fl2.moveonjoy.com/REELZ/index.m3u8
+
+#EXTINF:-1 group-title="Cable TV", Reelz West
+https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Revolt.us" tvg-name="Revolt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/revolt-us.png?raw=true" group-title="Cable TV" streamId="97" channel-number="97",Revolt
 http://fl2.moveonjoy.com/REVOLT/index.m3u8
 
 #EXTINF:-1 tvg-id="ParamountpluswithShowtime.us" tvg-name="Showtime" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="Cable TV" streamId="99" channel-number="99",Showtime East
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
-
-#EXTINF:-1 group-title="Local TV", Reelz East
-https://fl2.moveonjoy.com/REELZ/index.m3u8
-
-#EXTINF:-1 group-title="Local TV", Reelz West
-https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="Cable TV" streamId="100" channel-number="100",Showtime 2 East
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
