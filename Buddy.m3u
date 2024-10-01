@@ -304,6 +304,12 @@ http://fl2.moveonjoy.com/REVOLT/index.m3u8
 #EXTINF:-1 tvg-id="ParamountpluswithShowtime.us" tvg-name="Showtime" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="Cable TV" streamId="99" channel-number="99",Showtime East
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 
+#EXTINF:-1 group-title="Local TV", Reelz East
+https://fl2.moveonjoy.com/REELZ/index.m3u8
+
+#EXTINF:-1 group-title="Local TV", Reelz West
+https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="Cable TV" streamId="100" channel-number="100",Showtime 2 East
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 
