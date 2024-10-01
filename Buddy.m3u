@@ -148,6 +148,9 @@ http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="FOOD_NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="Cable TV" streamId="42" channel-number="42",Food Network
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 
+#EXTINF:-1 group-title="Local TV", Food Network (NG)
+https://varun-iptv.netlify.app/m3u/Food Network.m3u8
+
 #EXTINF:-1 tvg-id="WNYW.us" tvg-name="FOX_EAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Cable TV" streamId="43" channel-number="43",FOX (WFXT)
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 
