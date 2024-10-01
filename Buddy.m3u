@@ -11,16 +11,25 @@ http://143.244.60.30/ABC_EAST/index.m3u8
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
 #EXTINF:-1 group-title="Local TV", ABC (KTVO)
 https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
+
 #EXTINF:-1 group-title="Local TV", CBS (KCTV)
 https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
 #EXTINF:-1 group-title="Local TV", CBS (KRCG)
 https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
 #EXTINF:-1 group-title="Local TV", CBS (KTVO)
 https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
-#EXTINF:-1 group-title="Local TV", FOX (WFXT)
+
+#EXTINF:-1 group-title="Local TV", Fox (WDAF)
+https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
+#EXTINF:-1 group-title="Local TV", Fox (KYOU)
+https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
+#EXTINF:-1 group-title="Local TV", Fox (KQFX)
+https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
+#EXTINF:-1 group-title="Local TV", FOX (WFXT1)
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="Local TV", FOX (WFXT)
+#EXTINF:-1 group-title="Local TV", FOX (WFXT2)
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
+
 #EXTINF:-1 group-title="Local TV", NBC (WNBC)
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 
