@@ -11,6 +11,8 @@ http://fl3.moveonjoy.com/ABC_EAST/index.m3u8
 https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
 #EXTINF:-1 group-title="Local TV", CBS (KTVO)
 https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
+#EXTINF:-1 group-title="Local TV", US: CBS
+http://fl1.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 group-title="Local TV", FOX (WFXT)
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="Local TV", FOX (WFXT)
@@ -52,9 +54,6 @@ http://fl2.moveonjoy.com/BRAVO/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="CARTOON_NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="CABLE TV" streamId="18" channel-number="18",Cartoon Network
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
-
-#EXTINF:-1 group-title="CABLE TV", US: CBS
-http://fl1.moveonjoy.com/CBSEAST/index.m3u8
 
 #EXTINF:-1 tvg-id="WCBS.us" tvg-name="CBSEAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="CABLE TV" streamId="19" channel-number="19",CBS (WSBK)
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
