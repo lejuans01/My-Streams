@@ -390,6 +390,10 @@ http://fl1.moveonjoy.com/WE_TV/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 group-title="Backup Channels", Adult Swim (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV East FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="Live Channels",HGTV East
+http://fl2.moveonjoy.com/HGTV/index.m3u8
+#EXTINF:-1 tvg-id="HGTVPacific.us" tvg-name="HGTV West" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/HGTV_2010.svg" group-title="Live Channels",HGTV West
+http://thevdm.xyz:25461/Jennifer/Year!/39780
 #EXTINF:-1 group-title="Backup Channels", TNT (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Backup Channels", TNT (West)
