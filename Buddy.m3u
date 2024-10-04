@@ -116,6 +116,9 @@ http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="DISCOVERY_LIFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="Cable TV" streamId="30" channel-number="30",Discovery Life
 http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
+#EXTINF:-1 group-title="Cable TV", Discovery Sci (INTL)
+https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/sci.m3u8
+
 #EXTINF:-1 group-title="Cable TV", Discovery Turbo (INTL)
 https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
 
@@ -310,9 +313,6 @@ https://fl2.moveonjoy.com/REELZ/index.m3u8
 
 #EXTINF:-1 group-title="Cable TV", Reelz 2
 https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
-
-#EXTINF:-1 group-title="Cable TV", Science (INTL)
-https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/sci.m3u8
 
 #EXTINF:-1 tvg-id="Revolt.us" tvg-name="Revolt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/revolt-us.png?raw=true" group-title="Cable TV" streamId="97" channel-number="97",Revolt
 http://fl2.moveonjoy.com/REVOLT/index.m3u8
