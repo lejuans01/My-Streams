@@ -401,31 +401,28 @@ http://fl1.moveonjoy.com/WE_TV/index.m3u8
 
 ---------------Backup Channels----------------
 
-#EXTINF:-1 group-title="Backup Channels",US ABC (WPVI) Philadelphia
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-6-wpvi-us.png", US ABC (WPVI) Philadelphia
 http://cord-cutter.net:8080/hq3y4G/234247/121149
 
-#EXTINF:-1 group-title="Backup Channels", TNT (East)
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="", TNT (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Backup Channels", TNT (West)
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="", TNT (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Backup Channels", TBS (East)
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="", TBS (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Backup Channels", TBS (West)
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="", TBS (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Backup Channels", TruTV (East)
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="", TruTV (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Backup Channels", TruTV (West)
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="", TruTV (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 group-title="Backup Channels",World Fishing Network
+#EXTINF:-1 group-title="Backup Channels" tvg-logo=""",World Fishing Network
 http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/30040
-#EXTINF:-1 group-title="Backup Channels",World Fishing Network
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="",World Fishing Network
 http://abcnew.site:8880/29ca11113n01/adsfer3223/30040
 
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="https://en.wikipedia.org/wiki/Magnolia_Network#/media/File:Magnolia_Network.svg",Magnolia Network
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12762
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="https://en.wikipedia.org/wiki/Magnolia_Network#/media/File:Magnolia_Network.svg",Magnolia Network
-http://mohdtv.com:8880/smarttv585cde001dad/18675302/60115
-#EXTINF:-1 group-title="Backup Channels"tvg-logo="https://en.wikipedia.org/wiki/Magnolia_Network#/media/File:Magnolia_Network.svg",Magnolia Network
-http://yesimes.oknirvana.club:8880/29us10233n01/4etfr4w23/60115
 
