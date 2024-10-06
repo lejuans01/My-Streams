@@ -1,6 +1,6 @@
-I do not have a m3u done yet for files hosted here.
+All m3u files are single play streams.
 
-All single channel streams, hosted on another repo.( insolencetvgo )
+More Playlists US Channels from: ( insolencetvgo )
 https://github.com/InsolenceWillow/insolencetvgo/blob/main/insolencetvgo.m3u
 
 Must use this raw URL in your player for them to work.
