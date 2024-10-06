@@ -2,432 +2,428 @@
 
 ------------------Local TV---------------------------
 
-#EXTINF:-1 group-title="Local TV",D| ABC (WABC)
+#EXTINF:-1 group-title="Local TV"D| D| ABC (WABC)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="Local TV",D|  ABC (WOLO1)
+#EXTINF:-1 group-title="Local TV"D| D|  ABC (WOLO1)
 http://fl3.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="Local TV",D| ABC (WOLO2)
+#EXTINF:-1 group-title="Local TV"D| D| ABC (WOLO2)
 http://143.244.60.30/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="Local TV",D| ABC (KMIZ)
+#EXTINF:-1 group-title="Local TV"D| D| ABC (KMIZ)
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-#EXTINF:-1 group-title="Local TV",AD| BC (KTVO)
+#EXTINF:-1 group-title="Local TV"D| AD| BC (KTVO)
 https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
 
-#EXTINF:-1 group-title="Local TV",D| CBS (KSMOIND)
+#EXTINF:-1 group-title="Local TV"D| D| CBS (KSMOIND)
 https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
-#EXTINF:-1 group-title="Local TV",D| CBS (KRCG)
+#EXTINF:-1 group-title="Local TV"D| D| CBS (KRCG)
 https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
-#EXTINF:-1 group-title="Local TV",D| CBS (KTVO)
+#EXTINF:-1 group-title="Local TV"D| D| CBS (KTVO)
 https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
 
-#EXTINF:-1 group-title="Local TV",D| Fox (WDAF)
+#EXTINF:-1 group-title="Local TV"D| D| Fox (WDAF)
 https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
-#EXTINF:-1 group-title="Local TV",D| Fox (KYOU)
+#EXTINF:-1 group-title="Local TV"D| D| Fox (KYOU)
 https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
-#EXTINF:-1 group-title="Local TV",D| Fox (KQFX)
+#EXTINF:-1 group-title="Local TV"D| D| Fox (KQFX)
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
-#EXTINF:-1 group-title="Local TV",D| FOX (WFXT1)
+#EXTINF:-1 group-title="Local TV"D| D| FOX (WFXT1)
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="Local TV",D| FOX (WFXT2)
+#EXTINF:-1 group-title="Local TV"D| D| FOX (WFXT2)
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
 
-#EXTINF:-1 group-title="Local TV",D| NBC (KOMU)
+#EXTINF:-1 group-title="Local TV"D| D| NBC (KOMU)
 https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
-#EXTINF:-1 group-title="Local TV",D| NBC (KSHB)
+#EXTINF:-1 group-title="Local TV"D| D| NBC (KSHB)
 https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
-#EXTINF:-1 group-title="Local TV",D| NBC (KYOU)
+#EXTINF:-1 group-title="Local TV"D| D| NBC (KYOU)
 https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
-#EXTINF:-1 group-title="Local TV",D| NBC (WNBC)
+#EXTINF:-1 group-title="Local TV"D| D| NBC (WNBC)
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 
-#EXTINF:-1 group-title="Local TV",D| CW (KOMU)
+#EXTINF:-1 group-title="Local TV"D| D| CW (KOMU)
 https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
-#EXTINF:-1 group-title="Local TV",D| CW (KYOU)
+#EXTINF:-1 group-title="Local TV"D| D| CW (KYOU)
 https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
-#EXTINF:-1 group-title="Local TV",D| CW (KCWE)
+#EXTINF:-1 group-title="Local TV"D| D| CW (KCWE)
 https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
 
 ----------------- Cable TV ----------------------
-#EXTINF:-1 group-title="Cable TV", Adult Swim (East)
+#EXTINF:-1 group-title="Cable TV"D| D| Adult Swim (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 group-title="Cable TV", Adult Swim (West)
+#EXTINF:-1 group-title="Cable TV"D|  Adult Swim (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
 
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="Cable TV" streamId="2" channel-number="2",AMC
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="Cable TV" streamId="2" channel-number="2"D| D| AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="Cable TV" streamId="3" channel-number="3",American Heroes Channel
+#EXTINF:-1 tvg-id="AmericanHeroesChannel.us" tvg-name="American Heroes Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="Cable TV" streamId="3" channel-number="3"D| D| American Heroes Channel
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal_Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="Cable TV" streamId="4" channel-number="4",Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal_Planet" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16331_dark_360w_270h.png" group-title="Cable TV" streamId="4" channel-number="4"D| D| Animal Planet
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 
-#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC_AMERICA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="Cable TV" streamId="5" channel-number="5",BBC America
+#EXTINF:-1 tvg-id="BBCAmerica.us" tvg-name="BBC_AMERICA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="Cable TV" streamId="5" channel-number="5"D| D| BBC America
 http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 
-#EXTINF:-1 tvg-id="BBCNews.us" tvg-name="BBC_WORLD_NEWS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" group-title="Cable TV" streamId="6" channel-number="6",BBC World News
+#EXTINF:-1 tvg-id="BBCNews.us" tvg-name="BBC_WORLD_NEWS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" group-title="Cable TV" streamId="6" channel-number="6"D| D| BBC World News
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 
-#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="Cable TV" streamId="8" channel-number="8",BET
+#EXTINF:-1 tvg-id="BET.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="Cable TV" streamId="8" channel-number="8"D| D| BET
 http://fl2.moveonjoy.com/BET_EAST/index.m3u8
 
-#EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET_HER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="Cable TV" streamId="10" channel-number="10",BET Her East
+#EXTINF:-1 tvg-id="BETHer.us" tvg-name="BET_HER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="Cable TV" streamId="10" channel-number="10"D| D| BET Her East
 http://fl2.moveonjoy.com/BET_HER/index.m3u8
 
-#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="Cable TV" streamId="15" channel-number="15",Boomerang
+#EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="Cable TV" streamId="15" channel-number="15"D| D| Boomerang
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 
-#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" group-title="Cable TV" streamId="16" channel-number="16",Bounce
+#EXTINF:-1 tvg-id="BounceTV.us" tvg-name="Bounce" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" group-title="Cable TV" streamId="16" channel-number="16"D| D| Bounce
 http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="Bravo.us" tvg-name="BRAVO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="Cable TV" streamId="17" channel-number="17",Bravo
+#EXTINF:-1 tvg-id="Bravo.us" tvg-name="BRAVO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="Cable TV" streamId="17" channel-number="17"D| D| Bravo
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
 
-#EXTINF:-1 tvg-id="WCBS.us" tvg-name="CBSEAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="Cable TV" streamId="19" channel-number="19",CBS (WSBK)
+#EXTINF:-1 tvg-id="WCBS.us" tvg-name="CBSEAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="Cable TV" streamId="19" channel-number="19"D| D| CBS (WSBK)
 http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 
-#EXTINF:-1 tvg-id="CineMAX.us" tvg-name="CINEMAX_EAST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Cable TV" streamId="21" channel-number="21",Cinemax
+#EXTINF:-1 tvg-id="CineMAX.us" tvg-name="CINEMAX_EAST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Cable TV" streamId="21" channel-number="21"D| D| Cinemax
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
-#EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="Cable TV" streamId="22" channel-number="22",CMT East
+#EXTINF:-1 tvg-id="CMT.us" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="Cable TV" streamId="22" channel-number="22"D| D| CMT East
 http://fl3.moveonjoy.com/CMT/index.m3u8
 
-#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="Cable TV" streamId="24" channel-number="24",CNN
+#EXTINF:-1 tvg-id="CNN.us" tvg-name="CNN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" group-title="Cable TV" streamId="24" channel-number="24"D| D| CNN
 http://fl2.moveonjoy.com/CNN/index.m3u8
 
-#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="COMEDY_CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="Cable TV" streamId="25" channel-number="25",Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentral.us" tvg-name="COMEDY_CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="Cable TV" streamId="25" channel-number="25"D| D| Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
-#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="COOKING" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="Cable TV" streamId="26" channel-number="26",Cooking Channel
+#EXTINF:-1 tvg-id="CookingChannel.us" tvg-name="COOKING" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="Cable TV" streamId="26" channel-number="26"D| D| Cooking Channel
 http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="Cable TV" streamId="27" channel-number="27",C-SPAN
+#EXTINF:-1 tvg-id="CSPAN.us" tvg-name="C-SPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="Cable TV" streamId="27" channel-number="27"D| D| C-SPAN
 http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Cable TV" streamId="28" channel-number="28",Discovery Ch
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Cable TV" streamId="28" channel-number="28"D| D| Discovery Ch
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 
-#EXTINF:-1 group-title="Cable TV", Discovery Ch (INTL)
+#EXTINF:-1 group-title="Cable TV"D| D| Discovery Ch (INTL)
 https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="DISCOVERY_FAMILY_CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="Cable TV" streamId="29" channel-number="29",Discovery Family
+#EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="DISCOVERY_FAMILY_CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="Cable TV" streamId="29" channel-number="29"D| D| Discovery Family
 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="DISCOVERY_LIFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="Cable TV" streamId="30" channel-number="30",Discovery Life
+#EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="DISCOVERY_LIFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="Cable TV" streamId="30" channel-number="30"D| D| Discovery Life
 http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
-#EXTINF:-1 group-title="Cable TV", Discovery Sci (INTL)
+#EXTINF:-1 group-title="Cable TV"D| D| Discovery Sci (INTL)
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/sci.m3u8
 
-#EXTINF:-1 group-title="Cable TV", Discovery Turbo (INTL)
+#EXTINF:-1 group-title="Cable TV"D| D| Discovery Turbo (INTL)
 https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="DISNEY_CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Cable TV" streamId="31" channel-number="31",Disney Channel
+#EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="DISNEY_CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Cable TV" streamId="31" channel-number="31"D| D| Disney Channel
 http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="DISNEY_JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="Cable TV" streamId="32" channel-number="32",DisneyJr
+#EXTINF:-1 tvg-id="DisneyJunior.us" tvg-name="DISNEY_JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="Cable TV" streamId="32" channel-number="32"D| D| DisneyJr
 http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 
-#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="DISNEY_XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Cable TV" streamId="33" channel-number="33",DisneyXD
+#EXTINF:-1 tvg-id="DisneyXD.us" tvg-name="DISNEY_XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Cable TV" streamId="33" channel-number="33"D| D| DisneyXD
 http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
 
-#EXTINF:-1 tvg-id="MGMplus.us" tvg-name="EPIX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-us.png?raw=true" group-title="Cable TV" streamId="34" channel-number="34",EPIX
+#EXTINF:-1 tvg-id="MGMplus.us" tvg-name="EPIX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-us.png?raw=true" group-title="Cable TV" streamId="34" channel-number="34"D| D| EPIX
 http://fl2.moveonjoy.com/EPIX/index.m3u8
 
-#EXTINF:-1 tvg-id="MGMplusHits.us" tvg-name="EPIX_2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-2-us.png?raw=true" group-title="Cable TV" streamId="35" channel-number="35",EPIX 2
+#EXTINF:-1 tvg-id="MGMplusHits.us" tvg-name="EPIX_2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-2-us.png?raw=true" group-title="Cable TV" streamId="35" channel-number="35"D| D| EPIX 2
 http://fl2.moveonjoy.com/EPIX_2/index.m3u8
 
-#EXTINF:-1 tvg-id="MGMplusDriveIn.us" tvg-name="EPIX_DRIVE_IN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-drive-in-us.png?raw=true" group-title="Cable TV" streamId="36" channel-number="36",EPIX Drive-In
+#EXTINF:-1 tvg-id="MGMplusDriveIn.us" tvg-name="EPIX_DRIVE_IN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-drive-in-us.png?raw=true" group-title="Cable TV" streamId="36" channel-number="36"D| D| EPIX Drive-In
 http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 
-#EXTINF:-1 tvg-id="MGMplusMarquee.us" tvg-name="EPIX_HITS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-hits-us.png?raw=true" group-title="Cable TV" streamId="37" channel-number="37",EPIX Hits
+#EXTINF:-1 tvg-id="MGMplusMarquee.us" tvg-name="EPIX_HITS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/epix-hits-us.png?raw=true" group-title="Cable TV" streamId="37" channel-number="37"D| D| EPIX Hits
 http://fl2.moveonjoy.com/EPIX_HITS/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Cable TV" streamId="38" channel-number="38",ESPN
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" group-title="Cable TV" streamId="38" channel-number="38"D| D| ESPN
 http://fl1.moveonjoy.com/ESPN/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2(src01).us" tvg-name="ESPN_2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Cable TV" streamId="39" channel-number="39",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2(src01).us" tvg-name="ESPN_2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" group-title="Cable TV" streamId="39" channel-number="39"D| D| ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPN_NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="Cable TV" streamId="40" channel-number="40",ESPNews
+#EXTINF:-1 tvg-id="ESPNEWS.us" tvg-name="ESPN_NEWS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="Cable TV" streamId="40" channel-number="40"D| D| ESPNews
 http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 
-#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="FOOD_NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="Cable TV" streamId="42" channel-number="42",Food Network
+#EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="FOOD_NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="Cable TV" streamId="42" channel-number="42"D| D| Food Network
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
 
-#EXTINF:-1 group-title="Cable TV", Food Network (INTL)
+#EXTINF:-1 group-title="Cable TV"D| Food Network (INTL)
 https://varun-iptv.netlify.app/m3u/Food Network.m3u8
 
-#EXTINF:-1 tvg-id="WNYW.us" tvg-name="FOX_EAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Cable TV" streamId="43" channel-number="43",FOX (WFXT)
+#EXTINF:-1 tvg-id="WNYW.us" tvg-name="FOX_EAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Cable TV" streamId="43" channel-number="43"D| FOX (WFXT)
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="Cable TV" streamId="44" channel-number="44",FOX News Channel
+#EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-name="FOX News Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="Cable TV" streamId="44" channel-number="44"D| FOX News Channel
 http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
 
-#EXTINF:-1 tvg-id="FS1.us" tvg-name="FS1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" group-title="Cable TV" streamId="46" channel-number="46",FS1
+#EXTINF:-1 tvg-id="FS1.us" tvg-name="FS1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" group-title="Cable TV" streamId="46" channel-number="46"D| FS1
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
-#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="Cable TV" streamId="48" channel-number="48",Freeform East
+#EXTINF:-1 tvg-id="Freeform.us" tvg-name="Freeform East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="Cable TV" streamId="48" channel-number="48"D| Freeform East
 http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
 
-#EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuse" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="Cable TV" streamId="49" channel-number="49",Fuse
+#EXTINF:-1 tvg-id="Fuse.us" tvg-name="Fuse" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" group-title="Cable TV" streamId="49" channel-number="49"D| Fuse
 http://fl2.moveonjoy.com/FUSE/index.m3u8
 
-#EXTINF:-1 tvg-id="FX.us" tvg-name="FX East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="Cable TV" streamId="50" channel-number="50",FX East
+#EXTINF:-1 tvg-id="FX.us" tvg-name="FX East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" group-title="Cable TV" streamId="50" channel-number="50"D| FX East
 http://fl2.moveonjoy.com/FX/index.m3u8
 
-#EXTINF:-1 tvg-id="FXM.us" tvg-name="FXM" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="Cable TV" streamId="51" channel-number="51",FXM
+#EXTINF:-1 tvg-id="FXM.us" tvg-name="FXM" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" group-title="Cable TV" streamId="51" channel-number="51"D| FXM
 http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
 
-#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="Cable TV" streamId="52" channel-number="52",FXX East
+#EXTINF:-1 tvg-id="FXX.us" tvg-name="FXX East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" group-title="Cable TV" streamId="52" channel-number="52"D| FXX East
 http://fl2.moveonjoy.com/FXX/index.m3u8
 
-#EXTINF:-1 tvg-id="FYIChannel.us" tvg-name="FYI FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" group-title="Cable TV" streamId="53" channel-number="53",FYI East
+#EXTINF:-1 tvg-id="FYIChannel.us" tvg-name="FYI FHD" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" group-title="Cable TV" streamId="53" channel-number="53"D| FYI East
 http://fl2.moveonjoy.com/FYI/index.m3u8
 
-#EXTINF:-1 tvg-id="get.us" tvg-name="getTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/get-tv-us.png?raw=true" group-title="Cable TV" streamId="54" channel-number="54",getTV
+#EXTINF:-1 tvg-id="get.us" tvg-name="getTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/get-tv-us.png?raw=true" group-title="Cable TV" streamId="54" channel-number="54"D| getTV
 http://fl2.moveonjoy.com/GET_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="Cable TV" streamId="55" channel-number="55",Hallmark Channel East
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-name="Hallmark Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png" group-title="Cable TV" streamId="55" channel-number="55"D| Hallmark Channel East
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="HallmarkFamily.us" tvg-name="Hallmark Family" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="Cable TV" streamId="56" channel-number="56",Hallmark Family
+#EXTINF:-1 tvg-id="HallmarkFamily.us" tvg-name="Hallmark Family" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" group-title="Cable TV" streamId="56" channel-number="56"D| Hallmark Family
 http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Cable TV" streamId="57" channel-number="57",HBO East
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Cable TV" streamId="57" channel-number="57"D| HBO East
 http://fl2.moveonjoy.com/HBO/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO2 East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Cable TV" streamId="58" channel-number="58",HBO2 East
+#EXTINF:-1 tvg-id="HBO2.us" tvg-name="HBO2 East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="Cable TV" streamId="58" channel-number="58"D| HBO2 East
 http://fl2.moveonjoy.com/HBO_2/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO Comedy East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="Cable TV" streamId="59" channel-number="59",HBO Comedy East
+#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="HBO Comedy East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" group-title="Cable TV" streamId="59" channel-number="59"D| HBO Comedy East
 http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="Cable TV" streamId="60" channel-number="60",HBO Family East
+#EXTINF:-1 tvg-id="HBOFamily.us" tvg-name="HBO Family East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" group-title="Cable TV" streamId="60" channel-number="60"D| HBO Family East
 http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="HBO Zone East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="Cable TV" streamId="61" channel-number="61",HBO Zone East
+#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="HBO Zone East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" group-title="Cable TV" streamId="61" channel-number="61"D| HBO Zone East
 http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="Cable TV" streamId="62" channel-number="62",HGTV East
+#EXTINF:-1 tvg-id="HGTV.us" tvg-name="HGTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" group-title="Cable TV" streamId="62" channel-number="62"D| HGTV East
 http://fl2.moveonjoy.com/HGTV/index.m3u8
 
-#EXTINF:-1 group-title="Cable TV", HGTV (INTL)
+#EXTINF:-1 group-title="Cable TV"D| HGTV (INTL)
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 
-#EXTINF:-1 group-title="Cable TV", HGTV (INTL)(Opt2)
+#EXTINF:-1 group-title="Cable TV"D| HGTV (INTL)(Opt2)
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/hgtv.m3u8
 
-#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="Cable TV" streamId="63" channel-number="63",HLN
+#EXTINF:-1 tvg-id="HLN.us" tvg-name="HLN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" group-title="Cable TV" streamId="63" channel-number="63"D| HLN
 http://fl2.moveonjoy.com/HLN/index.m3u8
 
-#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="ID (Investigation Discovery)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="Cable TV" streamId="64" channel-number="64",ID (Investigation Discovery) East
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="ID (Investigation Discovery)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" group-title="Cable TV" streamId="64" channel-number="64"D| ID (Investigation Discovery) East
 http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 
-#EXTINF:-1 tvg-id="IONTelevision.us" tvg-name="ION" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" group-title="Cable TV" streamId="65" channel-number="65",ION
+#EXTINF:-1 tvg-id="IONTelevision.us" tvg-name="ION" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" group-title="Cable TV" streamId="65" channel-number="65"D| ION
 http://fl2.moveonjoy.com/ION_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true" group-title="Cable TV" streamId="66" channel-number="66",Laff TV
+#EXTINF:-1 tvg-id="Laff.us" tvg-name="Laff TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true" group-title="Cable TV" streamId="66" channel-number="66"D| Laff TV
 http://72.46.118.193/Laff/index.m3u8
 
-#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="Cable TV" streamId="67" channel-number="67",Lifetime East
+#EXTINF:-1 tvg-id="Lifetime.us" tvg-name="Lifetime" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="Cable TV" streamId="67" channel-number="67"D| Lifetime East
 http://fl2.moveonjoy.com/LIFETIME/index.m3u8
 
-#EXTINF:-1 tvg-id="LMN.us" tvg-name="Lifetime Movies Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="Cable TV" streamId="68" channel-number="68",Lifetime Movies Network
+#EXTINF:-1 tvg-id="LMN.us" tvg-name="Lifetime Movies Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" group-title="Cable TV" streamId="68" channel-number="68"D| Lifetime Movies Network
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="Logo.us" tvg-name="Logo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png" group-title="Cable TV" streamId="69" channel-number="69",Logo East
+#EXTINF:-1 tvg-id="Logo.us" tvg-name="Logo" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png" group-title="Cable TV" streamId="69" channel-number="69"D| Logo East
 http://fl3.moveonjoy.com/Logo/index.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-id="MeTVNetwork.us" tvg-name="MeTV East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-us.png?raw=true" group-title="Cable TV" streamId="70" channel-number="70",MeTV
+#EXTINF:-1 tvg-id="MeTVNetwork.us" tvg-name="MeTV East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-us.png?raw=true" group-title="Cable TV" streamId="70" channel-number="70"D| MeTV
 http://fl2.moveonjoy.com/ME_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="Cable TV" streamId="71" channel-number="71",MLB Network
+#EXTINF:-1 tvg-id="MLBNetwork.us" tvg-name="MLB Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" group-title="Cable TV" streamId="71" channel-number="71"D| MLB Network
 http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="MOTORTREND.us" tvg-name="MotorTrend" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" group-title="Cable TV" streamId="72" channel-number="72",MotorTrend
+#EXTINF:-1 tvg-id="MOTORTREND.us" tvg-name="MotorTrend" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" group-title="Cable TV" streamId="72" channel-number="72"D| MotorTrend
 http://fl2.moveonjoy.com/MOTOR_TREND/index.m3u8
 
-#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="Cable TV" streamId="73" channel-number="73",MSNBC
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-name="MSNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" group-title="Cable TV" streamId="73" channel-number="73"D| MSNBC
 http://fl2.moveonjoy.com/MSNBC/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="Cable TV" streamId="74" channel-number="74",MTV East
+#EXTINF:-1 tvg-id="MTV.us" tvg-name="MTV East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="Cable TV" streamId="74" channel-number="74"D| MTV East
 http://fl2.moveonjoy.com/MTV/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV2 East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="Cable TV" streamId="75" channel-number="75",MTV2 East
+#EXTINF:-1 tvg-id="MTV2.us" tvg-name="MTV2 East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="Cable TV" streamId="75" channel-number="75"D| MTV2 East
 http://fl2.moveonjoy.com/MTV_2/index.m3u8
 
-#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV Classic" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-classic-us.png?raw=true" group-title="Cable TV" streamId="76" channel-number="76",MTV Classic
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="MTV Classic" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-classic-us.png?raw=true" group-title="Cable TV" streamId="76" channel-number="76"D| MTV Classic
 http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Cable TV" streamId="79" channel-number="79",National Geographic East
+#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" group-title="Cable TV" streamId="79" channel-number="79"D| National Geographic East
 http://fl2.moveonjoy.com/National_Geographic/index.m3u8
 
-#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="National Geographic Wild" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="Cable TV" streamId="80" channel-number="80",National Geographic Wild
+#EXTINF:-1 tvg-id="NationalGeographicWild.us" tvg-name="National Geographic Wild" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s66804_dark_360w_270h.png" group-title="Cable TV" streamId="80" channel-number="80"D| National Geographic Wild
 http://fl2.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 
-#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="Cable TV" streamId="81" channel-number="81",NBA TV
+#EXTINF:-1 tvg-id="NBAtv.us" tvg-name="NBA TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" group-title="Cable TV" streamId="81" channel-number="81"D| NBA TV
 http://fl2.moveonjoy.com/NBA_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="NBC Golf" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="Cable TV" streamId="83" channel-number="83",NBC Golf
+#EXTINF:-1 tvg-id="GolfChannel.us" tvg-name="NBC Golf" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" group-title="Cable TV" streamId="83" channel-number="83"D| NBC Golf
 http://fl2.moveonjoy.com/GOLF_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="NEWSNATION.us" tvg-name="NewsNation" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" group-title="Cable TV" streamId="84" channel-number="84",NewsNation
+#EXTINF:-1 tvg-id="NEWSNATION.us" tvg-name="NewsNation" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" group-title="Cable TV" streamId="84" channel-number="84"D| NewsNation
 http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
 
-#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="Cable TV" streamId="85" channel-number="85",NFL Network
+#EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="NFL Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" group-title="Cable TV" streamId="85" channel-number="85"D| NFL Network
 http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="Cable TV" streamId="86" channel-number="86",NHL Network
+#EXTINF:-1 tvg-id="NHLNetwork.us" tvg-name="NHL Network" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" group-title="Cable TV" streamId="86" channel-number="86"D| NHL Network
 http://fl2.moveonjoy.com/NHL_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="Cable TV" streamId="87" channel-number="87",Nickelodeon East
+#EXTINF:-1 tvg-id="Nickelodeon.us" tvg-name="Nickelodeon East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="Cable TV" streamId="87" channel-number="87"D| Nickelodeon East
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 
-#EXTINF:-1 tvg-id="NickJr.us" tvg-name="NickJr East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="Cable TV" streamId="88" channel-number="88",NickJr East
+#EXTINF:-1 tvg-id="NickJr.us" tvg-name="NickJr East" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" group-title="Cable TV" streamId="88" channel-number="88"D| NickJr East
 http://fl2.moveonjoy.com/NICK_JR/index.m3u8
 
-#EXTINF:-1 tvg-id="NickMusic.us" tvg-name="NickMusic USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" group-title="Cable TV" streamId="89" channel-number="89",NickMusic USA
+#EXTINF:-1 tvg-id="NickMusic.us" tvg-name="NickMusic USA" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" group-title="Cable TV" streamId="89" channel-number="89"D| NickMusic USA
 http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 
-#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="NickToons" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="Cable TV" streamId="90" channel-number="90",NickToons East
+#EXTINF:-1 tvg-id="Nicktoons.us" tvg-name="NickToons" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="Cable TV" streamId="90" channel-number="90"D| NickToons East
 http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 
-#EXTINF:-1 tvg-id="OprahWinfreyNetwork.us" tvg-name="Oprah Winfrey Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" group-title="Cable TV" streamId="91" channel-number="91",Oprah Winfrey Network (OWN) East
+#EXTINF:-1 tvg-id="OprahWinfreyNetwork.us" tvg-name="Oprah Winfrey Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oprah-winfrey-network-us.png?raw=true" group-title="Cable TV" streamId="91" channel-number="91"D| Oprah Winfrey Network (OWN) East
 http://fl2.moveonjoy.com/OWN/index.m3u8
 
-#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="Cable TV" streamId="92" channel-number="92",Outdoor Channel
+#EXTINF:-1 tvg-id="OutdoorChannel.us" tvg-name="Outdoor Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" group-title="Cable TV" streamId="92" channel-number="92"D| Outdoor Channel
 http://fl2.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="OxygenTrueCrime.us" tvg-name="Oxygen East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" group-title="Cable TV" streamId="93" channel-number="93",Oxygen East
+#EXTINF:-1 tvg-id="OxygenTrueCrime.us" tvg-name="Oxygen East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" group-title="Cable TV" streamId="93" channel-number="93"D| Oxygen East
 http://fl2.moveonjoy.com/OXYGEN/index.m3u8
 
-#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" group-title="Cable TV" streamId="94" channel-number="94",Paramount Network East
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="Paramount Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" group-title="Cable TV" streamId="94" channel-number="94"D| Paramount Network East
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="POP.us" tvg-name="PopTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pop-us.png?raw=true" group-title="Cable TV" streamId="95" channel-number="95",PopTV East
+#EXTINF:-1 tvg-id="POP.us" tvg-name="PopTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pop-us.png?raw=true" group-title="Cable TV" streamId="95" channel-number="95"D| PopTV East
 http://fl3.moveonjoy.com/Pop_TV/index.m3u8
 
-#EXTINF:-1 group-title="Cable TV", Reelz 1
+#EXTINF:-1 group-title="Cable TV"D|  Reelz 1
 https://fl2.moveonjoy.com/REELZ/index.m3u8
 
-#EXTINF:-1 group-title="Cable TV", Reelz 2
+#EXTINF:-1 group-title="Cable TV"D|  Reelz 2
 https://bcovlive-a.akamaihd.net/rc21a8bc6455344c699a06e9220fe2748/us-west-2/5245389775001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Revolt.us" tvg-name="Revolt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/revolt-us.png?raw=true" group-title="Cable TV" streamId="97" channel-number="97",Revolt
+#EXTINF:-1 tvg-id="Revolt.us" tvg-name="Revolt" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/revolt-us.png?raw=true" group-title="Cable TV" streamId="97" channel-number="97"D| Revolt
 http://fl2.moveonjoy.com/REVOLT/index.m3u8
 
-#EXTINF:-1 tvg-id="ParamountpluswithShowtime.us" tvg-name="Showtime" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="Cable TV" streamId="99" channel-number="99",Showtime East
+#EXTINF:-1 tvg-id="ParamountpluswithShowtime.us" tvg-name="Showtime" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" group-title="Cable TV" streamId="99" channel-number="99"D| Showtime East
 http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
 
-#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="Cable TV" streamId="100" channel-number="100",Showtime 2 East
+#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="Showtime 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="Cable TV" streamId="100" channel-number="100"D| Showtime 2 East
 http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
 
-#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="Showtime Extreme East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="Cable TV" streamId="101" channel-number="101",Showtime Extreme East
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="Showtime Extreme East" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="Cable TV" streamId="101" channel-number="101"D| Showtime Extreme East
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 
-#EXTINF:-1 tvg-id="ShowtimeNext(Pacific).us" tvg-name="Showtime Next" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="Cable TV" streamId="102" channel-number="102",Showtime Next
+#EXTINF:-1 tvg-id="ShowtimeNext(Pacific).us" tvg-name="Showtime Next" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" group-title="Cable TV" streamId="102" channel-number="102"D| Showtime Next
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 
-#EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-name="Showtime Women tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="Cable TV" streamId="103" channel-number="103",Showtime Women East
+#EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-name="Showtime Women tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" group-title="Cable TV" streamId="103" channel-number="103"D| Showtime Women East
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
-#EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="Cable TV" streamId="105" channel-number="105",Starz East
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="Starz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" group-title="Cable TV" streamId="105" channel-number="105"D| Starz East
 http://fl2.moveonjoy.com/STARZ/index.m3u8
 
-#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Starz Comedy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" group-title="Cable TV" streamId="106" channel-number="106",Starz Comedy East
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="Starz Comedy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" group-title="Cable TV" streamId="106" channel-number="106"D| Starz Comedy East
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
 
-#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="Starz Edge" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" group-title="Cable TV" streamId="107" channel-number="107",Starz Edge East
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="Starz Edge" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" group-title="Cable TV" streamId="107" channel-number="107"D| Starz Edge East
 http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
 
-#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="Starz Encore" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true" group-title="Cable TV" streamId="108" channel-number="108",Starz Encore East
+#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="Starz Encore" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true" group-title="Cable TV" streamId="108" channel-number="108"D| Starz Encore East
 http://streamsy.online:2999/live/carlosbermudez/oZLRHZHL0z/1468.m3u8
 
-#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="Starz Encore Action" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" group-title="Cable TV" streamId="109" channel-number="109",Starz Encore Action
+#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="Starz Encore Action" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" group-title="Cable TV" streamId="109" channel-number="109"D| Starz Encore Action
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 
-#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="Starz Encore Westerns" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" group-title="Cable TV" streamId="110" channel-number="110",Starz Encore Westerns
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="Starz Encore Westerns" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-westerns-us.png?raw=true" group-title="Cable TV" streamId="110" channel-number="110"D| Starz Encore Westerns
 http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 
-#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="SundanceTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="Cable TV" streamId="111" channel-number="111",SundanceTV
+#EXTINF:-1 tvg-id="SundanceTV.us" tvg-name="SundanceTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" group-title="Cable TV" streamId="111" channel-number="111"D| SundanceTV
 http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
 
-#EXTINF:-1 tvg-id="Syfy.us" tvg-name="SYFY" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="Cable TV" streamId="112" channel-number="112",SYFY East
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="SYFY" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" group-title="Cable TV" streamId="112" channel-number="112"D| SYFY East
 http://fl2.moveonjoy.com/SYFY/index.m3u8
 
-#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="Cable TV" streamId="113" channel-number="113",TBS East
+#EXTINF:-1 tvg-id="TBS.us" tvg-name="TBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" group-title="Cable TV" streamId="113" channel-number="113"D| TBS East
 http://fl1.moveonjoy.com/TBS/index.m3u8
 
-#EXTINF:-1 tvg-id="TurnerClassicMovies.us" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="Cable TV" streamId="114" channel-number="114",TCM (Turner Classic Movies) East
+#EXTINF:-1 tvg-id="TurnerClassicMovies.us" tvg-name="TCM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" group-title="Cable TV" streamId="114" channel-number="114"D| TCM (Turner Classic Movies) East
 http://fl1.moveonjoy.com/TCM/index.m3u8
 
-#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" group-title="Cable TV" streamId="115" channel-number="115",Tennis Channel
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-name="Tennis Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" group-title="Cable TV" streamId="115" channel-number="115"D| Tennis Channel
 http://fl2.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="Cable TV" streamId="116" channel-number="116",TLC (The Learning Channel) East
+#EXTINF:-1 tvg-id="TLC.us" tvg-name="TLC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" group-title="Cable TV" streamId="116" channel-number="116"D| TLC (The Learning Channel) East
 http://fl2.moveonjoy.com/TLC/index.m3u8
 
-#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Cable TV" streamId="117" channel-number="117",TNT East
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" group-title="Cable TV" streamId="117" channel-number="117"D| TNT East
 http://fl2.moveonjoy.com/TNT/index.m3u8
 
-#EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="Cable TV" streamId="118" channel-number="118",truTV East
+#EXTINF:-1 tvg-id="truTV.us" tvg-name="truTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="Cable TV" streamId="118" channel-number="118"D| truTV East
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="TVLand.us" tvg-name="TVLand" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" group-title="Cable TV" streamId="119" channel-number="119",TVLand
+#EXTINF:-1 tvg-id="TVLand.us" tvg-name="TVLand" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" group-title="Cable TV" streamId="119" channel-number="119"D| TVLand
 http://fl2.moveonjoy.com/TV_Land/index.m3u8
 
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Cable TV",USA Network (INTL)
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="USA Network East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Cable TV"D| USA Network (INTL)
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
 
-#EXTINF:-1 tvg-id="TVOne.us" tvg-name="TVOne" tvg-logo="https://seeklogo.com/images/T/tvone-logo-7110EDDE30-seeklogo.com.png" group-title="Cable TV" streamId="120" channel-number="120",TVOne
+#EXTINF:-1 tvg-id="TVOne.us" tvg-name="TVOne" tvg-logo="https://seeklogo.com/images/T/tvone-logo-7110EDDE30-seeklogo.com.png" group-title="Cable TV" streamId="120" channel-number="120"D| TVOne
 http://fl2.moveonjoy.com/TV_ONE/index.m3u8
 
-#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Cable TV" streamId="121" channel-number="121",VH1 East
+#EXTINF:-1 tvg-id="VH1.us" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Cable TV" streamId="121" channel-number="121"D| VH1 East
 http://fl2.moveonjoy.com/VH1/index.m3u8
 
-#EXTINF:-1 tvg-id="Vice.us" tvg-name="Vice" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="Cable TV" streamId="122" channel-number="122",Vice
+#EXTINF:-1 tvg-id="Vice.us" tvg-name="Vice" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" group-title="Cable TV" streamId="122" channel-number="122"D| Vice
 http://fl2.moveonjoy.com/VICELAND/index.m3u8
 
-#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="Weather Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="Cable TV" streamId="123" channel-number="123",Weather Channel
+#EXTINF:-1 tvg-id="TheWeatherChannel.us" tvg-name="Weather Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" group-title="Cable TV" streamId="123" channel-number="123"D| Weather Channel
 http://fl2.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="WeTV.us" tvg-name="WeTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="Cable TV" streamId="124" channel-number="124",WeTV
+#EXTINF:-1 tvg-id="WeTV.us" tvg-name="WeTV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/we-tv-us.png?raw=true" group-title="Cable TV" streamId="124" channel-number="124"D| WeTV
 http://fl1.moveonjoy.com/WE_TV/index.m3u8
 
 ---------------Backup Channels----------------
 
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-6-wpvi-us.png",US ABC (WPVI) Philadelphia
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-6-wpvi-us.png"D| ABC (WPVI) Philadelphia
 http://cord-cutter.net:8080/hq3y4G/234247/121149
 
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="",TNT (East)
+#EXTINF:-1 group-title="Backup Channels" tvg-logo=""D| TNT (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="",TNT (West)
+#EXTINF:-1 group-title="Backup Channels" tvg-logo=""D| TNT (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="",TBS (East)
+#EXTINF:-1 group-title="Backup Channels" tvg-logo=""D| TBS (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="",TBS (West)
+#EXTINF:-1 group-title="Backup Channels" tvg-logo=""D| TBS (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="",TruTV (East)
+#EXTINF:-1 group-title="Backup Channels" tvg-logo=""D| TruTV (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="",TruTV (West)
+#EXTINF:-1 group-title="Backup Channels" tvg-logo=""D| TruTV (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 group-title="Backup Channels" tvg-logo"",DMax (JDM Legends)
+#EXTINF:-1 group-title="Backup Channels" tvg-logo""D| DMax (JDM Legends)
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/dmax.m3u8
 
 
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png",World Fishing Network b1
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png"D| World Fishing Network b1
 http://abcnew.site:8880/29ca11113n01/adsfer3223/30040
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png",World Fishing Network b2
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/world-fishing-network-us.png"D| World Fishing Network b2
 http://abcnew.site:8880/29ca11113n01/adsfer3223/30040
 
 
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/magnolia-network-us.png",Magnolia Network
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/magnolia-network-us.png"D| Magnolia Network
 https://6oclock.xyz:8443/P07k2xZ2Vf/eD3qkH58p6/12762
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/magnolia-network-us.png",Magnolia Network
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/magnolia-network-us.png"D| Magnolia Network
 
