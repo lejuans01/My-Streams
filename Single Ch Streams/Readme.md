@@ -1,4 +1,4 @@
-All m3u files are single play streams.
+All m3u files are single Channel streams.
 
 More Playlists Channels from: ( insolencetvgo )
 https://github.com/InsolenceWillow/insolencetvgo
