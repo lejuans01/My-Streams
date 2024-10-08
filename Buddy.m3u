@@ -400,8 +400,12 @@ http://fl1.moveonjoy.com/WE_TV/index.m3u8
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-6-wpvi-us.png",D| ABC (WPVI) Philadelphia
 http://cord-cutter.net:8080/hq3y4G/234247/121149
 
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="",D| AP
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="",D| Animal Planet
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/ap.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="",D| Cartoon Network
+https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/cn.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="",D| Discovery Channel
+https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/dhd.m3u8
 
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="",D| TNT (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
