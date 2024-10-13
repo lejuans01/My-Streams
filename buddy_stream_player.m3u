@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml.gz"
 
-#EXTINF:-1 group-title="Cable TV" tvg-name="" ,D| Adult Swim (East)
+#EXTINF:-1 group-title="Cable TV" tvg-name="Adult_Swim_East" ,D| Adult Swim (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 group-title="Cable TV" tvg-name="" ,D| Adult Swim (West)
+#EXTINF:-1 group-title="Cable TV" tvg-name="Adult_Swim_West" ,D| Adult Swim (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
 
 #EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="Cable TV" streamId="2" channel-number="2",D| AMC
