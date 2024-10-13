@@ -8,6 +8,6 @@ Must use this raw URL in your player for them to work.
 
 https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/refs/heads/main/insolencetvgo.m3u
 
-Atother File Source.
+More Streams:
 
 https://github.com/tv-noyzkie/streams/tree/main
