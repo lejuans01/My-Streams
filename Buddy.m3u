@@ -118,10 +118,10 @@ http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="DISCOVERY_LIFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="Cable TV" streamId="30" channel-number="30",D| Discovery Life
 http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
-#EXTINF:-1 group-title="Cable TV",D| Discovery Sci (INDIA)
+#EXTINF:-1 group-title="Cable TV" tvg-name="D| Discovery Sci (INDIA)" ,D| Discovery Sci (INDIA)
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/sci.m3u8
 
-#EXTINF:-1 group-title="Cable TV",D| Discovery Turbo (INDIA)
+#EXTINF:-1 group-title="Cable TV" tvg-name="D| Discovery Turbo (INDIA)" ,D| Discovery Turbo (INDIA)
 https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="DISNEY_CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Cable TV" streamId="31" channel-number="31",D| Disney Channel
