@@ -1,5 +1,5 @@
 <html><head><base href="https://freestream.io/">
-  <title>FreeStream - Live TV Channels</title>
+  <title>Free Live TV No Bullshit</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -63,7 +63,7 @@
 </head>
 <body>
   <header>
-    <h1>FreeStream</h1>
+    <h1>FREE TV NO BULLSHIT</h1>
   </header>
   <div class="container">
     <div class="channel-list" id="channelList">
@@ -98,16 +98,21 @@
     for (let line of lines) {
       line = line.trim();
       if (line.startsWith('#EXTINF:')) {
-        const match = line.match(/tvg-logo="([^"]*)".*group-title="([^"]*)".*,(.*)$/);
+        const match = line.match(/,(.*)$/);
         if (match) {
           currentChannel = {
-            name: match[3]
+            name: match[1]
           };
+        } else {
+          console.log('No match for line:', line);
         }
       } else if (line.startsWith('http')) {
         currentChannel.url = line;
         channels.push(currentChannel);
+        console.log('Added channel:', currentChannel);
         currentChannel = {};
+      } else {
+        console.log('Skipping line:', line);
       }
     }
 
@@ -221,5 +226,4 @@
     }
   });
 </script>
-
 </body></html>

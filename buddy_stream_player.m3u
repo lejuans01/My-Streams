@@ -1,5 +1,53 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml.gz"
 
+#EXTINF:-1 group-title="Local TV"  tvg-name="" tvg-logo="https://seeklogo.com/images/A/abc-network-logo-2D91141745-seeklogo.com.png",D| ABC (WPVI) Philadelphia
+http://cord-cutter.net:8080/hq3y4G/234247/121149
+
+#EXTINF:-1 group-title="Local TV"  tvg-name="" ,D| ABC (WABC)
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="Local TV"  tvg-name="" ,D| ABC (WOLO1)
+http://fl3.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="Local TV" tvg-name="" ,D| ABC (WOLO2)
+http://143.244.60.30/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="Local TV" tvg-name="" ,D| ABC (KMIZ)
+https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
+#EXTINF:-1 group-title="Local TV" tvg-name="" ,D| ABC (KTVO)
+https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
+
+#EXTINF:-1 group-title="Local TV" tvg-name="" ,D| CBS (KSMOIND)
+https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
+#EXTINF:-1 group-title="Local TV" tvg-name="" ,D| CBS (KRCG)
+https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
+#EXTINF:-1 group-title="Local TV" tvg-name="" ,D| CBS (KTVO)
+https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
+
+#EXTINF:-1 group-title="Local TV" tvg-name="" ,D| Fox (WDAF)
+https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
+#EXTINF:-1 group-title="Local TV" tvg-name="" ,D| Fox (KYOU)
+https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
+#EXTINF:-1 group-title="Local TV" tvg-name="" ,D| Fox (KQFX)
+https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
+#EXTINF:-1 group-title="Local TV" tvg-name="" ,D| FOX (WFXT1)
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 group-title="Local TV" tvg-name="" ,D| FOX (WFXT2)
+http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
+
+#EXTINF:-1 group-title="Local TV" tvg-name="" ,D| NBC (KOMU)
+https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
+#EXTINF:-1 group-title="Local TV" tvg-name="" ,D| NBC (KSHB)
+https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
+#EXTINF:-1 group-title="Local TV" tvg-name="" ,D| NBC (KYOU)
+https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
+#EXTINF:-1 group-title="Local TV" tvg-name="" ,D| NBC (WNBC)
+http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
+
+#EXTINF:-1 group-title="Local TV" tvg-name="" ,D| CW (KOMU)
+https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
+#EXTINF:-1 group-title="Local TV" tvg-name="" ,D| CW (KYOU)
+https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
+#EXTINF:-1 group-title="Local TV" tvg-name="" ,D| CW (KCWE)
+https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
+
 #EXTINF:-1 group-title="Cable TV" tvg-name="Adult_Swim_East" ,D| Adult Swim (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 
@@ -35,9 +83,6 @@ http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
 
 #EXTINF:-1 tvg-id="Bravo.us" tvg-name="BRAVO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="Cable TV" streamId="17" channel-number="17",D| Bravo
 http://fl2.moveonjoy.com/BRAVO/index.m3u8
-
-#EXTINF:-1 tvg-id="WCBS.us" tvg-name="CBSEAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="Cable TV" streamId="19" channel-number="19",D| CBS (WSBK)
-http://fl2.moveonjoy.com/CBSEAST/index.m3u8
 
 #EXTINF:-1 tvg-id="CineMAX.us" tvg-name="CINEMAX_EAST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Cable TV" streamId="21" channel-number="21",D| Cinemax
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
@@ -378,7 +423,3 @@ https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_356
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="",D| TruTV (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 group-title="Backup Channels" tvg-logo="https://seeklogo.com/images/F/fishing-tourist-sign-logo-5910DC89C3-seeklogo.com.png",D| World Fishing Network (Opt2)
-http://abcnew.site:8880/29ca11113n01/adsfer3223/30040
-
