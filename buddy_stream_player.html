@@ -1,7 +1,7 @@
 <html>
 <head>
 <base href="https://websimcreation.com/">
-<title>WebSim M3U Video Player</title>
+<title>BUDDYTV - TV AND NO BS</title>
 <style>
     body, html {
         margin: 0;
@@ -14,6 +14,7 @@
     .container {
         display: flex;
         height: 100%;
+        overflow: hidden; /* Hide scrollbar */
     }
     .sidebar {
         width: 200px; /* Adjusted width */
@@ -39,7 +40,6 @@
         left: 0;
         width: 100%;
         height: 100%;
-        overflow: hidden; /* Hide scrollbar */
     }
     .channel-item {
         padding: 8px; /* Adjusted padding */
@@ -88,9 +88,9 @@
         <div id="channelList"></div>
     </div>
     <div class="main-content">
-        <h1>WebSim M3U Video Player</h1>
+        <h1>BUDDYTV - TV AND NO BS</h1>
         <div class="video-container">
-            <video id="videoPlayer" controls></video>
+            <video id="videoPlayer" controls autoplay></video> <!-- Added autoplay attribute -->
         </div>
         <h2 id="videoTitle"></h2>
     </div>
