@@ -1,170 +1,171 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<base href="https://websimcreation.com/">
-<title>BUDDYTV - TV AND NO BS</title>
-<style>
-    body, html {
-        margin: 0;
-        padding: 0;
-        height: 100%;
-        font-family: Arial, sans-serif;
-        background-color: #1a1a1a;
-        color: #ffffff;
-    }
-    .container {
-        display: flex;
-        height: 100%;
-        overflow: hidden; /* Hide scrollbar */
-    }
-    .sidebar {
-        width: 200px; /* Adjusted width */
-        background-color: #2a2a2a;
-        overflow-y: auto;
-        padding: 10px; /* Adjusted padding */
-    }
-    .main-content {
-        flex-grow: 1;
-        padding: 10px; /* Adjusted padding */
-        display: flex;
-        flex-direction: column;
-    }
-    .video-container {
-        position: relative;
-        height: calc(100vh - 80px); /* Adjusted height */
-        overflow: hidden;
-        background-color: #000;
-    }
-    #videoPlayer {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-    }
-    .channel-item {
-        padding: 8px; /* Adjusted padding */
-        margin-bottom: 8px; /* Adjusted margin */
-        background-color: #3a3a3a;
-        border-radius: 5px;
-        cursor: pointer;
-        transition: background-color 0.3s;
-    }
-    .channel-item:hover {
-        background-color: #4a4a4a;
-    }
-    h1, h2 {
-        color: #ffffff;
-    }
-    #videoTitle {
-        margin-top: 10px; /* Adjusted margin */
-        font-size: 20px; /* Adjusted font size */
-    }
-    #channelList {
-        max-height: calc(100vh - 80px); /* Adjusted height */
-        overflow-y: auto;
-    }
-    /* Modern scrollbars */
-    ::-webkit-scrollbar {
-        width: 12px;
-    }
-    ::-webkit-scrollbar-track {
-        background: #2a2a2a;
-    }
-    ::-webkit-scrollbar-thumb {
-        background-color: #4a4a4a;
-        border-radius: 10px;
-        border: 3px solid #2a2a2a;
-    }
-    ::-webkit-scrollbar-thumb:hover {
-        background-color: #5a5a5a;
-    }
-</style>
-<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BUDDYTV - TV AND NO BS</title>
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            font-family: Arial, sans-serif;
+            background-color: #1a1a1a;
+            color: #ffffff;
+        }
+        .container {
+            display: flex;
+            height: 100%;
+            overflow: hidden; /* Hide scrollbar */
+        }
+        .sidebar {
+            width: 200px; /* Adjusted width */
+            background-color: #2a2a2a;
+            overflow-y: auto;
+            padding: 10px; /* Adjusted padding */
+        }
+        .main-content {
+            flex-grow: 1;
+            padding: 10px; /* Adjusted padding */
+            display: flex;
+            flex-direction: column;
+        }
+        .video-container {
+            position: relative;
+            height: calc(100vh - 80px); /* Adjusted height */
+            overflow: hidden;
+            background-color: #000;
+        }
+        #videoPlayer {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+        .channel-item {
+            padding: 8px; /* Adjusted padding */
+            margin-bottom: 8px; /* Adjusted margin */
+            background-color: #3a3a3a;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .channel-item:hover {
+            background-color: #4a4a4a;
+        }
+        h1, h2 {
+            color: #ffffff;
+        }
+        #videoTitle {
+            margin-top: 10px; /* Adjusted margin */
+            font-size: 20px; /* Adjusted font size */
+        }
+        #channelList {
+            max-height: calc(100vh - 80px); /* Adjusted height */
+            overflow-y: auto;
+        }
+        /* Modern scrollbars */
+        ::-webkit-scrollbar {
+            width: 12px;
+        }
+        ::-webkit-scrollbar-track {
+            background: #2a2a2a;
+        }
+        ::-webkit-scrollbar-thumb {
+            background-color: #4a4a4a;
+            border-radius: 10px;
+            border: 3px solid #2a2a2a;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background-color: #5a5a5a;
+        }
+    </style>
+    <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 </head>
 <body>
-<div class="container">
-    <div class="sidebar">
-        <h2>Channels</h2>
-        <div id="channelList"></div>
-    </div>
-    <div class="main-content">
-        <h1>BUDDYTV - TV AND NO BS</h1>
-        <div class="video-container">
-            <video id="videoPlayer" controls autoplay></video> <!-- Added autoplay attribute -->
+    <div class="container">
+        <div class="sidebar">
+            <h2>Channels</h2>
+            <div id="channelList"></div>
         </div>
-        <h2 id="videoTitle"></h2>
+        <div class="main-content">
+            <h1>BUDDYTV - TV AND NO BS</h1>
+            <div class="video-container">
+                <video id="videoPlayer" controls autoplay></video>
+            </div>
+            <h2 id="videoTitle"></h2>
+        </div>
     </div>
-</div>
+    <script>
+        let channels = [];
 
-<script>
-let channels = [];
-
-function fetchM3U() {
-    fetch('https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_moveonjoy.m3u')
-        .then(response => response.text())
-        .then(data => parseM3U(data))
-        .catch(error => console.error('Error:', error));
-}
-
-function parseM3U(data) {
-    const lines = data.split('\n');
-    let currentChannel = {};
-
-    for (let line of lines) {
-        if (line.startsWith('#EXTINF:')) {
-            const titleMatch = line.match(/,(.+)/);
-            currentChannel.title = titleMatch ? titleMatch[1].trim() : 'Untitled Channel';
-        } else if (line.trim() !== '' && !line.startsWith('#')) {
-            currentChannel.url = line.trim();
-            channels.push(currentChannel);
-            currentChannel = {};
+        function fetchM3U() {
+            fetch('https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/buddy_stream_player.m3u')
+                .then(response => response.text())
+                .then(data => parseM3U(data))
+                .catch(error => console.error('Error:', error));
         }
-    }
 
-    displayChannels();
-}
+        function parseM3U(data) {
+            const lines = data.split('\n');
+            let currentChannel = {};
 
-function displayChannels() {
-    const channelList = document.getElementById('channelList');
-    channelList.innerHTML = '';
+            for (let line of lines) {
+                if (line.startsWith('#EXTINF:')) {
+                    const titleMatch = line.match(/,(.+)/);
+                    currentChannel.title = titleMatch ? titleMatch[1].trim() : 'Untitled Channel';
+                } else if (line.trim() !== '' && !line.startsWith('#')) {
+                    currentChannel.url = line.trim();
+                    channels.push(currentChannel);
+                    currentChannel = {};
+                }
+            }
 
-    channels.forEach((channel, index) => {
-        const channelItem = document.createElement('div');
-        channelItem.className = 'channel-item';
-        channelItem.textContent = channel.title;
-        channelItem.onclick = () => playChannel(index);
-        channelList.appendChild(channelItem);
-    });
-}
+            displayChannels();
+        }
 
-function playChannel(index) {
-    const channel = channels[index];
-    const videoPlayer = document.getElementById('videoPlayer');
-    const videoTitle = document.getElementById('videoTitle');
+        function displayChannels() {
+            const channelList = document.getElementById('channelList');
+            channelList.innerHTML = '';
 
-    videoTitle.textContent = channel.title;
+            channels.forEach((channel, index) => {
+                const channelItem = document.createElement('div');
+                channelItem.className = 'channel-item';
+                channelItem.textContent = channel.title;
+                channelItem.onclick = () => playChannel(index);
+                channelList.appendChild(channelItem);
+            });
+        }
 
-    if (Hls.isSupported()) {
-        const hls = new Hls();
-        hls.loadSource(channel.url);
-        hls.attachMedia(videoPlayer);
-        hls.on(Hls.Events.MANIFEST_PARSED, function() {
-            videoPlayer.play();
-        });
-    }
-    // For native HLS support (Safari)
-    else if (videoPlayer.canPlayType('application/vnd.apple.mpegurl')) {
-        videoPlayer.src = channel.url;
-        videoPlayer.addEventListener('loadedmetadata', function() {
-            videoPlayer.play();
-        });
-    }
-    else {
-        console.error('This browser does not support HLS playback');
-    }
-}
+        function playChannel(index) {
+            const channel = channels[index];
+            const videoPlayer = document.getElementById('videoPlayer');
+            const videoTitle = document.getElementById('videoTitle');
 
-fetchM3U();
-</script>
+            videoTitle.textContent = channel.title;
+
+            if (Hls.isSupported()) {
+                const hls = new Hls();
+                hls.loadSource(channel.url);
+                hls.attachMedia(videoPlayer);
+                hls.on(Hls.Events.MANIFEST_PARSED, function() {
+                    videoPlayer.play();
+                });
+            }
+            // For native HLS support (Safari)
+            else if (videoPlayer.canPlayType('application/vnd.apple.mpegurl')) {
+                videoPlayer.src = channel.url;
+                videoPlayer.addEventListener('loadedmetadata', function() {
+                    videoPlayer.play();
+                });
+            }
+            else {
+                console.error('This browser does not support HLS playback');
+            }
+        }
+
+        fetchM3U();
+    </script>
 </body>
 </html>
