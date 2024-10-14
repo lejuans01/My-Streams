@@ -100,7 +100,7 @@
 let channels = [];
 
 function fetchM3U() {
-    fetch('https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/buddy_stream_player.m3u')
+    fetch('https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_moveonjoy.m3u')
         .then(response => response.text())
         .then(data => parseM3U(data))
         .catch(error => console.error('Error:', error));
