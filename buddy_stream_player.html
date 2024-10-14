@@ -80,6 +80,16 @@
         ::-webkit-scrollbar-thumb:hover {
             background-color: #5a5a5a;
         }
+        /* Loading indicator */
+        #loadingIndicator {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            display: none;
+            color: #ffffff;
+            font-size: 20px;
+        }
     </style>
     <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 </head>
@@ -93,6 +103,7 @@
             <h1>BUDDYTV - TV AND NO BS</h1>
             <div class="video-container">
                 <video id="videoPlayer" controls autoplay></video>
+                <div id="loadingIndicator">Loading...</div>
             </div>
             <h2 id="videoTitle"></h2>
         </div>
@@ -142,26 +153,38 @@
             const channel = channels[index];
             const videoPlayer = document.getElementById('videoPlayer');
             const videoTitle = document.getElementById('videoTitle');
+            const loadingIndicator = document.getElementById('loadingIndicator');
 
             videoTitle.textContent = channel.title;
+            loadingIndicator.style.display = 'block';
 
             if (Hls.isSupported()) {
                 const hls = new Hls();
                 hls.loadSource(channel.url);
                 hls.attachMedia(videoPlayer);
                 hls.on(Hls.Events.MANIFEST_PARSED, function() {
+                    loadingIndicator.style.display = 'none';
                     videoPlayer.play();
+                });
+                hls.on(Hls.Events.ERROR, function(event, data) {
+                    if (data.fatal) {
+                        loadingIndicator.textContent = 'Failed to load stream';
+                    }
                 });
             }
             // For native HLS support (Safari)
             else if (videoPlayer.canPlayType('application/vnd.apple.mpegurl')) {
                 videoPlayer.src = channel.url;
                 videoPlayer.addEventListener('loadedmetadata', function() {
+                    loadingIndicator.style.display = 'none';
                     videoPlayer.play();
+                });
+                videoPlayer.addEventListener('error', function() {
+                    loadingIndicator.textContent = 'Failed to load stream';
                 });
             }
             else {
-                console.error('This browser does not support HLS playback');
+                loadingIndicator.textContent = 'This browser does not support HLS playback';
             }
         }
 
