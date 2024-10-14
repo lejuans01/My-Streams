@@ -80,161 +80,158 @@
   </div>
 
   <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-<script>
-  const channelList = document.getElementById('channelList');
-  const loading = document.getElementById('loading');
-
-  let currentChannelIndex = -1;
-  let channels = [];
-  let player;
-
-  async function fetchAndParseM3U(url) {
-    const response = await fetch(url);
-    const text = await response.text();
-    const lines = text.split('\n');
-    const channels = [];
-    let currentChannel = {};
-
-    for (let line of lines) {
-      line = line.trim();
-      if (line.startsWith('#EXTINF:')) {
-        const match = line.match(/,(.*)$/);
-        if (match) {
-          currentChannel = {
-            name: match[1]
-          };
+  <script>
+    const channelList = document.getElementById('channelList');
+    const loading = document.getElementById('loading');
+  
+    let currentChannelIndex = -1;
+    let channels = [];
+    let player;
+  
+    async function fetchAndParseM3U(url) {
+      const response = await fetch(url);
+      const text = await response.text();
+      const lines = text.split('\n');
+      const channels = [];
+      let currentChannel = {};
+  
+      for (let line of lines) {
+        line = line.trim();
+        if (line.startsWith('#EXTINF:')) {
+          const match = line.match(/,(.*)$/);
+          if (match) {
+            currentChannel = {
+              name: match[1]
+            };
+          }
+        } else if (line.startsWith('http')) {
+          currentChannel.url = line;
+          channels.push(currentChannel);
+          currentChannel = {};
         }
-      } else if (line.startsWith('http')) {
-        currentChannel.url = line;
-        channels.push(currentChannel);
-        currentChannel = {};
+      }
+  
+      return channels;
+    }
+  
+    async function checkChannel(url) {
+      try {
+        const response = await fetch(url, { method: 'HEAD' });
+        return response.ok;
+      } catch (error) {
+        return false;
       }
     }
-
-    return channels;
-  }
-
-  async function checkChannel(url) {
-    try {
-      const response = await fetch(url, { method: 'HEAD' });
-      return response.ok;
-    } catch (error) {
-      return false;
+  
+    async function loadChannels() {
+      loading.style.display = 'none';
+  
+      for (let i = 0; i < channels.length; i++) {
+        const channel = channels[i];
+        const isWorking = await checkChannel(channel.url);
+        if (isWorking) {
+          const channelItem = document.createElement('div');
+          channelItem.className = 'channel-item';
+          channelItem.innerHTML = `
+            <div class="channel-name">${channel.name}</div>
+          `;
+          channelItem.addEventListener('click', () => {
+            selectChannel(i);
+          });
+          channelList.appendChild(channelItem);
+        }
+      }
     }
-  }
-
-  async function loadChannels() {
-    loading.style.display = 'none';
-
-    for (let i = 0; i < channels.length; i++) {
-      const channel = channels[i];
-      const isWorking = await checkChannel(channel.url);
-      if (isWorking) {
-        const channelItem = document.createElement('div');
-        channelItem.className = 'channel-item';
-        channelItem.innerHTML = `
-          <div class="channel-name">${channel.name}</div>
-        `;
-        channelItem.addEventListener('click', () => {
-          selectChannel(i);
+  
+    function initializeVideoPlayer() {
+      player = videojs('videoPlayer', {
+        fluid: true,
+        aspectRatio: '16:9',
+        html5: {
+          hls: {
+            overrideNative: true,
+            enableLowInitialPlaylist: true,
+            smoothQualityChange: true,
+            handleManifestRedirects: true
+          }
+        }
+      });
+  
+      player.on('error', function() {
+        console.error('Video player error:', player.error());
+      });
+    }
+  
+    async function initializeChannels() {
+      const url = 'https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/buddy_stream_player.m3u';
+      try {
+        channels = await fetchAndParseM3U(url);
+        loadChannels();
+        initializeVideoPlayer();
+  
+        if (!isHlsSupported() && !Hls.isSupported()) {
+          console.warn('HLS is not supported in this browser. Some channels may not play.');
+        }
+      } catch (error) {
+        console.error('Error initializing channels:', error);
+      }
+    }
+  
+    function selectChannel(index) {
+      currentChannelIndex = index;
+      const selectedChannel = channels[index];
+  
+      if (!player) {
+        initializeVideoPlayer();
+      }
+  
+      player.src({
+        type: "application/x-mpegURL",
+        src: selectedChannel.url
+      });
+  
+      player.ready(function() {
+        player.play().catch(error => {
+          console.error('Error playing video:', error);
         });
-        channelList.appendChild(channelItem);
-      } else {
-        console.log(`Channel ${channel.name} is not working.`);
+      });
+  
+      const channelItems = channelList.getElementsByClassName('channel-item');
+      for (let i = 0; i < channelItems.length; i++) {
+        channelItems[i].classList.remove('active');
       }
+      channelItems[index].classList.add('active');
+  
+      channelItems[index].scrollIntoView({ behavior: 'smooth', block: 'nearest' });
     }
-  }
-
-  function initializeVideoPlayer() {
-    player = videojs('videoPlayer', {
-      fluid: true,
-      aspectRatio: '16:9',
-      html5: {
-        hls: {
-          overrideNative: true,
-          enableLowInitialPlaylist: true,
-          smoothQualityChange: true,
-          handleManifestRedirects: true
-        }
-      }
-    });
-
-    player.on('error', function() {
-      console.error('Video player error:', player.error());
-    });
-  }
-
-  async function initializeChannels() {
-    const url = 'https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/buddy_stream_player.m3u';
-    try {
-      channels = await fetchAndParseM3U(url);
-      loadChannels();
-      initializeVideoPlayer();
-
-      if (!isHlsSupported() && !Hls.isSupported()) {
-        console.warn('HLS is not supported in this browser. Some channels may not play.');
-      }
-    } catch (error) {
-      console.error('Error initializing channels:', error);
+  
+    function isHlsSupported() {
+      const video = document.createElement('video');
+      return video.canPlayType('application/vnd.apple.mpegurl') !== '';
     }
-  }
-
-  function selectChannel(index) {
-    currentChannelIndex = index;
-    const selectedChannel = channels[index];
-
-    if (!player) {
-      initializeVideoPlayer();
-    }
-
-    player.src({
-      type: "application/x-mpegURL",
-      src: selectedChannel.url
-    });
-
-    player.ready(function() {
-      player.play().catch(error => {
-        console.error('Error playing video:', error);
+  
+    initializeChannels();
+  
+    channelList.addEventListener('wheel', (e) => {
+      e.preventDefault();
+      channelList.scrollBy({
+        top: e.deltaY,
+        behavior: 'smooth'
       });
     });
-
-    const channelItems = channelList.getElementsByClassName('channel-item');
-    for (let i = 0; i < channelItems.length; i++) {
-      channelItems[i].classList.remove('active');
-    }
-    channelItems[index].classList.add('active');
-
-    channelItems[index].scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-  }
-
-  function isHlsSupported() {
-    const video = document.createElement('video');
-    return video.canPlayType('application/vnd.apple.mpegurl') !== '';
-  }
-
-  initializeChannels();
-
-  channelList.addEventListener('wheel', (e) => {
-    e.preventDefault();
-    channelList.scrollBy({
-      top: e.deltaY,
-      behavior: 'smooth'
+  
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowUp') {
+        e.preventDefault();
+        if (currentChannelIndex > 0) {
+          selectChannel(currentChannelIndex - 1);
+        }
+      } else if (e.key === 'ArrowDown') {
+        e.preventDefault();
+        if (currentChannelIndex < channels.length - 1) {
+          selectChannel(currentChannelIndex + 1);
+        }
+      }
     });
-  });
-
-  document.addEventListener('keydown', (e) => {
-    if (e.key === 'ArrowUp') {
-      e.preventDefault();
-      if (currentChannelIndex > 0) {
-        selectChannel(currentChannelIndex - 1);
-      }
-    } else if (e.key === 'ArrowDown') {
-      e.preventDefault();
-      if (currentChannelIndex < channels.length - 1) {
-        selectChannel(currentChannelIndex + 1);
-      }
-    }
-  });
-</script>
-
-</body></html>
+  </script>
+  </body></html>
