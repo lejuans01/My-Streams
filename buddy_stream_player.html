@@ -103,36 +103,46 @@
           currentChannel = {
             name: match[1]
           };
-        } else {
-          console.log('No match for line:', line);
         }
       } else if (line.startsWith('http')) {
         currentChannel.url = line;
         channels.push(currentChannel);
-        console.log('Added channel:', currentChannel);
         currentChannel = {};
-      } else {
-        console.log('Skipping line:', line);
       }
     }
 
     return channels;
   }
 
-  function loadChannels() {
+  async function checkChannel(url) {
+    try {
+      const response = await fetch(url, { method: 'HEAD' });
+      return response.ok;
+    } catch (error) {
+      return false;
+    }
+  }
+
+  async function loadChannels() {
     loading.style.display = 'none';
 
-    channels.forEach((channel, index) => {
-      const channelItem = document.createElement('div');
-      channelItem.className = 'channel-item';
-      channelItem.innerHTML = `
-        <div class="channel-name">${channel.name}</div>
-      `;
-      channelItem.addEventListener('click', () => {
-        selectChannel(index);
-      });
-      channelList.appendChild(channelItem);
-    });
+    for (let i = 0; i < channels.length; i++) {
+      const channel = channels[i];
+      const isWorking = await checkChannel(channel.url);
+      if (isWorking) {
+        const channelItem = document.createElement('div');
+        channelItem.className = 'channel-item';
+        channelItem.innerHTML = `
+          <div class="channel-name">${channel.name}</div>
+        `;
+        channelItem.addEventListener('click', () => {
+          selectChannel(i);
+        });
+        channelList.appendChild(channelItem);
+      } else {
+        console.log(`Channel ${channel.name} is not working.`);
+      }
+    }
   }
 
   function initializeVideoPlayer() {
@@ -226,4 +236,5 @@
     }
   });
 </script>
+
 </body></html>
