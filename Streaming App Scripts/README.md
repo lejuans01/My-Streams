@@ -1,4 +1,4 @@
-# ⚠️ Host this on google scripts.
+# ⚠️ Host this on google scripts: [https://script.google.com](https://script.google.com)
 
 # Pluto, Samsung, Stirr, Plex, PBS and Roku Playlist (M3U8)
 
