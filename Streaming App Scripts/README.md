@@ -57,7 +57,7 @@ Use one of the following options in the `sort` parameter to specify how you want
 
 ### How to Add the Script to Your Google Account (code.gs)
 
-Go <a href="https://script.google.com/home/start" target="_blank">here</a> and click the "New Project" button in the upper left corner. Then, copy the script from <a href="https://github.com/dtankdempse/free-iptv-channels/blob/main/code.gs" target="_blank">code.gs</a> and paste it into the script editor. Once done, deploy the script.
+Go <a href="https://script.google.com/home/start" target="_blank">here</a> and click the "New Project" button in the upper left corner. Then, copy the script from <a href="https://github.com/BuddyChewChew/My-Streams/blob/main/Streaming%20App%20Scripts/code.gs" target="_blank">code.gs</a> and paste it into the script editor. Once done, deploy the script.
 
 Follow this video tutorial to learn how to deploy a Google Apps Script:
 
