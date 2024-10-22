@@ -75,4 +75,4 @@ To use the script, you need to add the `region` and `service` parameters at the 
 
 Simply replace `region=us` and `service=Plex` with the appropriate region and service values from the available parameters listed above.
 
-**Tip:** For a cleaner and more concise URL, consider using a URL shortener like [bit.ly.com](https://bit.ly.com) and appending the necessary parameters at the end.
+**Tip:** For a cleaner and more concise URL, consider using a URL shortener like [bit.ly.com](https://bitly.com/) and appending the necessary parameters at the end.
