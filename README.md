@@ -13,11 +13,3 @@ https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml.gz (Compres
 https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
 
 
-# Streaming Playlists
-https://tinyurl.com/multiservice21?region=all&service=SamsungTVPlus
-
-https://tinyurl.com/multiservice21?region=all&service=Plex
-
-https://tinyurl.com/multiservice21?region=all&service=PlutoTV
-
-https://tinyurl.com/multiservice21?region=all&service=Stirr
