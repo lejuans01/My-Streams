@@ -1,4 +1,4 @@
-Run this on google scripts.
+# ⚠️ Host this on google scripts.
 
 # Pluto, Samsung, Stirr, Plex, PBS and Roku Playlist (M3U8)
 
@@ -75,4 +75,4 @@ To use the script, you need to add the `region` and `service` parameters at the 
 
 Simply replace `region=us` and `service=Plex` with the appropriate region and service values from the available parameters listed above.
 
-**Tip:** For a cleaner and more concise URL, consider using a URL shortener like [tinyurl.com](https://tinyurl.com/) and appending the necessary parameters at the end.
+**Tip:** For a cleaner and more concise URL, consider using a URL shortener like [bit.ly.com](bit.ly.com) and appending the necessary parameters at the end.
