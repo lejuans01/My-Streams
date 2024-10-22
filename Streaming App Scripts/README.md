@@ -10,8 +10,6 @@ Use the following URL to access the hosted script. Replace the `ADD_REGION` and 
 
 After customizing the URL by replacing the ADD_REGION and ADD_SERVICE placeholders with your desired region and service (e.g., us for the US region and Pluto for the service), copy the complete URL and paste it into the "Add Playlist" or "M3U8 URL" section of your IPTV application. Once added, the app will load both the channels and the guide information
 
-# ⚠️ Host this on google scripts: [https://script.google.com](https://script.google.com)
-
 **⚠️ Please note:** It is recommended to add the Google Apps Script to your own Google account or deploy the script to one of the other services, rather than relying on this publicly shared URL long-term.
 
 ### Available Service Parameter Values
@@ -54,6 +52,8 @@ Use one of the following options in the `sort` parameter to specify how you want
 
 - `chno`:  
   Sorts the channels by their assigned channel number.
+
+  # ⚠️ Host this on google scripts: [https://script.google.com](https://script.google.com)
 
 ### How to Add the Script to Your Google Account (code.gs)
 
