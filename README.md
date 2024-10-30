@@ -1,6 +1,6 @@
 # BUDDYCHEWCHEW LINKS
 
-# Streaming Sites
+# STREAMING SITES:
 https://fmhy.pages.dev/videopiracyguide#live-tv--sports
 
 # EPGS:
