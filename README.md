@@ -10,6 +10,8 @@ Site: https://epgshare01.online/epgshare01
 
 Site: https://github.com/acidjesuz/EPGTalk
 
+Site: https://github.com/matthuisman/i.mjh.nz/ For streaming sites: Plex, SamsungTVPlus, Pluto, Stirr, Roku and more.
+
 https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz (Compressed)
 
 https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz (Local CH) (Compressed)
