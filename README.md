@@ -7,14 +7,11 @@ https://fmhy.pages.dev/videopiracyguide#live-tv--sports
 
 # M3U PLAYLISTS:
 
-Playlist Sites:
-https://github.com/tv-noyzkie/streams/tree/main
+Site: https://github.com/tv-noyzkie/streams/tree/main
 
-https://github.com/InsolenceWillow/insolencetvgo
+Site: https://github.com/InsolenceWillow/insolencetvgo
 
-Playlists:
-
-https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/refs/heads/main/insolencetvgo.m3u
+Playlists: https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/refs/heads/main/insolencetvgo.m3u
 
 # EPGS:
 Site https://www.bevy.be/epg-guide/
