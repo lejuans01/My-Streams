@@ -3,7 +3,7 @@
 # Streaming Sites
 https://fmhy.pages.dev/videopiracyguide#live-tv--sports
 
-# Good Epgs
+# EPGS:
 Site https://www.bevy.be/epg-guide/
 
 Site: https://github.com/matthuisman/i.mjh.nz/ For streaming sites: Plex, SamsungTVPlus, Pluto, Stirr, Roku and more.
