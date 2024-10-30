@@ -23,6 +23,7 @@ Choose one of the following services to include in the `service` parameter:
 - PBS
 - PBSKids
 - Stirr
+- Tubi
 
 ### Available Region Parameter Values
 
