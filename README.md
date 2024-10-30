@@ -1,6 +1,6 @@
 # BUDDYCHEWCHEW LINKS
 
-A list of links for: Streaming Sites, Epgs and M3u playlists (Comming Soon). Check out "Google Script And Install Info". If you would like to host your own version of the (Pluto, Samsung, Stirr, Plex, PBS, Tubi and Roku Playlist (M3U8)) script. You can use it in your own IPTV Player.
+⚠️ A list of links for: Streaming Sites, Epgs and M3u playlists (Comming Soon). Check out "Google Script And Install Info". If you would like to host your own version of the (Pluto, Samsung, Stirr, Plex, PBS, Tubi and Roku Playlist (M3U8)) script. You can use it in your own IPTV Player.
 
 # STREAMING SITES:
 https://fmhy.pages.dev/videopiracyguide#live-tv--sports
