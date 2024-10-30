@@ -5,7 +5,7 @@ A list of links for: Streaming Sites, Epgs and M3u playlists (Comming Soon). Che
 # STREAMING SITES:
 https://fmhy.pages.dev/videopiracyguide#live-tv--sports
 
-# M3U PLAYLISTS:
+# M3U PLAYLIST:
 
 Site: https://github.com/tv-noyzkie/streams/tree/main
 
