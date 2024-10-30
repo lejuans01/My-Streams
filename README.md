@@ -17,3 +17,5 @@ https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz
 https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
 
 https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml.gz (Compressed)
+
+DUMMY CHANNELS: https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz
