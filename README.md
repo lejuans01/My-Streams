@@ -16,8 +16,6 @@ https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz (Local CH) (Co
 
 https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz (Cable CH) (Compressed)
 
-https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml
-
 https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml.gz (Compressed)
 
 DUMMY CHANNELS: https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz (Compressed)
