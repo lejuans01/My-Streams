@@ -12,12 +12,12 @@ Site: https://github.com/acidjesuz/EPGTalk
 
 Site: https://github.com/matthuisman/i.mjh.nz/ For streaming sites: Plex, SamsungTVPlus, Pluto, Stirr, Roku and more.
 
-https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz (Compressed)
+(Compressed) https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
 
-https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz (Local CH) (Compressed)
+(Compressed) https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz (Local CH)
 
-https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz (Cable CH) (Compressed)
+(Compressed) https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz (Cable CH)
 
-https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml.gz (Compressed)
+(Compressed) https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml.gz
 
-DUMMY CHANNELS: https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz (Compressed)
+(Compressed) https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz :DUMMY CHANNELS:
