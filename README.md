@@ -1,11 +1,11 @@
 # BUDDYCHEWCHEW LINKS
 
-A list of links for streaming sites, Epgs and M3u playlists (Comming Soon).
+A list of links for: Streaming Sites, Epgs and M3u playlists (Comming Soon).
 
 # STREAMING SITES:
 https://fmhy.pages.dev/videopiracyguide#live-tv--sports
 
-# M3U PLAYKISTS:
+# M3U PLAYLISTS:
 
 # EPGS:
 Site https://www.bevy.be/epg-guide/
