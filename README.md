@@ -8,6 +8,8 @@ Site https://www.bevy.be/epg-guide/
 
 Site: https://epgshare01.online/epgshare01
 
+Site: https://github.com/acidjesuz/EPGTalk
+
 https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz (Compressed)
 
 https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz (Local CH) (Compressed)
