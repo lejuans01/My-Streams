@@ -17,7 +17,7 @@ Site: https://github.com/InsolenceWillow/insolencetvgo
 
 Playlists: https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/refs/heads/main/insolencetvgo.m3u
 
-# ➡ EPGS:
+# EPGS:
 Site https://www.bevy.be/epg-guide/
 
 Site: https://github.com/matthuisman/i.mjh.nz/ For streaming sites: Plex, SamsungTVPlus, Pluto, Stirr, Roku and more.
