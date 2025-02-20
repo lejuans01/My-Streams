@@ -46,6 +46,7 @@ https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
 ----------------- Cable TV ----------------------
 #EXTINF:-1 group-title="Cable TV" ,D| Adult Swim (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+
 #EXTINF:-1 group-title="Cable TV" ,D| Adult Swim (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
 
@@ -103,20 +104,11 @@ http://fl2.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Cable TV" streamId="28" channel-number="28",D| Discovery Channel
 http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 
-#EXTINF:-1 group-title="Cable TV" tvg-name="D| Discovery Channel (INDIA)",D| Discovery Channel (INDIA)
-https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
-
 #EXTINF:-1 tvg-id="DiscoveryFamilyChannel.us" tvg-name="DISCOVERY_FAMILY_CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" group-title="Cable TV" streamId="29" channel-number="29",D| Discovery Family
 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryLifeChannel.us" tvg-name="DISCOVERY_LIFE" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" group-title="Cable TV" streamId="30" channel-number="30",D| Discovery Life
 http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
-
-#EXTINF:-1 group-title="Cable TV" tvg-name="D| Discovery Sci (INDIA)" ,D| Discovery Sci (INDIA)
-https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/sci.m3u8
-
-#EXTINF:-1 group-title="Cable TV" tvg-name="D| Discovery Turbo (INDIA)" ,D| Discovery Turbo (INDIA)
-https://varun-iptv.netlify.app/m3u/Discovery_Turbo.m3u8
 
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="DISNEY_CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Cable TV" streamId="31" channel-number="31",D| Disney Channel
 http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
@@ -147,9 +139,6 @@ http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="FoodNetwork.us" tvg-name="FOOD_NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" group-title="Cable TV" streamId="42" channel-number="42",D| Food Network
 http://fl2.moveonjoy.com/FOOD_NETWORK/index.m3u8
-
-#EXTINF:-1 group-title="Cable TV",D| Food Network (INDIA)
-https://varun-iptv.netlify.app/m3u/Food Network.m3u8
 
 #EXTINF:-1 tvg-id="WNYW.us" tvg-name="FOX_EAST" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10212_dark_360w_270h.png" group-title="Cable TV" streamId="43" channel-number="43",D| FOX (WFXT)
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
