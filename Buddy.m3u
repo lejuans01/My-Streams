@@ -464,29 +464,18 @@ FUSE - https://streamer1.nexgen.bz//FUSE/index.m3u8
 HALLMARK - https://streamer1.nexgen.bz//HALLMARK/index.m3u8
 BRAVO https://streamer1.nexgen.bz/BRAVO/index.m3u8
 TRUTV - https://streamer1.nexgen.bz//TRUTV/index.m3u8
-FOOD - https://streamer1.nexgen.bz//FOOD/index.m3u8
+
 SYFY - https://streamer1.nexgen.bz//SYFY/index.m3u8
 ATN - https://tx2.nexgen.bz:4000//ATN/index.m3u8
 AXN - https://tx2.nexgen.bz:4000//AXN/index.m3u8
 BET - https://tx2.nexgen.bz:4000//BET/index.m3u8
-CARTOON - https://tx2.nexgen.bz:4000//CARTOON/index.m3u8
-COOKING - https://tx2.nexgen.bz:4000//COOKING/index.m3u8
-HGTV - https://tx2.nexgen.bz:4000//HGTV/index.m3u8
 ESPN - https://tx2.nexgen.bz:4000//ESPN/index.m3u8
 LIFETIME - https://tx2.nexgen.bz:4000//LIFETIME/index.m3u8
 MTV - https://tx2.nexgen.bz:4000//MTV/index.m3u8
 BYU - https://tx2.nexgen.bz:4000//BYU/index.m3u8
 CBC - https://tx2.nexgen.bz:4000//CBC/index.m3u8
-NICKELODEON - https://tx2.nexgen.bz:4000//NICKELODEON/index.m3u8
 OUTDOOR - https://tx2.nexgen.bz:4000//OUTDOOR/index.m3u8
 VH1 - https://tx2.nexgen.bz:4000//VH1/index.m3u8
-TNT - https://tx2.nexgen.bz:4000//TNT/index.m3u8
-TBS - TBN - https://tx2.nexgen.bz:4000//TBN/index.m3u8
-TBS - https://tx2.nexgen.bz:4000//TBS/index.m3u8
-TCM - https://tx2.nexgen.bz:4000//TCM/index.m3u8
-TNT - https://tx2.nexgen.bz:4000//TNT/index.m3u8
-SYFY `but it may be USA`- https://tx2.nexgen.bz:4000//SYFY/index.m3u8
-FOX - https://tx2.nexgen.bz:4000//FOX/index.m3u8
 GET - https://tx2.nexgen.bz:4000//GET/index.m3u8
 HTV - https://tx2.nexgen.bz:4000//HTV/index.m3u8
 LMN - https://tx2.nexgen.bz:4000//LMN/index.m3u8
@@ -498,11 +487,12 @@ WGN - https://tx2.nexgen.bz:4000//WGN/index.m3u8
 VH1 - https://tx2.nexgen.bz:4000//VH1/index.m3u8
 ESPN - https://tx2.nexgen.bz:4000//ESPN/index.m3u8
 ESPN2 - https://tx2.nexgen.bz:4000//ESPN2/index.m3u8
-PARAMOUNT - https://tx2.nexgen.bz:4000//PARAMOUNT/index.m3u8
-SYFY - https://tx2.nexgen.bz:4000//SYFY/index.m3u8
-CARTOON - https://tx2.nexgen.bz:4000//CARTOON/index.m3u8
-HGTV - https://tx2.nexgen.bz:4000//HGTV/index.m3u8
-HISTORY - https://tx2.nexgen.bz:4000//HISTORY/index.m3u8
 
-#EXTINF:-1 group-title="MORE" ,D| HGTV
-https://tx2.nexgen.bz:4000//HGTV/index.m3u8
+#EXTINF:-1 group-title="Backup Channels" ,D| FOOD
+https://streamer1.nexgen.bz//FOOD/index.m3u8
+#EXTINF:-1 group-title="Backup Channels" ,D| NICKELODEON
+https://tx2.nexgen.bz:4000//NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="Backup Channels" ,D| PARAMOUNT
+https://tx2.nexgen.bz:4000//PARAMOUNT/index.m3u8
+#EXTINF:-1 group-title="Backup Channels" ,D| CARTOON
+https://tx2.nexgen.bz:4000//CARTOON/index.m3u8
