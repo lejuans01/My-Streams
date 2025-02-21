@@ -373,13 +373,19 @@ http://fl1.moveonjoy.com/WE_TV/index.m3u8
 
 ---------------Backup Channels----------------
 
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="",D| HGTV
+https://streamer1.nexgen.bz/HGTV/index.m3u8
 
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="",D| TNT (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="",D| TNT
+https://streamer1.nexgen.bz/TNT/index.m3u8
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="",D| TNT (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="",D| TBS (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="",D| TBS
+https://streamer1.nexgen.bz/TBS/index.m3u8
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="",D| TBS (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="",D| TruTV (East)
@@ -388,10 +394,14 @@ https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_356
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Backup Channels" ,D| FOOD
 https://streamer1.nexgen.bz//FOOD/index.m3u8
+#EXTINF:-1 group-title="Backup Channels" ,D| USA NETWORK
+https://streamer1.nexgen.bz/USA/index.m3u8
 #EXTINF:-1 group-title="Backup Channels" ,D| NICKELODEON
 https://tx2.nexgen.bz:4000//NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="Backup Channels" ,D| Paramount Network
+https://tx2.nexgen.bz:4000/PARAMOUNT/index.m3u8
 #EXTINF:-1 group-title="Backup Channels" ,D| PARAMOUNT
-https://tx2.nexgen.bz:4000//PARAMOUNT/index.m3u8
+https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8
 #EXTINF:-1 group-title="Backup Channels" ,D| CARTOON
 https://tx2.nexgen.bz:4000//CARTOON/index.m3u8
 
@@ -400,16 +410,9 @@ https://tx2.nexgen.bz:4000//CARTOON/index.m3u8
 
 # American Channels
 VH1 https://streamer1.nexgen.bz/VH1/index.m3u8
-TNT https://streamer1.nexgen.bz/TNT/index.m3u8
-HGTV https://streamer1.nexgen.bz/HGTV/index.m3u8
-Food Network https://streamer1.nexgen.bz/FOOD/index.m3u8
 MTV https://streamer1.nexgen.bz/MTV/index.m3u8
-USA Network https://streamer1.nexgen.bz/USA/index.m3u8
-TBS https://streamer1.nexgen.bz/TBS/index.m3u8
 Bravo https://streamer1.nexgen.bz/BRAVO/index.m3u8
 BET https://streamer1.nexgen.bz/BET/index.m3u8
-Nickelodeon https://tx2.nexgen.bz:4000/NICKELODEON/index.m3u8
-Paramount Network https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8
 LifeTime Movie Network https://streamer1.nexgen.bz/LMN/index.m3u8
 FX - https://streamer1.nexgen.bz//FX/index.m3u8
 AMC - https://streamer1.nexgen.bz//AMC/index.m3u8
@@ -431,7 +434,10 @@ USA - https://streamer1.nexgen.bz//USA/index.m3u8
 HBO2 - https://streamer1.nexgen.bz//HBO2/index.m3u8
 CINEMAX - https://streamer1.nexgen.bz//CINEMAX/index.m3u8
 VH1 - https://streamer1.nexgen.bz//VH1/index.m3u8
+
 HGTV - https://streamer1.nexgen.bz//HGTV/index.m3u8
+
+
 LIFETIME - https://streamer1.nexgen.bz//LIFETIME/index.m3u8
 DISCOVERY - https://streamer1.nexgen.bz//DISCOVERY/index.m3u8
 HISTORY - https://streamer1.nexgen.bz//HISTORY/index.m3u8
