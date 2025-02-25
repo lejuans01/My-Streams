@@ -17,6 +17,9 @@ Site: https://github.com/InsolenceWillow/insolencetvgo
 --------------------
 Playlist- https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/refs/heads/main/insolencetvgo.m3u
 
+Playlist- https://bit.ly/moj-m3u8
+
+EPG: https://bit.ly/moj-epg
 
 --------------------
 
