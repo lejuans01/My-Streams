@@ -7,6 +7,7 @@ This script generates an m3u8 playlist from the channels provided by services su
 Use the following URL to access the hosted script. Replace the `ADD_REGION` and `ADD_SERVICE` placeholders with your desired values.
 
 `https://bit.ly.com/multiservice21?region=ADD_REGION&service=ADD_SERVICE`
+
 Exapmle: https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec?region=all&service=SamsungTVPlus
 
 After customizing the URL by replacing the ADD_REGION and ADD_SERVICE placeholders with your desired region and service (e.g., us for the US region and Pluto for the service), copy the complete URL and paste it into the "Add Playlist" or "M3U8 URL" section of your IPTV application. Once added, the app will load both the channels and the guide information
