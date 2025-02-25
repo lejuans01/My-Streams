@@ -2,6 +2,8 @@
 
 This script generates an m3u8 playlist from the channels provided by services such as Pluto, Samsung, Stirr, Plex, PBS, Tubi, and Roku. It is based on the original script created by matthuisman, which can be found at [matthuisman's GitHub repository](https://github.com/matthuisman/i.mjh.nz).
 
+**⚠️ Please note:** It is recommended to add the Google Apps Script to your own Google account or deploy the script to one of the other services, rather than relying on this publicly shared URL long-term.
+
 ### Script Access URL
 
 Use the following URL to access the hosted script. Replace the `ADD_REGION` and `ADD_SERVICE` placeholders with your desired values.
@@ -9,8 +11,6 @@ Use the following URL to access the hosted script. Replace the `ADD_REGION` and 
 Example: `https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec?region=all&service=SamsungTVPlus`
 
 After customizing the URL by replacing the ADD_REGION and ADD_SERVICE placeholders with your desired region and service (e.g., us for the US region and Pluto for the service), copy the complete URL and paste it into the "Add Playlist" or "M3U8 URL" section of your IPTV application. Once added, the app will load both the channels and the guide information
-
-**⚠️ Please note:** It is recommended to add the Google Apps Script to your own Google account or deploy the script to one of the other services, rather than relying on this publicly shared URL long-term.
 
 ### Available Service Parameter Values
 
