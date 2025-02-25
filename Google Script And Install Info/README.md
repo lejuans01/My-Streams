@@ -14,7 +14,7 @@ Go <a href="https://script.google.com/home/start" target="_blank">here</a> and c
 
 Thanks [jeepcook](https://github.com/jeepcook) for editing the script 
 
-Follow this video tutorial to learn how to deploy a Google Apps Script:
+** Follow this video tutorial to learn how to deploy a Google Apps Script:
 
 [How to Deploy a Google Web App](https://www.youtube.com/watch?v=-AlstV1PAaA)
 
