@@ -14,7 +14,12 @@ Site: https://github.com/tv-noyzkie/streams/tree/main
 
 Site: https://github.com/InsolenceWillow/insolencetvgo
 
-Playlists: https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/refs/heads/main/insolencetvgo.m3u
+--------------------
+Playlist: https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/refs/heads/main/insolencetvgo.m3u
+
+Playlist: https://bit.ly/moj-m3u8
+EPG: https://bit.ly/moj-epg
+--------------------
 
 ## ♒ EPGS:
 Site https://www.bevy.be/epg-guide/
