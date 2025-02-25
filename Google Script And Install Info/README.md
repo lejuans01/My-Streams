@@ -4,8 +4,6 @@ This script generates an m3u8 playlist from the channels provided by services su
 
 **⚠️ Please note:** It is recommended to add the Google Apps Script to your own Google account ⚠️
 
- # ⚠️ Host this on google scripts: <a href="https://script.google.com" target="_blank">[google_apps_script](https://script.google.com)</a>
-
 ### How to Add the Script to Your Google Account
 
 Go <a href="https://script.google.com/home/start" target="_blank">here</a> and click the "New Project" button in the upper left corner. Then, copy the script from <a href="https://github.com/BuddyChewChew/My-Streams/blob/main/Google%20Script%20And%20Install%20Info/google_apps_script" target="_blank">google_apps_script</a> and paste it into the script editor. Once done, deploy the script.
