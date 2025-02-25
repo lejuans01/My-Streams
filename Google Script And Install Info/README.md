@@ -66,13 +66,4 @@ Use one of these region codes to specify the region in the `region` parameter:
 - `no` (Norway)
 - `se` (Sweden)
 - `us` (United States)
-
-### Available Sorting Parameter Values (optional)
-
-Use one of the following options in the `sort` parameter to specify how you want to sort the channels:
-
-- `name` (default):  
-  Sorts the channels alphabetically by their name.
-
-- `chno`:  
   Sorts the channels by their assigned channel number.
