@@ -8,8 +8,6 @@ https://fmhy.pages.dev/videopiracyguide#live-tv--sports
 
 ## 📺 M3U PLAYLIST:
 
-Site: https://github.com/tv-noyzkie/streams/tree/main
-
 Site: https://github.com/InsolenceWillow/insolencetvgo
 
 --------------------
