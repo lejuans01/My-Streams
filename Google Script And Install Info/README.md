@@ -39,14 +39,14 @@ After customizing the URL by replacing the ADD_REGION and ADD_SERVICE placeholde
 
 Choose one of the following services to include in the `service` parameter:
 
-- Plex
+- Plex (NOT WORKING)
 - Roku
 - SamsungTVPlus
 - PlutoTV
 - PBS
 - PBSKids
 - Stirr
-- Tubi
+- Tubi (NOT WORKING)
 
 ### Available Region Parameter Values
 
