@@ -8,15 +8,17 @@ https://fmhy.pages.dev/videopiracyguide#live-tv--sports
 
 ## 📺 M3U PLAYLIST:
 
-Site: https://github.com/InsolenceWillow/insolencetvgo
+- https://github.com/InsolenceWillow/insolencetvgo
 
---------------------
+------- MOVEONJOYTV -------
+
 Playlist: https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/refs/heads/main/insolencetvgo.m3u
 
 Playlist: https://bit.ly/moj-m3u8 EPG: https://bit.ly/moj-epg
+
 Playlist: https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/PANGLIMATV_MOVEONJOYTV.m3u
 
---------------------
+------- MOVEONJOYTV -------
 
 ## ♒ EPGS:
 Site https://www.bevy.be/epg-guide/
