@@ -45,14 +45,19 @@ After customizing the URL by replacing the ADD_REGION and ADD_SERVICE placeholde
 
 Choose one of the following services to include in the `service` parameter:
 
-- Plex (NOT WORKING)
-- Roku
+### WORKING PLAYLISTS
+
 - SamsungTVPlus
 - PlutoTV
+- Stirr
+
+### WORKING PLAYLISTS
+
+- Plex
+- Roku
 - PBS
 - PBSKids
-- Stirr
-- Tubi (NOT WORKING)
+- Tubi
 
 ### Available Region Parameter Values
 
