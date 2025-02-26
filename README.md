@@ -4,18 +4,18 @@
 A list of links for: Streaming Sites, Epgs and M3u playlists (Comming Soon). Check out "Google Script And Install Info". If you would like to host your own version of the (Pluto, Samsung, Stirr, Plex, PBS, Tubi and Roku Playlist (M3U8)) script. You can use it in your own IPTV Player.
 
 ## 🌏 STREAMING SITES:
-https://fmhy.pages.dev/videopiracyguide#live-tv--sports
+- https://fmhy.pages.dev/videopiracyguide#live-tv--sports
 
 ## 📺 M3U PLAYLIST:
 
 - https://github.com/InsolenceWillow/insolencetvgo
-- Playlist: https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/refs/heads/main/insolencetvgo.m3u
+- https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/refs/heads/main/insolencetvgo.m3u
 
 ------- MOVEONJOYTV -------
 
-Playlist: https://bit.ly/moj-m3u8 EPG: https://bit.ly/moj-epg
+- Playlist: https://bit.ly/moj-m3u8 EPG: https://bit.ly/moj-epg
 
-Playlist: https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/PANGLIMATV_MOVEONJOYTV.m3u
+- Playlist: https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/PANGLIMATV_MOVEONJOYTV.m3u
 
 ------- MOVEONJOYTV -------
 
