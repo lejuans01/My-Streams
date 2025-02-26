@@ -8,6 +8,7 @@ A list of links for: Streaming Sites, Epgs and M3u playlists (Comming Soon). Che
 
 ## 📺 M3U PLAYLIST:
 
+- https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Buddy.m3u
 - https://github.com/InsolenceWillow/insolencetvgo
 - https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/refs/heads/main/insolencetvgo.m3u
 
