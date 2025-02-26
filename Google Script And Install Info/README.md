@@ -51,7 +51,7 @@ Choose one of the following services to include in the `service` parameter:
 - PlutoTV
 - Stirr
 
-### WORKING PLAYLISTS
+### NON WORKING PLAYLISTS
 
 - Plex
 - Roku
