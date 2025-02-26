@@ -11,13 +11,13 @@ A list of links for: Streaming Sites, Epgs and M3u playlists (Comming Soon). Che
 - https://github.com/InsolenceWillow/insolencetvgo
 - https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/refs/heads/main/insolencetvgo.m3u
 
-------- MOVEONJOYTV -------
+------- MoveOnJoy -------
 
 - Playlist: https://bit.ly/moj-m3u8 EPG: https://bit.ly/moj-epg
 
 - Playlist: https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/PANGLIMATV_MOVEONJOYTV.m3u
 
-------- MOVEONJOYTV -------
+------- MoveOnJoy -------
 
 ## ♒ EPGS:
 Site https://www.bevy.be/epg-guide/
