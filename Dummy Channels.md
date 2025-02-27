@@ -109,10 +109,10 @@ https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.txt
 - Thursday.Night.Football.Dummy.us
 - UEFA.Champions.League.Dummy.us
 - UFC.247.Dummy.us
-UFC.Fight.Pass.Dummy.us
-Virnin.Radio.TV.Dummy.us
-Volleyball.Dummy.us
-WEATHER.dummy.us
-WNBA.dummy.us
-World.Soccer.Dummy.us
+- UFC.Fight.Pass.Dummy.us
+- Virnin.Radio.TV.Dummy.us
+- Volleyball.Dummy.us
+- WEATHER.dummy.us
+- WNBA.dummy.us
+- World.Soccer.Dummy.us
 X-Games.Dummy.us
