@@ -89,26 +89,26 @@ https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.txt
 - Radio.Monte.Carlo.Dummy.us
 - Radio.TV.RDS.Serie.A.Dummy.us
 - RAI.4K.Dummy.us
-Redbull.Dummy.us
-Religious.Dummy.us
-Rugby.Dummy.us
-Scottish.Premiership.Dummy.us
-Scottish.Professional.Football.League.Dummy.us
-Shopping.Dummy.us
-Sky.Store.Premiere.us
-Soccer.Dummy.us
-Sports.Dummy.us
-Sporty.Stuff.TV.Dummy.us
-StarzPlay.Originals.Dummy.us
-Stingray.Music.Dummy.us
-Sunday.Night.Football.Dummy.us
-Tennis.Dummy.us
-Test.Dummy.us
-TgCom24.Dummy.us
-ThrillerTV.Dummy.us
-Thursday.Night.Football.Dummy.us
-UEFA.Champions.League.Dummy.us
-UFC.247.Dummy.us
+- Redbull.Dummy.us
+- Religious.Dummy.us
+- Rugby.Dummy.us
+- Scottish.Premiership.Dummy.us
+- Scottish.Professional.Football.League.Dummy.us
+- Shopping.Dummy.us
+- Sky.Store.Premiere.us
+- Soccer.Dummy.us
+- Sports.Dummy.us
+- Sporty.Stuff.TV.Dummy.us
+- StarzPlay.Originals.Dummy.us
+- Stingray.Music.Dummy.us
+- Sunday.Night.Football.Dummy.us
+- Tennis.Dummy.us
+- Test.Dummy.us
+- TgCom24.Dummy.us
+- ThrillerTV.Dummy.us
+- Thursday.Night.Football.Dummy.us
+- UEFA.Champions.League.Dummy.us
+- UFC.247.Dummy.us
 UFC.Fight.Pass.Dummy.us
 Virnin.Radio.TV.Dummy.us
 Volleyball.Dummy.us
