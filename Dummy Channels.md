@@ -32,25 +32,25 @@ https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.txt
 - Darts.Dummy.us
 - DAZN.Dummy.us
 - Discovery+.Disney+.us
-Discovery+.Dummy.us
-English.Football.League.Dummy.us
-ESPN+.Dummy.us
-ESPN.Play.Dummy.us
-Fishtank.Live.Dummy.us
-FITE.TV.Dummy.us
-Flo.Events.Dummy.us
-Football.Dummy.us
-GaaGo.TV.Dummy.us
-Golf.Dummy.us
-Grande.Fratello.Party.Dummy.us
-Grande.Fratello.Regia.1.Dummy.us
-Grande.Fratello.Regia.2.Dummy.us
-Grande.Fratello.Un'ora.fa.Dummy.us
-HBO.MAX.us
-HULU.us
-Info.Guide.Dummy.us
-ITVX.Dummy.us
-Kids.Dummy.us
+- Discovery+.Dummy.us
+- English.Football.League.Dummy.us
+- ESPN+.Dummy.us
+- ESPN.Play.Dummy.us
+- Fishtank.Live.Dummy.us
+- FITE.TV.Dummy.us
+- Flo.Events.Dummy.us
+- Football.Dummy.us
+- GaaGo.TV.Dummy.us
+- Golf.Dummy.us
+- Grande.Fratello.Party.Dummy.us
+- Grande.Fratello.Regia.1.Dummy.us
+- Grande.Fratello.Regia.2.Dummy.us
+- Grande.Fratello.Un'ora.fa.Dummy.us
+- HBO.MAX.us
+- HULU.us
+- Info.Guide.Dummy.us
+- ITVX.Dummy.us
+- Kids.Dummy.us
 Lazio.Style.Radio.Dummy.us
 Lazio.Style.TV.Dummy.us
 Local.Programming.Dummy.us
