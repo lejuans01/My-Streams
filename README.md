@@ -3,10 +3,10 @@
 >
 A list of links for: Streaming Sites, Epgs and M3u playlists (Comming Soon). Check out <a href="https://github.com/BuddyChewChew/My-Streams/tree/main/Google%20Script%20And%20Install%20Info" target="_blank">Google Script And Install Info</a> If you would like to host your own version of the (Pluto, Samsung, Stirr, Plex, PBS, Tubi and Roku Playlist (M3U8)) script. You can use it in your own IPTV Player.
 
-🌏 STREAMING SITES:
+▶️ STREAMING SITES:
 - https://fmhy.pages.dev/videopiracyguide#live-tv--sports
 
-📺 M3U PLAYLIST:
+▶️ M3U PLAYLIST:
 
 - https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Buddy.m3u
 - https://github.com/InsolenceWillow/insolencetvgo
@@ -14,15 +14,11 @@ A list of links for: Streaming Sites, Epgs and M3u playlists (Comming Soon). Che
 
 ▶️ MOVEONJOY TWO WORKING PLAYLISTS
 
-- Playlist: https://bit.ly/moj-m3u8
+- Playlist: https://bit.ly/moj-m3u8 EPG: https://bit.ly/moj-epg
 
-- EPG: https://bit.ly/moj-epg
+- Playlist: https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/PANGLIMATV_MOVEONJOYTV.m3u EPG: https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml
 
-- Playlist: https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/PANGLIMATV_MOVEONJOYTV.m3u
-
-- EPG: https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml
-
-## ♒ EPGS:
+▶️ EPGS:
 Site https://www.bevy.be/epg-guide/
 
 Site: https://github.com/matthuisman/i.mjh.nz/ For streaming sites: Plex, SamsungTVPlus, Pluto, Stirr, Roku and more.
