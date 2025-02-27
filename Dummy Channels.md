@@ -1,5 +1,5 @@
 [ EPG RIPPER DUMMY CHANNELS ]
-Fill Holes IN your Playlist With No Channel Info.
+Fill Holes In Your Playlist With No Channel Info.
 
 [LINK TO THE EPG]
 https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz
