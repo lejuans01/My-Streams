@@ -19,20 +19,20 @@ A list of links for: Streaming Sites, Epgs and M3u playlists (Comming Soon). Che
 - Playlist: https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/PANGLIMATV_MOVEONJOYTV.m3u EPG: https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml
 
 ▶️ EPGS:
-Site https://www.bevy.be/epg-guide/
+- Site https://www.bevy.be/epg-guide/
 
-Site: https://github.com/matthuisman/i.mjh.nz/ For streaming sites: Plex, SamsungTVPlus, Pluto, Stirr, Roku and more.
+- Site: https://github.com/matthuisman/i.mjh.nz/ For streaming sites: Plex, SamsungTVPlus, Pluto, Stirr, Roku and more.
 
-Site: https://github.com/acidjesuz/EPGTalk
+- Site: https://github.com/acidjesuz/EPGTalk
 
-EPG: (Compressed) https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml.gz
+- EPG: (Compressed) https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml.gz
 
-Site: https://epgshare01.online/epgshare01
+- Site: https://epgshare01.online/epgshare01
 
-EPG: (Compressed) https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
+- EPG: (Compressed) https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
 
-EPG: (Compressed) https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz (Local CH)
+- EPG: (Compressed) https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz (Local CH)
 
-EPG: (Compressed) https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz (Cable CH)
+- EPG: (Compressed) https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz (Cable CH)
 
 EPG: (Compressed) https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz :DUMMY CHANNELS:
