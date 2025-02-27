@@ -7,16 +7,16 @@ https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz
 [CURRENT LIST]
 https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.txt
 
-24.7.Dummy.us
-Adult.Programming.Dummy.us
-Amazon.Programming.Dummy.us
-AMC+.Originals.Dummy.us
-Apple.TV+.Originals.Dummy.us
-AUS.Rules.Football.Dummy.us
-Barstool.Sports.Dummy.us
-Baseball.Dummy.us
-Basketball.Dummy.us
-BBC.World.News.Dummy.us
+- 24.7.Dummy.us
+- Adult.Programming.Dummy.us
+- Amazon.Programming.Dummy.us
+- AMC+.Originals.Dummy.us
+- Apple.TV+.Originals.Dummy.us
+- AUS.Rules.Football.Dummy.us
+- Barstool.Sports.Dummy.us
+- Baseball.Dummy.us
+- Basketball.Dummy.us
+- BBC.World.News.Dummy.us
 Beisbol.LMP.Dummy.us
 BIG.10.us
 BilliardTV.Dummy.us
