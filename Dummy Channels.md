@@ -70,25 +70,25 @@ https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.txt
 - NCAA.Baseball.Dummy.us
 - NCAA.Football.Dummy.us
 - NCAA.Mens.Basketball.Dummy.us
-NCAA.Softball.Dummy.us
-NCAA.Womens.Basketball.Dummy.us
-Netflix.Dummy.us
-NEWS.dummy.us
-NFL.Dummy.us
-NHL.Hockey.Dummy.us
-No.Game.Dummy.Scheduled.us
-Olympics.Dummy.us
-Paramount+.Originals.Dummy.us
-Peacock.Dummy.us
-Pluto.TV.Dummy.us
-PPV.EVENTS.Dummy.us
-Premier.League.Dummy.us
-R101.Dummy.us
-Racing.Dummy.us
-Radio.105.Dummy.us
-Radio.Monte.Carlo.Dummy.us
-Radio.TV.RDS.Serie.A.Dummy.us
-RAI.4K.Dummy.us
+- NCAA.Softball.Dummy.us
+- NCAA.Womens.Basketball.Dummy.us
+- Netflix.Dummy.us
+- NEWS.dummy.us
+- NFL.Dummy.us
+- NHL.Hockey.Dummy.us
+- No.Game.Dummy.Scheduled.us
+- Olympics.Dummy.us
+- Paramount+.Originals.Dummy.us
+- Peacock.Dummy.us
+- Pluto.TV.Dummy.us
+- PPV.EVENTS.Dummy.us
+- Premier.League.Dummy.us
+- R101.Dummy.us
+- Racing.Dummy.us
+- Radio.105.Dummy.us
+- Radio.Monte.Carlo.Dummy.us
+- Radio.TV.RDS.Serie.A.Dummy.us
+- RAI.4K.Dummy.us
 Redbull.Dummy.us
 Religious.Dummy.us
 Rugby.Dummy.us
