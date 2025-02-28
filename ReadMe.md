@@ -11,14 +11,6 @@
 - https://fmhy.pages.dev/videopiracyguide#live-tv--sports (Bunch Of Links To Streaming Sites And Info)
 
 ▶️ M3U PLAYLIST:
-- https://github.com/InsolenceWillow/insolencetvgo (Multiple Playlists)
-- Playlist: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Buddy.m3u
-- Playlist: https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/refs/heads/main/insolencetvgo.m3u
-- Playlist: `MoveOnJoy` https://bit.ly/moj-m3u8 EPG: https://bit.ly/moj-epg
-- Playlist: `MoveOnJoy` https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/PANGLIMATV_MOVEONJOYTV.m3u EPG: https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml
-- Playlist: `tvpass` https://tvpass.org/playlist/m3u
-
-▶️ EPGS:
 - Site https://www.bevy.be/epg-guide/
 - Site: https://github.com/matthuisman/i.mjh.nz/ For streaming sites: Plex, SamsungTVPlus, Pluto, Stirr, Roku and more.
 - Site: https://github.com/acidjesuz/EPGTalk
