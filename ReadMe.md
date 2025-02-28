@@ -7,10 +7,10 @@
 > [!TIP]
 > Check out <a href="https://github.com/BuddyChewChew/My-Streams/tree/main/Google%20Script%20And%20Install%20Info" target="_blank">Google Script And Install Info</a> If you would like to host your own version of the (Pluto, Samsung, Stirr, Plex, PBS, Tubi and Roku Playlist (M3U8) script. You can use it in your own IPTV Player. `Pluto, Samsung, Stirr` are the only playlists working right now.
 
-▶️ STREAMING SITES LINKS:
+<ins>STREAMING SITES LINKS</ins>
 - https://fmhy.pages.dev/videopiracyguide#live-tv--sports Streaming Sites And Info
 
-▶️ M3U PLAYLIST:
+<ins>M3U PLAYLIST</ins>
 - Site: https://github.com/InsolenceWillow/insolencetvgo Multiple Playlists
 - Playlist: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Buddy.m3u
 - Playlist: https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/refs/heads/main/insolencetvgo.m3u
@@ -19,7 +19,7 @@
 - Playlist: `tvpass` https://tvpass.org/playlist/m3u
 
 
-▶️ EPGS:
+<ins>EPGS</ins>
 - Site: https://www.bevy.be/epg-guide/
 - Site: https://github.com/acidjesuz/EPGTalk
 - Site: https://epgshare01.online/epgshare01
