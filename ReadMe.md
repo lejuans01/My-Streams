@@ -24,7 +24,7 @@
 - Site: https://github.com/acidjesuz/EPGTalk
 - Site: https://epgshare01.online/epgshare01
 
-- 
+
 - EPG: (Compressed) https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
 - EPG: (Compressed) https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz (Local CH)
 - EPG: (Compressed) https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz (Cable CH)
