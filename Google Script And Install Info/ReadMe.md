@@ -2,11 +2,11 @@
 >
 >
 
-***Pluto, Samsung, Stirr, Plex, PBS, Tubi and Roku Playlist***
+## Pluto, Samsung, Stirr, Plex, PBS, Tubi and Roku Playlist
 
 This script generates an m3u8 playlist from the channels provided by services such as Pluto, Samsung, Stirr, Plex, PBS, Tubi, and Roku. It is based on the original script created by matthuisman, which can be found at [matthuisman's GitHub repository](https://github.com/matthuisman/i.mjh.nz).
 
-Pluto, Samsung, Stirr only are the playlists working right now.
+***Pluto, Samsung, Stirr only are the playlists working right now.***
 
 **⚠️ Please note:** It is recommended to add the Google Apps Script to your own Google account ⚠️
 
