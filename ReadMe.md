@@ -9,6 +9,7 @@
 
 <ins>STREAMING SITES LINKS</ins>
 - https://fmhy.pages.dev/videopiracyguide#live-tv--sports Streaming Sites And Info
+- https://github.com/iptv-org/awesome-iptv A curated list of resources related to IPTV
 
 <ins>M3U PLAYLIST</ins>
 - Site: https://apsattv.com/streams.html Multiple Playlists
