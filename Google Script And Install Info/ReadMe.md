@@ -7,9 +7,6 @@
 
 This script generates an m3u8 playlist from the channels provided by services such as Pluto, Samsung, Stirr, Plex, PBS, Tubi, and Roku. It is based on the original script created by matthuisman, which can be found at [matthuisman's GitHub repository](https://github.com/matthuisman/i.mjh.nz). `Pluto, Samsung, Stirr` are the only playlists working right now.
 
-> [!TIP]
-> Please note: It is recommended to add the Google Apps Script to your own Google account
-
 ### How to Add the Script to Your Google Account
 
 Go <a href="https://script.google.com/home/start" target="_blank">here</a> and click the "New Project" button in the upper left corner. Then, copy the script from <a href="https://github.com/BuddyChewChew/My-Streams/blob/main/Google%20Script%20And%20Install%20Info/google_apps_script" target="_blank">google_apps_script</a> and paste it into the script editor. Once done, deploy the script.
