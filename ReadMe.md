@@ -3,9 +3,9 @@
 >
 ## A list of links for: Streaming Sites, Epgs and M3u playlists. 
 
-`Check out <a href="https://github.com/BuddyChewChew/My-Streams/tree/main/Google%20Script%20And%20Install%20Info" target="_blank">Google Script And Install Info</a> If you would like to host your own version of the (Pluto, Samsung, Stirr, Plex, PBS, Tubi and Roku Playlist (M3U8) script. You can use it in your own IPTV Player. 
+` Check out <a href="https://github.com/BuddyChewChew/My-Streams/tree/main/Google%20Script%20And%20Install%20Info" target="_blank">Google Script And Install Info</a> If you would like to host your own version of the (Pluto, Samsung, Stirr, Plex, PBS, Tubi and Roku Playlist (M3U8) script. You can use it in your own IPTV Player. 
 
-Pluto, Samsung, Stirr only are the playlists working right now.`
+Pluto, Samsung, Stirr only are the playlists working right now. `
 
 ▶️ STREAMING SITES LINKS:
 - https://fmhy.pages.dev/videopiracyguide#live-tv--sports (Bunch Of Links To Streaming Sites And Info)
