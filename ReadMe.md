@@ -11,6 +11,7 @@
 - https://fmhy.pages.dev/videopiracyguide#live-tv--sports Streaming Sites And Info
 
 <ins>M3U PLAYLIST</ins>
+- Site: https://apsattv.com/streams.html Multiple Playlists
 - Site: https://github.com/InsolenceWillow/insolencetvgo Multiple Playlists
 - Playlist: https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/refs/heads/main/insolencetvgo.m3u
 - Playlist: `MoveOnJoy` https://bit.ly/moj-m3u8  EPG: https://bit.ly/moj-epg
