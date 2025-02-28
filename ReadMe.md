@@ -19,13 +19,13 @@
 - Playlist: `tvpass` https://tvpass.org/playlist/m3u
 
 ▶️ EPGS:
-- Site https://www.bevy.be/epg-guide/
-- Site: https://github.com/matthuisman/i.mjh.nz/ For streaming sites: Plex, SamsungTVPlus, Pluto, Stirr, Roku and more.
-- Site: https://github.com/acidjesuz/EPGTalk
+- Site https://www.bevy.be/epg-guide/  
+- Site: https://github.com/matthuisman/i.mjh.nz/ For streaming sites: Plex, SamsungTVPlus, Pluto, Stirr, Roku and more.  
+- Site: https://github.com/acidjesuz/EPGTalk  
 - Site: https://epgshare01.online/epgshare01
 
-
-- EPG: (Compressed) https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
-- EPG: (Compressed) https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz (Local CH)
+- 
+- EPG: (Compressed) https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz  
+- EPG: (Compressed) https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz (Local CH)  
 - EPG: (Compressed) https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz (Cable CH)
-- EPG: (Compressed) https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz :DUMMY CHANNELS:
+- EPG: (Compressed) https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz :DUMMY CHANNELS:  
