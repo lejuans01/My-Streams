@@ -19,7 +19,6 @@
 - Playlist: `MoveOnJoy` https://github.com/iptv-org/iptv/blob/master/streams/us_moveonjoy.m3u
 - Playlist: `MoveOnJoy` https://bit.ly/moj-m3u8  EPG: https://bit.ly/moj-epg
 - Playlist: `MoveOnJoy` https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/PANGLIMATV_MOVEONJOYTV.m3u  EPG: https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml
-- Playlist: `MyPlaylist` https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Buddy.m3u
 
 
 <ins>EPGS</ins>
