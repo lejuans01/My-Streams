@@ -11,8 +11,8 @@
 - https://github.com/iptv-org/awesome-iptv A curated list of resources related to IPTV
 
 <ins>M3U PLAYLIST</ins>
-- Playlists: `iptv-org` https://github.com/iptv-org/iptv
-- Playlists: `apsattv` https://apsattv.com/streams.html
+- Multiple Playlists: `iptv-org` https://github.com/iptv-org/iptv
+- Multiple Playlists: `apsattv` https://apsattv.com/streams.html
 >
 - Playlist: `adultswim` https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_adultswim.m3u
 - Playlist: `tvpass` https://tvpass.org/playlist/m3u
