@@ -13,14 +13,12 @@
 <ins>M3U PLAYLIST</ins>
 - Multiple Playlists: `iptv-org` https://github.com/iptv-org/iptv
 - Multiple Playlists: `apsattv` https://apsattv.com/streams.html
-- Multiple Playlists: `insolencetvgo` https://github.com/InsolenceWillow/insolencetvgo
-- Playlist: `insolencetvgo` https://raw.githubusercontent.com/InsolenceWillow/insolencetvgo/refs/heads/main/insolencetvgo.m3u
+- Playlist: `MyPlaylist` https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Buddy.m3u
+- Playlist: `adultswim` https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_adultswim.m3u
 - Playlist: `MoveOnJoy` https://github.com/iptv-org/iptv/blob/master/streams/us_moveonjoy.m3u
+- Playlist: `tvpass` https://tvpass.org/playlist/m3u
 - Playlist: `MoveOnJoy` https://bit.ly/moj-m3u8  EPG: https://bit.ly/moj-epg
 - Playlist: `MoveOnJoy` https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/PANGLIMATV_MOVEONJOYTV.m3u  EPG: https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml
-- Playlist: `tvpass` https://tvpass.org/playlist/m3u
-- Playlist: `adultswim` https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_adultswim.m3u
-- Playlist: `MyPlaylist` https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Buddy.m3u
 
 
 <ins>EPGS</ins>
