@@ -285,7 +285,7 @@ function handleStirr(sort) {
     Logger.log('Error fetching or processing Stirr data: ' + error.stack);
     return handleError('Error fetching Stirr data: ' + error.message);
   }
-  let output = `#EXTM3U url-tvg="https://i.mjh.nz/Stirr/all.xml.gz"\n`;
+  let output = `#EXTM3U url-tvg="https://github.com/matthuisman/i.mjh.nz/raw/refs/heads/master/Stirr/all.xml.gz"\n`;
   let channels = data.channels || {};
   const sortedChannelIds = Object.keys(channels).sort((a, b) => {
     const channelA = channels[a];
@@ -319,7 +319,7 @@ function handleTubi(service) {
     };
     const response = UrlFetchApp.fetch(playlistUrl, options);
     data = response.getContentText();
-    let epgUrl = 'https://raw.githubusercontent.com/dtankdempse/tubi-m3u/refs/heads/main/tubi_epg_us.xml';
+    let epgUrl = 'https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml';
     let output = `#EXTM3U url-tvg="${epgUrl}"\n`;
     output += data;
     return ContentService.createTextOutput(output).setMimeType(ContentService.MimeType.TEXT);
