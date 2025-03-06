@@ -3,18 +3,14 @@
 >
 >
 
-## Pluto, Samsung, Stirr, ~~Plex~~, ~~PBS~~, ~~Tubi~~ and ~~Roku~~ Playlist
-
+## Pluto, Samsung, Stirr, Plex & Tubi
 This script generates an m3u8 playlist from the channels provided by services such as Pluto, Samsung, Stirr, Plex, PBS, Tubi, and Roku. It is based on the original script created by matthuisman, which can be found at [matthuisman's GitHub repository](https://github.com/matthuisman/i.mjh.nz). 
-
-> [!NOTE]
-> `Pluto, Samsung, Stirr` are the only playlists working right now.
 
 ### How to Add the Script to Your Google Account
 
 Go <a href="https://script.google.com/home/start" target="_blank">here</a> and click the "New Project" button in the upper left corner. Then, copy the script from <a href="https://github.com/BuddyChewChew/My-Streams/blob/main/Google%20Script%20And%20Install%20Info/google_apps_script" target="_blank">google_apps_script</a> and paste it into the script editor. Once done, deploy the script.
 
-> Thanks [jeepcook](https://github.com/jeepcook) for editing the script 
+> Thanks [jeepcook](https://github.com/jeepcook) for editing some of the script and GROK AI for the rest.
 
 ### Follow this video tutorial to learn how to deploy a Google Apps Script:
 
@@ -50,21 +46,23 @@ Choose one of the following services to include in the `service` parameter:
 ### WORKING PLAYLISTS
 
 - SamsungTVPlus
+- Plex
 - PlutoTV
+- Tubi
 - Stirr
 
 ### NON WORKING PLAYLISTS
 
-- ~~ ~~Plex~~ ~~
-- ~~ ~~Roku~~ ~~
 - ~~ ~~PBS~~ ~~
 - ~~ ~~PBSKids~~ ~~
-- ~~ ~~Tubi~~ ~~
 
 ### Available Region Parameter Values
 
 Use one of these region codes to specify the region in the `region` parameter:
 
+> [!Note]
+
+Not All region codes work with every stream. I would just use `all` or `us`.
 - `all` (for all regions)
 - `ar` (Argentina)
 - `br` (Brazil)
