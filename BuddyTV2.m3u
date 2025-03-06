@@ -2,7 +2,7 @@
 
 # TVPass Channels
 #EXTINF:-1 tvg-id="tvpass-channel-1" tvg-name="TVPass Channel 1" group-title="TVPass", TVPass Channel 1
-http://stream1.tvpass.org/live/stream1.m3u8
+https://raw.githubusercontent.com/PyC7aM/IPTV/refs/heads/main/USTV.m3u8
 
 #EXTINF:-1 tvg-id="tvpass-channel-2" tvg-name="TVPass Channel 2" group-title="TVPass", TVPass Channel 2
 http://stream2.tvpass.org/live/stream2.m3u8
