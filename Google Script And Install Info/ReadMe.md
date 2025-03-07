@@ -28,7 +28,7 @@ Once deployed, you will get a URL similar to:
 
 To use the script, you need to add the `region` and `service` parameters at the end of the URL.
 
-Example: `https://script.google.com/macros/s/...gwlprM_Kn10kT7LGk/exec?region=us&service=Plex`
+Example: `https://script.google.com/macros/s/...gwlprM_Kn10kT7LGk/exec?region=All&service=Plex`
 
 Simply replace `region=us` and `service=Plex` with the appropriate region and service values from the available parameters listed above.
 
@@ -39,7 +39,7 @@ Simply replace `region=us` and `service=Plex` with the appropriate region and se
 
 Use the following URL to access the hosted script. Replace the `ADD_REGION` and `ADD_SERVICE` placeholders with your desired values.
 
-Example: `https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec?region=all&service=SamsungTVPlus`
+Example: `https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec?region=all&service=Plex`
 
 After customizing the URL by replacing the ADD_REGION and ADD_SERVICE placeholders with your desired region and service (e.g., us for the US region and Pluto for the service), copy the complete URL and paste it into the "Add Playlist" or "M3U8 URL" section of your IPTV application. Once added, the app will load both the channels and the guide information
 
