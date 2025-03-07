@@ -18,7 +18,7 @@ Go <a href="https://script.google.com/home/start" target="_blank">here</a> and c
 
 ## Follow this video tutorial to learn how to deploy a Google Apps Script:
 
-[How to Deploy a Google Web App](https://www.youtube.com/watch?v=-AlstV1PAaA)
+[How to Deploy a Google Web App]{https://rumble.com/v6qaofu-streaming-apps-script-install-instructions.html?mref=z8mk6&mc=2335k)
 
 During the deployment process, make sure to select **"Anyone"** for the "Who has access" option, so the app can access the URL and load without requiring authentication.
 
