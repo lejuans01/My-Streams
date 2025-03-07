@@ -18,9 +18,10 @@ Go <a href="https://script.google.com/home/start" target="_blank">here</a> and c
 
 ## Follow this video tutorial to learn how to deploy a Google Apps Script:
 
-[How to Deploy a Google Web App](Rumble_Thumb.png)
+[How to Deploy a Google Web App](https://rumble.com/v6qaofu-streaming-apps-script-install-instructions.html?mref=z8mk6&mc=2335k)
 
-![Streaming Apps Script - Install instructions](https://github.com/BuddyChewChew/My-Streams/blob/main/Rumble_Thumb.png)
+<a href="[https://rumble.com/v6qaofu-streaming-apps-script-install-instructions.html?mref=z8mk6&mc=2335k]" title="video text"><img src="[https://github.com/BuddyChewChew/My-Streams/blob/main/Rumble_Thumb.png]" width="270" height="480"></a>
+
 During the deployment process, make sure to select **"Anyone"** for the "Who has access" option, so the app can access the URL and load without requiring authentication.
 
 Once deployed, you will get a URL similar to:
