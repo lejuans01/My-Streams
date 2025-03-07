@@ -11,16 +11,15 @@
 # Pluto, Samsung, Stirr, Plex & Tubi
 This script generates an m3u8 playlist from the channels provided by services such as Pluto, Samsung, Stirr, Plex, and Tubi. It is based on the original script created by matthuisman, which can be found at [matthuisman's GitHub repository](https://github.com/matthuisman/i.mjh.nz). 
 
-## How to Add the Script to Your Google Account
-
-Go <a href="https://script.google.com/home/start" target="_blank">here</a> and click the "New Project" button in the upper left corner. Then, copy the script from <a href="https://github.com/BuddyChewChew/My-Streams/blob/main/Google%20Script%20And%20Install%20Info/google_apps_script" target="_blank">google_apps_script</a> and paste it into the script editor. Once done, deploy the script.
-
-
 ## Follow this video tutorial to learn how to deploy a Google Apps Script:
 
 [How to Deploy a Google Web App](https://rumble.com/v6qaofu-streaming-apps-script-install-instructions.html?mref=z8mk6&mc=2335k)
 
 <a href="https://rumble.com/v6qaofu-streaming-apps-script-install-instructions.html?mref=z8mk6&mc=2335k" title="PLAY VIDEO"><img src="https://github.com/BuddyChewChew/My-Streams/blob/main/Rumble_Thumb.png" width="480" height="280"></a>
+
+## How to Add the Script to Your Google Account
+
+Go <a href="https://script.google.com/home/start" target="_blank">here</a> and click the "New Project" button in the upper left corner. Then, copy the script from <a href="https://github.com/BuddyChewChew/My-Streams/blob/main/Google%20Script%20And%20Install%20Info/google_apps_script" target="_blank">google_apps_script</a> and paste it into the script editor. Once done, deploy the script.
 
 During the deployment process, make sure to select **"Anyone"** for the "Who has access" option, so the app can access the URL and load without requiring authentication.
 
