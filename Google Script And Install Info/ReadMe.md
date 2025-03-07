@@ -28,7 +28,7 @@ Once deployed, you will get a URL similar to:
 
 To use the script, you need to add the `region` and `service` parameters at the end of the URL.
 
-Example: `https://script.google.com/macros/s/...gwlprM_Kn10kT7LGk/exec?region=All&service=Plex`
+Example: `https://script.google.com/macros/s/...gwlprM_Kn10kT7LGk/exec?region=all&service=Plex`
 
 Simply replace `region=us` and `service=Plex` with the appropriate region and service values from the available parameters listed above.
 
