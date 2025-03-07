@@ -14,11 +14,11 @@
 - Multiple Playlists: `iptv-org` https://github.com/iptv-org/iptv
 - Multiple Playlists: `apsattv` https://apsattv.com/streams.html
 >
-- Playlist: `adultswim` https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_adultswim.m3u
-- Playlist: `tvpass` https://tvpass.org/playlist/m3u
-- Playlist: `MoveOnJoy` https://github.com/iptv-org/iptv/blob/master/streams/us_moveonjoy.m3u
-- Playlist: `MoveOnJoy` https://bit.ly/moj-m3u8  EPG: https://bit.ly/moj-epg
-- Playlist: `MoveOnJoy` https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/PANGLIMATV_MOVEONJOYTV.m3u  EPG: https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml
+- `adultswim` https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_adultswim.m3u
+- `tvpass` https://tvpass.org/playlist/m3u
+- `MoveOnJoy` https://github.com/iptv-org/iptv/blob/master/streams/us_moveonjoy.m3u
+- `MoveOnJoy` https://bit.ly/moj-m3u8  EPG: https://bit.ly/moj-epg
+- `MoveOnJoy` https://raw.githubusercontent.com/onyxplayott/OnyxPlayOTT-VODTV/refs/heads/IPTV-Leader/PANGLIMATV_MOVEONJOYTV.m3u  EPG: https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml
 
 
 <ins>EPGS</ins>
