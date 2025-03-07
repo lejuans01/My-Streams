@@ -20,7 +20,7 @@ Go <a href="https://script.google.com/home/start" target="_blank">here</a> and c
 
 [How to Deploy a Google Web App](https://rumble.com/v6qaofu-streaming-apps-script-install-instructions.html?mref=z8mk6&mc=2335k)
 
-<a href="[https://rumble.com/v6qaofu-streaming-apps-script-install-instructions.html?mref=z8mk6&mc=2335k]" title="video text"><img src="[https://github.com/BuddyChewChew/My-Streams/blob/main/Rumble_Thumb.png]" width="270" height="480"></a>
+<a href="https://rumble.com/v6qaofu-streaming-apps-script-install-instructions.html?mref=z8mk6&mc=2335k" title="video text"><img src="https://github.com/BuddyChewChew/My-Streams/blob/main/Rumble_Thumb.png" width="480" height="280"></a>
 
 During the deployment process, make sure to select **"Anyone"** for the "Who has access" option, so the app can access the URL and load without requiring authentication.
 
