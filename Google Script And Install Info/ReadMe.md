@@ -5,10 +5,11 @@
 > [!NOTE]
 > I created a discussion thread [here](https://github.com/BuddyChewChew/My-Streams/issues/3).
 
+
+# Pluto, Samsung, Stirr, Plex & Tubi
 > Thanks [jeepcook](https://github.com/jeepcook) for editing some of the script and GROK AI for the rest.
 >
 > 
-# Pluto, Samsung, Stirr, Plex & Tubi
 This script generates an m3u8 playlist from the channels provided by services such as Pluto, Samsung, Stirr, Plex, and Tubi. It is based on the original script created by matthuisman, which can be found at [matthuisman's GitHub repository](https://github.com/matthuisman/i.mjh.nz). 
 
 ## Follow this video tutorial to learn how to deploy a Google Apps Script:
