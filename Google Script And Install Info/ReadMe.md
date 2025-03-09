@@ -5,8 +5,6 @@
 # Pluto, Samsung, Stirr, Plex & Tubi
 > [!NOTE]
 > I created a discussion thread [here](https://github.com/BuddyChewChew/My-Streams/issues/3).
->
-Thanks [jeepcook](https://github.com/jeepcook) for editing some of the script and GROK AI for the rest.
 
 This script generates an m3u8 playlist from the channels provided by services such as Pluto, Samsung, Stirr, Plex, and Tubi. It is based on the original script created by matthuisman, which can be found at [matthuisman's GitHub repository](https://github.com/matthuisman/i.mjh.nz). 
 
@@ -82,9 +80,11 @@ Use one of these region codes to specify the region in the `region` parameter:
 - `no` (Norway)
 - `se` (Sweden)
 - `us` (United States)
-  Sorts the channels by their assigned channel number.
+  Sorts the channels by their assigned channel number
 
 > [!IMPORTANT]
 > This repository does not host or store any video files. It simply hosts a script that you can copy&paste to self-host on GOOGLE APP SCRIPTS. To the best of our knowledge, the content was intentionally made publicly available by the copyright holders or with their permission and consent granted to these websites to stream and share the content they provide.
 > 
 > Please note that linking does not directly infringe copyright, as no copies are made on this repository or its servers. Therefore, sending a DMCA notice to GitHub or the maintainers of this repository is not a valid course of action. To remove the content from the web, you should contact the website or hosting provider actually hosting the material.
+>
+> Thanks [jeepcook](https://github.com/jeepcook) for editing some of the script and GROK AI for the rest.
