@@ -30,7 +30,8 @@ Example: `https://script.google.com/macros/s/...gwlprM_Kn10kT7LGk/exec?region=al
 
 - Simply replace `region=us` and `service=Plex` with the appropriate region and service values from the available parameters listed above.
 
-**Tip:** For a cleaner and more concise URL, consider using a URL shortener like [bit.ly.com](https://bitly.com/) and appending the necessary parameters at the end.
+> [!TIP]
+> For a cleaner and more concise URL, consider using a URL shortener like [bit.ly.com](https://bitly.com/) and appending the necessary parameters at the end.
 
 
 ## Script Access URL
