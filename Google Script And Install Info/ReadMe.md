@@ -16,19 +16,19 @@ This script generates an m3u8 playlist from the channels provided by services su
 
 ## How to Add the Script to Your Google Account
 
-Go <a href="https://script.google.com/home/start" target="_blank">here</a> and click the "New Project" button in the upper left corner. Then, copy the script from <a href="https://github.com/BuddyChewChew/My-Streams/blob/main/Google%20Script%20And%20Install%20Info/google_apps_script" target="_blank">google_apps_script</a> and paste it into the script editor. Once done, deploy the script.
+- Go <a href="https://script.google.com/home/start" target="_blank">here</a> and click the "New Project" button in the upper left corner. Then, copy the script from <a href="https://github.com/BuddyChewChew/My-Streams/blob/main/Google%20Script%20And%20Install%20Info/google_apps_script" target="_blank">google_apps_script</a> and paste it into the script editor. Once done, deploy the script.
 
-During the deployment process, make sure to select **"Anyone"** for the "Who has access" option, so the app can access the URL and load without requiring authentication.
+- During the deployment process, make sure to select **"Anyone"** for the "Who has access" option, so the app can access the URL and load without requiring authentication.
 
-Once deployed, you will get a URL similar to:
+- Once deployed, you will get a URL similar to:
 
 `https://script.google.com/macros/s/...gwlprM_Kn10kT7LGk/exec`
 
-To use the script, you need to add the `region` and `service` parameters at the end of the URL.
+- To use the script, you need to add the `region` and `service` parameters at the end of the URL.
 
 Example: `https://script.google.com/macros/s/...gwlprM_Kn10kT7LGk/exec?region=all&service=Plex`
 
-Simply replace `region=us` and `service=Plex` with the appropriate region and service values from the available parameters listed above.
+- Simply replace `region=us` and `service=Plex` with the appropriate region and service values from the available parameters listed above.
 
 **Tip:** For a cleaner and more concise URL, consider using a URL shortener like [bit.ly.com](https://bitly.com/) and appending the necessary parameters at the end.
 
