@@ -1,51 +1,51 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/combine-remote-epg/refs/heads/main/combined_epg.xml"
 
-------------------Local TV---------------------------
-#EXTINF:-1 group-title="Local TV" ,D| ABC (WPVI)
+# ------------------Local TV---------------------------
+#EXTINF:-1 group-title="Local TV",D| ABC (WPVI)
 http://cord-cutter.net:8080/hq3y4G/234247/121149
-#EXTINF:-1 group-title="Local TV" ,D| ABC (WABC)
+#EXTINF:-1 group-title="Local TV",D| ABC (WABC)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="Local TV" ,D| ABC (WOLO)
+#EXTINF:-1 group-title="Local TV",D| ABC (WOLO)
 http://fl3.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="Local TV" ,D| ABC (WABC)
+#EXTINF:-1 group-title="Local TV",D| ABC (WABC)
 http://143.244.60.30/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="Local TV" ,D| ABC (KMIZ)
+#EXTINF:-1 group-title="Local TV",D| ABC (KMIZ)
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-#EXTINF:-1 group-title="Local TV" ,D| ABC (KTVO)
+#EXTINF:-1 group-title="Local TV",D| ABC (KTVO)
 https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
-#EXTINF:-1 group-title="Local TV" ,D| CBS (KSMO)
+#EXTINF:-1 group-title="Local TV",D| CBS (KSMO)
 https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
-#EXTINF:-1 group-title="Local TV" ,D| CBS (KRCG)
+#EXTINF:-1 group-title="Local TV",D| CBS (KRCG)
 https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
-#EXTINF:-1 group-title="Local TV" ,D| CBS (KTVO)
+#EXTINF:-1 group-title="Local TV",D| CBS (KTVO)
 https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
-#EXTINF:-1 group-title="Local TV" ,D| Fox (WDAF)
+#EXTINF:-1 group-title="Local TV",D| Fox (WDAF)
 https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
-#EXTINF:-1 group-title="Local TV" ,D| Fox (KYOU)
+#EXTINF:-1 group-title="Local TV",D| Fox (KYOU)
 https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
-#EXTINF:-1 group-title="Local TV" ,D| Fox (KQFX)
+#EXTINF:-1 group-title="Local TV",D| Fox (KQFX)
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
-#EXTINF:-1 group-title="Local TV" ,D| FOX (WNYW) 1
+#EXTINF:-1 group-title="Local TV",D| FOX (WNYW) 1
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="Local TV" ,D| FOX (WNYW) 2
+#EXTINF:-1 group-title="Local TV",D| FOX (WNYW) 2
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="Local TV" ,D| NBC (KOMU)
+#EXTINF:-1 group-title="Local TV",D| NBC (KOMU)
 https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
-#EXTINF:-1 group-title="Local TV" ,D| NBC (KSHB)
+#EXTINF:-1 group-title="Local TV",D| NBC (KSHB)
 https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
-#EXTINF:-1 group-title="Local TV" ,D| NBC (KYOU)
+#EXTINF:-1 group-title="Local TV",D| NBC (KYOU)
 https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
-#EXTINF:-1 group-title="Local TV" ,D| NBC (WNBC)
+#EXTINF:-1 group-title="Local TV",D| NBC (WNBC)
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 group-title="Local TV" ,D| CW (KOMU)
+#EXTINF:-1 group-title="Local TV",D| CW (KOMU)
 https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
-#EXTINF:-1 group-title="Local TV" ,D| CW (KYOU)
+#EXTINF:-1 group-title="Local TV",D| CW (KYOU)
 https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
 
----------------Backup Channels----------------
-#EXTINF:-1 group-title="Backup Channels" ,D| Adult Swim (East)
+# ---------------Backup Channels----------------
+#EXTINF:-1 group-title="Backup Channels",D| Adult Swim (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
-#EXTINF:-1 group-title="Backup Channels" ,D| Adult Swim (West)
+#EXTINF:-1 group-title="Backup Channels",D| Adult Swim (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
 #EXTINF:-1 group-title="Backup Channels" tvg-id="StarzEncore.us" tvg-name="Starz Encore" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-us.png?raw=true" group-title="Cable TV" streamId="108" channel-number="108",D| Starz Encore
 http://streamsy.online:2999/live/carlosbermudez/oZLRHZHL0z/1468.m3u8
@@ -69,28 +69,22 @@ https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_356
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Backup Channels" tvg-logo="",D| TruTV (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Backup Channels" ,D| FOOD
+#EXTINF:-1 group-title="Backup Channels",D| FOOD
 https://streamer1.nexgen.bz//FOOD/index.m3u8
-#EXTINF:-1 group-title="Backup Channels" ,D| USA NETWORK
+#EXTINF:-1 group-title="Backup Channels",D| USA NETWORK
 https://streamer1.nexgen.bz/USA/index.m3u8
-#EXTINF:-1 group-title="Backup Channels" ,D| NICKELODEON
-https://tx2.nexgen.bz:4000//NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="Backup Channels" ,D| Paramount Network
+#EXTINF:-1 group-title="Backup Channels",D| Paramount Network
 https://tx2.nexgen.bz:4000/PARAMOUNT/index.m3u8
-#EXTINF:-1 group-title="Backup Channels" ,D| PARAMOUNT
-https://streamer1.nexgen.bz/PARAMOUNT/index.m3u8
 
 
 
- _____________Have To Test_______________
 
-# American Channels
+# Have To Test
 VH1 https://streamer1.nexgen.bz/VH1/index.m3u8
 MTV https://streamer1.nexgen.bz/MTV/index.m3u8
 Bravo https://streamer1.nexgen.bz/BRAVO/index.m3u8
 BET https://streamer1.nexgen.bz/BET/index.m3u8
 LifeTime Movie Network https://streamer1.nexgen.bz/LMN/index.m3u8
-
 AMC - https://streamer1.nexgen.bz//AMC/index.m3u8
 ATN - https://streamer1.nexgen.bz//ATN/index.m3u8
 AXN - https://streamer1.nexgen.bz//AXN/index.m3u8
@@ -109,11 +103,7 @@ TNT - https://streamer1.nexgen.bz//TNT/index.m3u8
 USA - https://streamer1.nexgen.bz//USA/index.m3u8
 HBO2 - https://streamer1.nexgen.bz//HBO2/index.m3u8
 CINEMAX - https://streamer1.nexgen.bz//CINEMAX/index.m3u8
-VH1 - https://streamer1.nexgen.bz//VH1/index.m3u8
-
 HGTV - https://streamer1.nexgen.bz//HGTV/index.m3u8
-
-
 LIFETIME - https://streamer1.nexgen.bz//LIFETIME/index.m3u8
 DISCOVERY - https://streamer1.nexgen.bz//DISCOVERY/index.m3u8
 HISTORY - https://streamer1.nexgen.bz//HISTORY/index.m3u8
@@ -122,24 +112,10 @@ HALLMARK - https://streamer1.nexgen.bz//HALLMARK/index.m3u8
 BRAVO https://streamer1.nexgen.bz/BRAVO/index.m3u8
 TRUTV - https://streamer1.nexgen.bz//TRUTV/index.m3u8
 usa - https://streamer1.nexgen.bz//SYFY/index.m3u8
-ATN - https://tx2.nexgen.bz:4000//ATN/index.m3u8
-AXN - https://tx2.nexgen.bz:4000//AXN/index.m3u8
-BET - https://tx2.nexgen.bz:4000//BET/index.m3u8
-ESPN - https://tx2.nexgen.bz:4000//ESPN/index.m3u8
 LIFETIME - https://tx2.nexgen.bz:4000//LIFETIME/index.m3u8
 MTV - https://tx2.nexgen.bz:4000//MTV/index.m3u8
-BYU - https://tx2.nexgen.bz:4000//BYU/index.m3u8
-CBC - https://tx2.nexgen.bz:4000//CBC/index.m3u8
 OUTDOOR - https://tx2.nexgen.bz:4000//OUTDOOR/index.m3u8
 VH1 - https://tx2.nexgen.bz:4000//VH1/index.m3u8
 GET - https://tx2.nexgen.bz:4000//GET/index.m3u8
 HTV - https://tx2.nexgen.bz:4000//HTV/index.m3u8
 LMN - https://tx2.nexgen.bz:4000//LMN/index.m3u8
-MLB - https://tx2.nexgen.bz:4000//MLB/index.m3u8
-MTV - https://tx2.nexgen.bz:4000//MTV/index.m3u8
-NBA - https://tx2.nexgen.bz:4000//NBA/index.m3u8
-NFL - https://tx2.nexgen.bz:4000//NFL/index.m3u8
-WGN - https://tx2.nexgen.bz:4000//WGN/index.m3u8
-VH1 - https://tx2.nexgen.bz:4000//VH1/index.m3u8
-ESPN - https://tx2.nexgen.bz:4000//ESPN/index.m3u8
-ESPN2 - https://tx2.nexgen.bz:4000//ESPN2/index.m3u8
