@@ -22,7 +22,7 @@ This script generates an m3u8 playlist from the channels provided by services su
 
 - Once deployed, you will get a URL similar to:
 
-`https://script.google.com/macros/s/...gwlprM_Kn10kT7LGk/exec`
+Example: `https://script.google.com/macros/s/...gwlprM_Kn10kT7LGk/exec`
 
 - To use the script, you need to add the `region` and `service` parameters at the end of the URL.
 
