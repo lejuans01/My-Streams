@@ -83,7 +83,7 @@ Use one of these region codes to specify the region in the `region` parameter:
 - `us` (United States)
   Sorts the channels by their assigned channel number
 
-  If your looking for stand alone playlist for "Pluto, Samsung, Stirr, Plex & Tubi". Go here [iptv-streams](https://github.com/iptv-org/iptv/tree/master/streams) and here for epgs [i.mjh.nz](https://github.com/matthuisman/i.mjh.nz).
+  If your looking for stand alone playlist .m3u files for "Pluto, Samsung, Stirr, Plex & Tubi". Go here [iptv-streams](https://github.com/iptv-org/iptv/tree/master/streams) and here for .epg files [i.mjh.nz](https://github.com/matthuisman/i.mjh.nz).
 
 > [!IMPORTANT]
 > This repository does not host or store any video files. It simply hosts a script that you can copy&paste to self-host on GOOGLE APP SCRIPTS. To the best of our knowledge, the content was intentionally made publicly available by the copyright holders or with their permission and consent granted to these websites to stream and share the content they provide.
