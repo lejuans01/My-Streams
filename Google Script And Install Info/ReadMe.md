@@ -91,4 +91,4 @@ Use one of these region codes to specify the region in the `region` parameter:
 > Please note that linking does not directly infringe copyright, as no copies are made on this repository or its servers. Therefore, sending a DMCA notice to GitHub or the maintainers of this repository is not a valid course of action. To remove the content from the web, you should contact the website or hosting provider actually hosting the material.
 
 
-Thanks [jeepcook](https://github.com/jeepcook) for editing some of the script and GROK AI for the rest.
+*Thanks [jeepcook](https://github.com/jeepcook) for editing some of the script and GROK AI for the rest.*
