@@ -5,11 +5,11 @@
 ✅ Check out <a href="https://github.com/BuddyChewChew/My-Streams/tree/main/Google%20Script%20And%20Install%20Info" target="_blank">Google Script And Install Info</a> If you would like to host your own version of the (Pluto, Samsung, Stirr, Plex, and Tubi Playlist (M3U8) script. You can use it in your own IPTV Player.
 ## A list of links for: Streaming Sites, Epgs and M3u playlists. 
 
-🔵 STREAMING SITES & LINKS
+🔵 ### STREAMING SITES & LINKS
 - `videopiracyguide` [Link](https://fmhy.pages.dev/videopiracyguide#live-tv--sports) Resources related to IPTV, Streaming and info.
 - `awesome-iptv` [Link](https://github.com/iptv-org/awesome-iptv) A curated list of resources related to IPTV.
 
-🔵 M3U PLAYLIST
+🔵 ### M3U PLAYLIST
 - `iptv-org` [Multiple Playlists](https://github.com/iptv-org/iptv)
 - `apsattv` [Multiple Playlists](https://apsattv.com/streams.html)
 - `adultswim` [Playlist](https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_adultswim.m3u)
@@ -19,7 +19,7 @@
 - `MoveOnJoy` [Playlist](https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_moveonjoy.m3u) | [Epg](https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml)
 
 
-🔵 EPGS
+🔵 ### EPGS
 - `www.bevy.be` [Multiple Epg](https://www.bevy.be/epg-guide/)
 - `acidjesuz` [Multiple Epg](https://github.com/acidjesuz/EPGTalk)
 - `epgshare01` [Multiple Epg](https://epgshare01.online/epgshare01)
