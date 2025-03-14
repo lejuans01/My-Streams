@@ -1,0 +1,78 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/combine-remote-epg/refs/heads/main/combined_epg.xml"
+
+# ------------------Local TV---------------------------
+#EXTINF:-1 group-title="Local TV",BU| ABC (WPVI)
+http://cord-cutter.net:8080/hq3y4G/234247/121149
+#EXTINF:-1 group-title="Local TV",BU| ABC (WABC)
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="Local TV",BU| ABC (WOLO)
+http://fl3.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="Local TV",BU|ABC (WABC)
+http://143.244.60.30/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="Local TV",BU| ABC (KMIZ)
+https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
+#EXTINF:-1 group-title="Local TV",BU| ABC (KTVO)
+https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
+
+#EXTINF:-1 group-title="Local TV",BU| CBS (KSMO)
+https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
+#EXTINF:-1 group-title="Local TV",BU| CBS (KRCG)
+https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
+#EXTINF:-1 group-title="Local TV",BU| CBS (KTVO)
+https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
+
+#EXTINF:-1 group-title="Local TV",BU| CW (KOMU)
+https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
+#EXTINF:-1 group-title="Local TV",BU| CW (KYOU)
+https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
+
+#EXTINF:-1 group-title="Local TV",BU| Fox (WDAF)
+https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
+#EXTINF:-1 group-title="Local TV",BU| Fox (KYOU)
+https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
+#EXTINF:-1 group-title="Local TV",BU| Fox (KQFX)
+https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
+#EXTINF:-1 group-title="Local TV",BU| FOX (WNYW) 1
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+#EXTINF:-1 group-title="Local TV",BU| FOX (WNYW) 2
+http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
+
+#EXTINF:-1 group-title="Local TV",BU| NBC (KOMU)
+https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
+#EXTINF:-1 group-title="Local TV",BU| NBC (KSHB)
+https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
+#EXTINF:-1 group-title="Local TV",BU| NBC (KYOU)
+https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
+#EXTINF:-1 group-title="Local TV",BU| NBC (WNBC)
+http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
+
+# ---------------Backup Channels----------------
+#EXTINF:-1 group-title="Backup Channels",BU| Adult Swim (East)
+https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 group-title="Backup Channels",BU| Adult Swim (West)
+https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
+#EXTINF:-1 group-title="Backup Channels",BU| FOOD
+https://streamer1.nexgen.bz//FOOD/index.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="",BU| FX (SP/EN)
+https://streamer1.nexgen.bz/FX/index.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="",BU| HGTV
+https://streamer1.nexgen.bz/HGTV/index.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="",BU| TBS (East)
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="",BU| TBS
+https://streamer1.nexgen.bz/TBS/index.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="",BU| TBS (West)
+https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="",BU| TNT (East)
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="",BU| TNT
+https://streamer1.nexgen.bz/TNT/index.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="",BU| TNT (West)
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="",BU| TruTV (East)
+https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Backup Channels" tvg-logo="",BU| TruTV (West)
+https://turnerlive.warnermediacdn.com/hls/live/2023178/truwest/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 group-title="Backup Channels",BU| USA NETWORK
+https://streamer1.nexgen.bz/USA/index.m3u8
+
