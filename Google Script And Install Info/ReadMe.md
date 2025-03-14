@@ -38,7 +38,7 @@ This script generates an m3u8 playlist from the channels provided by services su
 
 ## Script Access URL
 
-Use the following URL to access the hosted script. Replace the `ADD_REGION` and `ADD_SERVICE` placeholders with your desired values.
+Use the following URL to access the hosted script. Replace `YOUR_SCRIPT_ID` and `all` and `plex` placeholders with your desired values.
 
 ▶️ Example: `https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec?region=all&service=Plex`
 
