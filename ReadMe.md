@@ -5,7 +5,7 @@
 ✅ Check out <a href="https://github.com/BuddyChewChew/My-Streams/tree/main/Google%20Script%20And%20Install%20Info" target="_blank">Google Script And Install Info</a> If you would like to host your own version of the (Pluto, Samsung, Stirr, Plex, and Tubi Playlist (M3U8) script. You can use it in your own IPTV Player.
 ## A list of links for: Streaming Sites, Epgs and M3u playlists. 
 
-<ins>STREAMING SITES & LINKS</ins>
+🔵 STREAMING SITES & LINKS
 - `videopiracyguide` [Link](https://fmhy.pages.dev/videopiracyguide#live-tv--sports) Resources related to IPTV, Streaming and info.
 - `awesome-iptv` [Link](https://github.com/iptv-org/awesome-iptv) A curated list of resources related to IPTV.
 
