@@ -9,7 +9,7 @@
 - `videopiracyguide` [Link](https://fmhy.pages.dev/videopiracyguide#live-tv--sports) Resources related to IPTV, Streaming and info.
 - `awesome-iptv` [Link](https://github.com/iptv-org/awesome-iptv) A curated list of resources related to IPTV.
 
-🔵 ### M3U PLAYLIST
+### 🔵 M3U PLAYLIST
 - `iptv-org` [Multiple Playlists](https://github.com/iptv-org/iptv)
 - `apsattv` [Multiple Playlists](https://apsattv.com/streams.html)
 - `adultswim` [Playlist](https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_adultswim.m3u)
