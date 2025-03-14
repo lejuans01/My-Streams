@@ -67,7 +67,7 @@ Use one of these region codes to specify the region in the `region` parameter:
 
  `Not All region codes work with every stream. I would just use "all" or "us" for (United States).`
 
-- `all` (for all regions)
+- `all` (for all regions) ✔️
 - `ar` (Argentina)
 - `br` (Brazil)
 - `ca` (Canada)
@@ -80,7 +80,7 @@ Use one of these region codes to specify the region in the `region` parameter:
 - `mx` (Mexico)
 - `no` (Norway)
 - `se` (Sweden)
-- `us` (United States)
+- `us` (United States) ✔️
   Sorts the channels by their assigned channel number
 
 > [!IMPORTANT]
