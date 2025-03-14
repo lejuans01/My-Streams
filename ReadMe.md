@@ -9,7 +9,7 @@
 - `videopiracyguide` [Link](https://fmhy.pages.dev/videopiracyguide#live-tv--sports) Resources related to IPTV, Streaming and info.
 - `awesome-iptv` [Link](https://github.com/iptv-org/awesome-iptv) A curated list of resources related to IPTV.
 
-<ins>M3U PLAYLIST</ins>
+🔵 M3U PLAYLIST
 - `iptv-org` [Multiple Playlists](https://github.com/iptv-org/iptv)
 - `apsattv` [Multiple Playlists](https://apsattv.com/streams.html)
 - `adultswim` [Playlist](https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_adultswim.m3u)
@@ -19,7 +19,7 @@
 - `MoveOnJoy` [Playlist](https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_moveonjoy.m3u) | [Epg](https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml)
 
 
-<ins>EPGS</ins>
+🔵 EPGS
 - `www.bevy.be` [Multiple Epg](https://www.bevy.be/epg-guide/)
 - `acidjesuz` [Multiple Epg](https://github.com/acidjesuz/EPGTalk)
 - `epgshare01` [Multiple Epg](https://epgshare01.online/epgshare01)
