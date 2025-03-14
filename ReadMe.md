@@ -7,8 +7,8 @@
 ## A list of links for: Streaming Sites, Epgs and M3u playlists. 
 
 <ins>STREAMING SITES LINKS</ins>
-- [videopiracyguide](https://fmhy.pages.dev/videopiracyguide#live-tv--sports Streaming Sites And Info) Resources related to IPTV, Streaming and info.
-- [awesome-iptv](https://github.com/iptv-org/awesome-iptv) A curated list of resources related to IPTV.
+- `videopiracyguide` [Link](https://fmhy.pages.dev/videopiracyguide#live-tv--sports) Resources related to IPTV, Streaming and info.
+- `awesome-iptv` [Link](https://github.com/iptv-org/awesome-iptv) A curated list of resources related to IPTV.
 
 <ins>M3U PLAYLIST</ins>
 - `iptv-org` [Multiple Playlists](https://github.com/iptv-org/iptv)
