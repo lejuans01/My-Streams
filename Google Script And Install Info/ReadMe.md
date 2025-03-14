@@ -65,10 +65,8 @@ Non Working Playlists:
 
 Use one of these region codes to specify the region in the `region` parameter:
 
-> [!TIP]
-> `Not All region codes work with every stream. I would just use `all` or `us`.`
->
-> 
+ `Not All region codes work with every stream. I would just use all or us.`
+
 - `all` (for all regions)
 - `ar` (Argentina)
 - `br` (Brazil)
