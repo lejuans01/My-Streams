@@ -48,7 +48,7 @@ After customizing the URL by replacing the ADD_REGION and ADD_SERVICE placeholde
 
 Choose one of the following services to include in the `service` parameter:
 
-Working Playlists:
+Working `service`:
 
 - SamsungTVPlus
 - Plex
@@ -56,7 +56,7 @@ Working Playlists:
 - Tubi
 - Stirr
 
-Non Working Playlists:
+Non Working `service`:
 
 - ~~ ~~PBS~~ ~~
 - ~~ ~~PBSKids~~ ~~
