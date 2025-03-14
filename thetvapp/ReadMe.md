@@ -4,6 +4,8 @@
 > [!NOTE]
 > I have not used this script yet.
 
+## WINDOWS INSTALL
+
 Run the 'setup_service.bat' to install the 'thetvapp-m3u.exe' as a Windows service.
 
 This script will:	
