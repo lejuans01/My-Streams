@@ -3,7 +3,7 @@
 
 # ⭐ Pluto, Samsung, Stirr, Plex & Tubi
 
-👉 I created a discussion thread  [here](https://github.com/BuddyChewChew/My-Streams/issues/3).
+👉 I created a discussion thread  [here](https://github.com/BuddyChewChew/My-Streams/issues/3)
  to discuss issues and script changes.
 
 👉 If your looking for direct playlist.m3u files for "Pluto, Samsung, Stirr, Plex & Tubi". Go here [iptv-streams](https://github.com/iptv-org/iptv/tree/master/streams) and here for .epg files [i.mjh.nz](https://github.com/matthuisman/i.mjh.nz). But my script has more channels.
