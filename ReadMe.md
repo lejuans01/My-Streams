@@ -31,6 +31,7 @@
 - `epgshare01` (Compressed) [epg_ripper_US1.xml.gz](https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz)
 - `epgshare01` (Compressed) [epg_ripper_DUMMY_CHANNELS.xml.gz](https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz) | [List](https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.txt)
 
+- 👀 Check out this [repo](https://github.com/pigzillaaaaa/iptv-scraper), you wont be sorry.
 
 
 ## 💥SHAMELESS◼️PLUG◼️OUR SHOP◼️CHECK IT OUT💥
