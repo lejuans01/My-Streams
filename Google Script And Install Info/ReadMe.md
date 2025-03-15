@@ -1,9 +1,10 @@
-👉 I created a discussion thread [here](https://github.com/BuddyChewChew/My-Streams/issues/3).
+> [!WARNING]
+> DISCLAIMER: The scripts and links provided on this GitHub page are for informational and educational purposes only. I do not claim responsibility for any issues, damages, or losses that may arise from the use of these scripts or links. Users are advised to use them at their own risk and discretion. Always review and test any code or links before implementing them in your projects.
 
 # ⭐ Pluto, Samsung, Stirr, Plex & Tubi
 
-> [!WARNING]
-> DISCLAIMER: The scripts and links provided on this GitHub page are for informational and educational purposes only. I do not claim responsibility for any issues, damages, or losses that may arise from the use of these scripts or links. Users are advised to use them at their own risk and discretion. Always review and test any code or links before implementing them in your projects.
+👉 I created a discussion thread [here](https://github.com/BuddyChewChew/My-Streams/issues/3).
+
 
 ▶️ If your looking for direct playlist.m3u files for "Pluto, Samsung, Stirr, Plex & Tubi". Go here [iptv-streams](https://github.com/iptv-org/iptv/tree/master/streams) and here for .epg files [i.mjh.nz](https://github.com/matthuisman/i.mjh.nz). But my script has more channels.
 > 
