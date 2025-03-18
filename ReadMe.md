@@ -9,7 +9,7 @@
 
 ⭐ [combine-remote-playlists](https://github.com/BuddyChewChew/combine-remote-playlists) A COMBINED LIST OF PLAYLISTS FROM THE WEB
 
-## A list of links for: Streaming Sites, Epgs and M3u playlists. 
+## 🌎 A list of links for: Streaming Sites, Epgs and M3u playlists. 
 
 ### 🔵 STREAMING SITES & LINKS
 - `videopiracyguide` [Link](https://fmhy.pages.dev/videopiracyguide#live-tv--sports) Resources related to IPTV, Streaming and info.
