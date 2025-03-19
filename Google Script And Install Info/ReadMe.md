@@ -67,7 +67,7 @@ Non Working `service`:
 
 Use one of these region codes to specify the region in the `region` parameter:
 
- `Not All region codes work with every stream. I would just use "all" or "us" for (United States).`
+ 📌 `Not All region codes work with every stream. I would just use "all" or "us" for (United States).`
 
 - `all` (for all regions) ✔️
 - `ar` (Argentina)
