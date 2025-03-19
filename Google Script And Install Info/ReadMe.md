@@ -63,11 +63,6 @@ Working `service`:
 - Tubi
 - Stirr
 
-Non Working `service`:
-
-- ~~ ~~PBS~~ ~~
-- ~~ ~~PBSKids~~ ~~
-
 ## Available Region Parameter Values
 
 Use one of these region codes to specify the region in the `region` parameter:
