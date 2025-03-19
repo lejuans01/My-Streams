@@ -26,10 +26,6 @@ _This script generates an m3u8 playlist from the channels provided by services s
 
 - Once deployed, you will get a URL similar to:
 
-▶️ Example: `https://script.google.com/macros/s/...gwlprM_Kn10kT7LGk/exec`
-
-- To use the script, you need to add the `region` and `service` parameters at the end of the URL.
-
 ▶️ Example:  `https://script.google.com/macros/s/...gwlprM_Kn10kT7LGk/exec?region=all&service=Plex`
 
 - Simply replace `region=all` and `service=Plex` with the appropriate region and service values from the available parameters listed [below](https://github.com/BuddyChewChew/My-Streams/blob/main/Google%20Script%20And%20Install%20Info/ReadMe.md#available-service-parameter-values).
