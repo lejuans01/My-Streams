@@ -7,7 +7,7 @@ http://cord-cutter.net:8080/hq3y4G/234247/121149
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="Local TV",BU| ABC (WOLO)
 http://fl3.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="Local TV",BU|ABC (WABC)
+#EXTINF:-1 group-title="Local TV",BU| ABC (WABC)
 http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="Local TV",BU| ABC (KMIZ)
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
@@ -52,7 +52,7 @@ http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 
 #EXTINF:-1 group-title="Cable TV" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax",5 StarMax
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1603
-#EXTINF:-1 group-title="Cable TV" tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="A&E",A&E
+#EXTINF:-1 group-title="Cable TV" tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="A&E",A&E ❌
 http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/212.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC (WABC)",ABC (WABC)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
