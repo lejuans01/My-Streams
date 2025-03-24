@@ -30,18 +30,6 @@ _This script generates an m3u8 playlist from the channels provided by services s
 
 - Simply add `region=all` and `service=Plex` with the appropriate region and service values from the available parameters listed [below](https://github.com/BuddyChewChew/My-Streams/blob/main/Google%20Script%20And%20Install%20Info/ReadMe.md#available-service-parameter-values).
 
-▶️ Example:  `https://script.google.com/macros/s/...gwlprM_Kn10kT7LGk/exec?region=all&service=Plex`
-
- 
-- `?region=all&service=SamsungTVPlus`
-- `?region=all&service=Plex`
-- `?region=all&service=PlutoTV`
-- `?region=all&service=Tubi`
-- `?region=all&service=Stirr`
-
-> [!TIP]
-> For a cleaner and more concise URL, consider using a URL shortener like [bit.ly.com](https://bitly.com/) and appending the necessary parameters at the end.
-
 
 ## Script Access URL
 
@@ -50,6 +38,12 @@ Use the following URL to access the hosted script. Replace `YOUR_SCRIPT_ID`, `al
 ▶️ Example: `https://script.google.com/macros/s/YOUR_SCRIPT_ID/exec?region=all&service=Plex`
 
 After customizing the URL by replacing the ADD_REGION and ADD_SERVICE placeholders with your desired region and service (e.g., us for the US region and Pluto for the service), copy the complete URL and paste it into the "Add Playlist" or "M3U8 URL" section of your IPTV application. Once added, the app will load both the channels and the guide information
+
+- `?region=all&service=SamsungTVPlus`
+- `?region=all&service=Plex`
+- `?region=all&service=PlutoTV`
+- `?region=all&service=Tubi`
+- `?region=all&service=Stirr`
 
 ## Available Service Parameter Values
 
@@ -84,6 +78,9 @@ Use one of these region codes to specify the region in the `region` parameter:
 - `se` (Sweden)
 - `us` (United States) ✔️
   Sorts the channels by their assigned channel number
+
+  > [!TIP]
+> For a cleaner and more concise URL, consider using a URL shortener like [bit.ly.com](https://bitly.com/) and appending the necessary parameters at the end.
 
 > [!IMPORTANT]
 > This repository does not host or store any video files. It simply hosts a script that you can copy&paste to self-host on GOOGLE APP SCRIPTS. The content was intentionally made publicly available. The copyright holders granted permission and consent to these websites to stream and share the content they provide.
