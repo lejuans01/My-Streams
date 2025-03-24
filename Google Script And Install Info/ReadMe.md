@@ -77,8 +77,9 @@ Use one of these region codes to specify the region in the `region` parameter:
 - `us` (United States) ✔️
   Sorts the channels by their assigned channel number
 
-  > [!TIP]
+> [!TIP]
 > For a cleaner and more concise URL, consider using a URL shortener like [bit.ly.com](https://bitly.com/) and appending the necessary parameters at the end.
+
 
 > [!IMPORTANT]
 > This repository does not host or store any video files. It simply hosts a script that you can copy&paste to self-host on GOOGLE APP SCRIPTS. The content was intentionally made publicly available. The copyright holders granted permission and consent to these websites to stream and share the content they provide.
