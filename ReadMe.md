@@ -11,7 +11,7 @@
 
 ⭐ [combine-remote-playlists](https://github.com/BuddyChewChew/combine-remote-playlists) A COMBINED LIST OF PLAYLISTS FROM THE WEB
 
-⭐ [tubi-scraper](https://github.com/BuddyChewChew/tubi-scraper) tUBI .m3U AND EPG
+⭐ [tubi-scraper](https://github.com/BuddyChewChew/tubi-scraper) Tubi .M3U and EPG
 
 ⭐ [app-m3u-generator](https://github.com/BuddyChewChew/app-m3u-generator) 🚧(Pluto, Samsung, Stirr, Plex, and Tubi Playlist) Direct Links.
 
