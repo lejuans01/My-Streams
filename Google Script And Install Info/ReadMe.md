@@ -1,9 +1,9 @@
-📌 (4/2/25) EPGS are hit and miss right now. The source for the EPGs is having server problems. Hopefully to be fixed soon.
-
 > [!WARNING]
 > DISCLAIMER: The scripts and links provided on this GitHub page are for informational and educational purposes only. I do not claim responsibility for any issues, damages, or losses that may arise from the use of these scripts or links. Users are advised to use them at their own risk and discretion. Always review and test any code or links before implementing them in your projects.
 
 # ⭐ Pluto, Samsung, Stirr, Plex & Tubi With (EPG)
+
+📌 (4/2/25) EPGS are hit and miss right now. The source for the EPGs is having server problems. Hopefully to be fixed soon.
 
 👉 I created a discussion thread  [here](https://github.com/BuddyChewChew/My-Streams/issues/3)
  to discuss issues and script changes.
