@@ -43,9 +43,9 @@
 - `epgshare01` (Compressed) [epg_ripper_US1.xml.gz](https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz)
 - `epgshare01` (Compressed) [epg_ripper_DUMMY_CHANNELS.xml.gz](https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz) | [List](https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.txt)
 
-- Donate **Bitcoin**: [3ENVoL2W1jkDDpxAP2V6jodRwSmWH3vnXA](bitcoin:3ENVoL2W1jkDDpxAP2V6jodRwSmWH3vnXA)  
-- Donate **Ethereum**: [0x55498E15C4BBC398e8D06cCA3bF23D1127AdA85d](ethereum:0x55498E15C4BBC398e8D06cCA3bF23D1127AdA85d)  
-- Donate **Dogecoin**: [D6UcqWSB2Bnh92UqLUmDwkGVasFdPveXBy](dogecoin:D6UcqWSB2Bnh92UqLUmDwkGVasFdPveXBy)  
+- `Donate **Bitcoin**` [3ENVoL2W1jkDDpxAP2V6jodRwSmWH3vnXA](bitcoin:3ENVoL2W1jkDDpxAP2V6jodRwSmWH3vnXA)  
+- `Donate **Ethereum**` [0x55498E15C4BBC398e8D06cCA3bF23D1127AdA85d](ethereum:0x55498E15C4BBC398e8D06cCA3bF23D1127AdA85d)  
+- `Donate **Dogecoin**` [D6UcqWSB2Bnh92UqLUmDwkGVasFdPveXBy](dogecoin:D6UcqWSB2Bnh92UqLUmDwkGVasFdPveXBy)  
 
 ## 💥SHAMELESS◼️PLUG◼️OUR SHOP◼️CHECK IT OUT💥
 Designs available on more than just shirts. Dozens of products in the store. Check them out.
