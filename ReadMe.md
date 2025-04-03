@@ -54,7 +54,7 @@ Our t-shirts and merch makes a statement through fashion. We design stylish, exp
 ## Donate Crypto
 
 <p align="center">
-  <img src="BITCOIN.png" width="200">
+  <img src="[https://github.com/BuddyChewChew/My-Streams/blob/main/QR/BITCOIN.png]" width="200">
   <img src="ETHEREUM.png" width="200">
   <img src="DOGECOIN.png" width="200">
 </p>
