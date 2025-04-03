@@ -53,11 +53,28 @@ Our t-shirts and merch makes a statement through fashion. We design stylish, exp
 
 ## Donate Crypto
 
+## Donate Crypto  
+
 <p align="center">
-  <img src="https://github.com/BuddyChewChew/My-Streams/blob/main/QR/BITCOIN.png" width="200"><br>**Bitcoin**  
-  <img src="https://github.com/BuddyChewChew/My-Streams/blob/main/QR/ETHEREUM.png" width="200"><br>**Ethereum**  
-  <img src="https://github.com/BuddyChewChew/My-Streams/blob/main/QR/DOGECOIN.png" width="200"><br>**Dogecoin**  
+  <span>
+    <img src="https://github.com/BuddyChewChew/My-Streams/blob/main/QR/BITCOIN.png" width="200"><br>
+    <strong>Bitcoin</strong><br>
+    <code>3ENVoL2W1jkDDpxAP2V6jodRwSmWH3vnXA</code>
+  </span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://github.com/BuddyChewChew/My-Streams/blob/main/QR/ETHEREUM.png" width="200"><br>
+    <strong>Ethereum</strong><br>
+    <code>0x55498E15C4BBC398e8D06cCA3bF23D1127AdA85d</code>
+  </span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <span>
+    <img src="https://github.com/BuddyChewChew/My-Streams/blob/main/QR/DOGECOIN.png" width="200"><br>
+    <strong>Dogecoin</strong><br>
+    <code>D6UcqWSB2Bnh92UqLUmDwkGVasFdPveXBy</code>
+  </span>
 </p>
+
 
 ## 💰 Donate: ## 
 - `Bitcoin` [3ENVoL2W1jkDDpxAP2V6jodRwSmWH3vnXA](bitcoin:3ENVoL2W1jkDDpxAP2V6jodRwSmWH3vnXA)  
