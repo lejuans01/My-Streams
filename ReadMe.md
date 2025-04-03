@@ -52,8 +52,8 @@ Our t-shirts and merch makes a statement through fashion. We design stylish, exp
 - Store: https://www.redbubble.com/people/DNT123Designs/shop?asc=u
 
   
-💰 ## Donate: ## 
-- `**Bitcoin**` [3ENVoL2W1jkDDpxAP2V6jodRwSmWH3vnXA](bitcoin:3ENVoL2W1jkDDpxAP2V6jodRwSmWH3vnXA)  
-- `**Ethereum**` [0x55498E15C4BBC398e8D06cCA3bF23D1127AdA85d](ethereum:0x55498E15C4BBC398e8D06cCA3bF23D1127AdA85d)  
-- `**Dogecoin**` [D6UcqWSB2Bnh92UqLUmDwkGVasFdPveXBy](dogecoin:D6UcqWSB2Bnh92UqLUmDwkGVasFdPveXBy)
+## 💰 Donate: ## 
+- `Bitcoin` [3ENVoL2W1jkDDpxAP2V6jodRwSmWH3vnXA](bitcoin:3ENVoL2W1jkDDpxAP2V6jodRwSmWH3vnXA)  
+- `Ethereum` [0x55498E15C4BBC398e8D06cCA3bF23D1127AdA85d](ethereum:0x55498E15C4BBC398e8D06cCA3bF23D1127AdA85d)  
+- `Dogecoin` [D6UcqWSB2Bnh92UqLUmDwkGVasFdPveXBy](dogecoin:D6UcqWSB2Bnh92UqLUmDwkGVasFdPveXBy)
 
