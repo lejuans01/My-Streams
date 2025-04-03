@@ -13,7 +13,7 @@
 
 ⭐ [tubi-scraper](https://github.com/BuddyChewChew/tubi-scraper) Tubi .M3U and EPG
 
-⭐ [app-m3u-generator](https://github.com/BuddyChewChew/app-m3u-generator) 🚧(Pluto, Samsung, Stirr, Plex, and Tubi Playlist&EPG) Direct Links.
+⭐ [app-m3u-generator](https://github.com/BuddyChewChew/app-m3u-generator) 🚧(Pluto, Samsung, Stirr, Plex, and Tubi Playlist & EPG) Direct Links.
 
 # 🌎 A list of links for: Streaming Sites, Epgs and M3u playlists. 
 
