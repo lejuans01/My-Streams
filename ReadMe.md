@@ -11,9 +11,9 @@
 
 ⭐ [combine-remote-playlists](https://github.com/BuddyChewChew/combine-remote-playlists) `tvpass.org`, `Daddylive`, `moveonjoy`, `thetvapp.to`
 
-⭐ [tubi-scraper](https://github.com/BuddyChewChew/tubi-scraper) `Tubi` .M3U and EPG
+⭐ [tubi-scraper](https://github.com/BuddyChewChew/tubi-scraper) `Tubi` m3u with epg.
 
-⭐ [localnow-playlist-generator](https://github.com/BuddyChewChew/localnow-playlist-generator) `Localnow` .M3U and EPG
+⭐ [localnow-playlist-generator](https://github.com/BuddyChewChew/localnow-playlist-generator) `Localnow` m3u with epg.
 
 ⭐ [app-m3u-generator](https://github.com/BuddyChewChew/app-m3u-generator) 🚧 `Pluto`, `Samsung`, `Stirr`, `Plex`, `Tubi` Playlist & EPG Direct Links.
 
