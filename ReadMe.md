@@ -54,7 +54,7 @@ Our t-shirts and merch makes a statement through fashion. We design stylish, exp
 - Store: http://tee.pub/lic/DNT
 - Store: https://www.redbubble.com/people/DNT123Designs/shop?asc=u
 
-## 💲 Donate Crypto 📱 Wallet: buddychewchewun.cbd.id
+## 💲 Donate Crypto: buddychewchewun.cbd.id
 
 <table align="center">
   <tr>
