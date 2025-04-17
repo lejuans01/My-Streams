@@ -8,7 +8,7 @@
 📌 Repo Discord: https://discord.gg/xhAdX8Ryxp
 
 
-## ▶️ MY OTHER REPOS
+## 🏠 REPO HOMEPAGE
 
 
 ⭐ <a href="https://github.com/BuddyChewChew/My-Streams/tree/main/Google%20Script%20And%20Install%20Info" target="_blank">Google Script And Install Info</a> Host your own version of the `Pluto`, `Samsung`, `Stirr`, `Plex`, `Tubi` playlist script. You can use in your IPTV Player.
