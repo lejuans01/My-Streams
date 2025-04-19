@@ -7,6 +7,7 @@
 
 📌 Repo Discord: https://discord.gg/xhAdX8Ryxp
 
+---------------------------------------------
 
 ## 🏠 REPO HOMEPAGE
 
@@ -22,6 +23,8 @@
 ⭐ [xumo-playlist-generator](https://github.com/BuddyChewChew/xumo-playlist-generator) `Xumo` m3u with epg.
 
 ⭐ [app-m3u-generator](https://github.com/BuddyChewChew/app-m3u-generator) `Pluto`, `Samsung`, `Stirr`, `Plex`, `Tubi` Playlist & EPG Direct Links.
+
+---------------------------------------------
 
 # 🌎 A list of links for: Streaming Sites, Epgs and M3u playlists. 
 
