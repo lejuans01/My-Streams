@@ -11,7 +11,7 @@
 👉 If your looking for direct playlist.m3u files for "Pluto, Samsung, Stirr, Plex & Tubi". Go here [iptv-streams](https://github.com/iptv-org/iptv/tree/master/streams) and here for .epg files [i.mjh.nz](https://github.com/matthuisman/i.mjh.nz). But this script has more channels. `This repository does not host or store any video files or streams.`
 
 
-_This script generates an m3u8 playlist from the channels provided by services such as Pluto, Samsung, Stirr, Plex, and Tubi. It is based on the original script created by matthuisman, which can be found at [matthuisman's GitHub repository](https://github.com/matthuisman/i.mjh.nz)._
+_This script generates an m3u8 playlist from the channels provided by services such as Pluto, Samsung, Stirr, Plex, Roku and Tubi. It is based on the original script created by matthuisman, which can be found at [matthuisman's GitHub repository](https://github.com/matthuisman/i.mjh.nz)._
 
 
 ## Follow this video tutorial to learn how to deploy a Google Apps Script:
