@@ -55,8 +55,9 @@ Working `service`:
 - SamsungTVPlus
 - Plex
 - PlutoTV
-- Tubi
+- Roku
 - Stirr
+- Tubi
 
 ## Available Region Parameter Values
 
