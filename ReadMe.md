@@ -26,7 +26,7 @@
 
 ---------------------------------------------
 
-# 🌎 A list of links for: Streaming Sites, Epgs and M3u playlists. 
+# 🌎 Links For: Streaming Sites, Epgs and M3u playlists. 
 
 ### 🔵 STREAMING SITES & LINKS
 - `videopiracyguide` [Link](https://fmhy.pages.dev/videopiracyguide#live-tv--sports) Resources related to IPTV, Streaming and info.
