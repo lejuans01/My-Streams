@@ -38,7 +38,7 @@
 - `adultswim` [Playlist](https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_adultswim.m3u)
 - `tvpass.org` [Playlist](https://tvpass.org/playlist/m3u) From: tvpass.org
 - `thetvapp` [Playlist](https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_thetvapp.m3u) From: iptv.org
-- `MoveOnJoy` [Playlist](https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_moveonjoy.m3u) | [Epg](https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml)
+- `MoveOnJoy` [Playlist](https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_moveonjoy.m3u) | [Epg](https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml) From: iptv.org
 
 
 - 👀 Check out this [repo](https://github.com/pigzillaaaaa/iptv-scraper) you will be glad you did.
