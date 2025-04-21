@@ -37,11 +37,18 @@
 - `apsattv` [Multiple Playlists](https://apsattv.com/streams.html)
 - `adultswim` [Playlist](https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_adultswim.m3u)
 - `tvpass.org` [Playlist](https://tvpass.org/playlist/m3u) From: tvpass.org
-- `thetvapp` [Playlist](https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_thetvapp.m3u) From: Github iptv.org
+- `thetvapp` [Playlist](https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_thetvapp.m3u) From: iptv.org
 - `MoveOnJoy` [Playlist](https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_moveonjoy.m3u) | [Epg](https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml)
 
 
 - 👀 Check out this [repo](https://github.com/pigzillaaaaa/iptv-scraper) you will be glad you did.
+
+
+- [daddylive-channels-tivimate](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels-tivimate.m3u8)
+- [tvpass-all](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/tvpass-all.m3u8)
+- [moveonjoy](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/moveonjoy.m3u8)
+- [thetvapp](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/thetvapp.m3u8)
+
 
 ### 🔵 EPGS
 - `www.bevy.be` [Multiple Epg](https://www.bevy.be/epg-guide/)
