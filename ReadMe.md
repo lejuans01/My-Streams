@@ -36,8 +36,8 @@
 - `iptv-org` [Multiple Playlists](https://github.com/iptv-org/iptv)
 - `apsattv` [Multiple Playlists](https://apsattv.com/streams.html)
 - `adultswim` [Playlist](https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_adultswim.m3u)
-- `tvpass.org` [Playlist](https://tvpass.org/playlist/m3u)
-- `MoveOnJoy` [Playlist](https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_moveonjoy.m3u) | [Epg](https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml)
+- `tvpass.org` [Playlist](https://tvpass.org/playlist/m3u) From: tvpass.org
+- `thetvapp` [Playlist](https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_thetvapp.m3u) From: Github iptv.org
 - `MoveOnJoy` [Playlist](https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_moveonjoy.m3u) | [Epg](https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml)
 
 
