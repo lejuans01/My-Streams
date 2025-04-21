@@ -37,8 +37,9 @@
 - `apsattv` [Multiple Playlists](https://apsattv.com/streams.html)
 - `adultswim` [Playlist](https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_adultswim.m3u)
 - `tvpass.org` [Playlist](https://tvpass.org/playlist/m3u) From: tvpass.org
-- `thetvapp` [Playlist](https://github.com/mikekaprielian/rtnaodhor93n398/blob/main/en/videoall.m3u) | [Epg](https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml)
-- `MoveOnJoy` [Playlist](https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_moveonjoy.m3u) | [Epg](https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml) From: rtnaodhor93n398
+- `thetvapp` [Playlist](https://github.com/mikekaprielian/rtnaodhor93n398/blob/main/en/videoall.m3u) | [Epg](https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml) From: rtnaodhor93n398
+
+- `MoveOnJoy` [Playlist](https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_moveonjoy.m3u) | [Epg](https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml) From: iptv-org
 
 
 - 👀 Check out this [repo](https://github.com/pigzillaaaaa/iptv-scraper) you will be glad you did.
