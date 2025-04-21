@@ -42,7 +42,7 @@
 - `MoveOnJoy` [Playlist](https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_moveonjoy.m3u) | [Epg](https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml) From: iptv-org
 
 
-- 👀 Check out this [repo](https://github.com/pigzillaaaaa/iptv-scraper) you will be glad you did.
+👀 Check out this [repo](https://github.com/pigzillaaaaa/iptv-scraper) you will be glad you did.
 
 
 - [daddylive-channels-tivimate](https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/daddylive-channels-tivimate.m3u8)
