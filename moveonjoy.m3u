@@ -51,17 +51,17 @@ http://fl1.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" tvg-name="CARTOON NETWORK",CARTOON NETWORK
 http://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-id="WSBK.(TV-38).Boston.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" tvg-name="CBS",CBS
-http://fl2.moveonjoy.com/CBSEAST/index.m3u8
+http://fl1.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-id="CBS.Sports.Network.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" tvg-name="CBS SPORTS NETWORK",CBS SPORTS NETWORK
-http://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+http://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-name="CINEMAX EAST",CINEMAX EAST
-http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
+http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" tvg-name="CINEMAX MOREMAX",CINEMAX MOREMAX
-http://fl3.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
+http://fl1.moveonjoy.com/CINEMAX_MOREMAX/index.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-id="Cinemax.-.Pacific.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" tvg-name="CINEMAX WEST",CINEMAX WEST
-http://fl2.moveonjoy.com/CINEMAX_WEST/index.m3u8
+http://fl1.moveonjoy.com/CINEMAX_WEST/index.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-id="CLEO.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true" tvg-name="Cleo TV",Cleo TV
-http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
+http://fl1.moveonjoy.com/Cleo_TV/index.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-id="CMT.US.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" tvg-name="CMT",CMT
 http://fl3.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-id="CNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" tvg-name="CNBC FHD",CNBC FHD
