@@ -88,9 +88,9 @@ http://fl1.moveonjoy.com/CRAVE_2/index.m3u8
 http://fl1.moveonjoy.com/CRAVE_3/index.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-id="Crave4.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4",CRAVE 4
 http://fl1.moveonjoy.com/CRAVE_4/index.m3u8
-#EXTINF:-1 group-title="Cable TV" tvg-id="Crime.+.Investigation.Canada.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" tvg-name="Crime + Investigation",(BAD)Crime + Investigation
+#EXTINF:-1 group-title="Cable TV" tvg-id="Crime.+.Investigation.Canada.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" tvg-name="Crime + Investigation",(Stream Down)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/2022
-#EXTINF:-1 group-title="Cable TV" tvg-id="Curiosity.Channel(Stream).us" tvg-logo="https://i.imgur.com/vRO4e5W.png" tvg-name="Curiosity Stream",Curiosity Stream
+#EXTINF:-1 group-title="Cable TV" tvg-id="Curiosity.Channel(Stream).us" tvg-logo="https://i.imgur.com/vRO4e5W.png" tvg-name="Curiosity Stream",(Stream Down)
 http://fl1.moveonjoy.com/Curiosity_Stream/index.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-id="Destination.America.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" tvg-name="Destination America",Destination America
 http://fl3.moveonjoy.com/Destination_America/index.m3u8
@@ -112,7 +112,7 @@ http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 http://fl1.moveonjoy.com/DIY/index.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-id="E!.Entertainment.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true" tvg-name="E ENTERTAINMENT TELEVISION",E ENTERTAINMENT TELEVISION
 http://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1 group-title="Cable TV" tvg-id="ESPN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" tvg-name="ESPN",(BAD)ESPN
+#EXTINF:-1 group-title="Cable TV" tvg-id="ESPN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" tvg-name="ESPN",(Stream Down)
 http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/133.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-id="ESPN2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" tvg-name="ESPN 2",ESPN 2
 http://fl1.moveonjoy.com/ESPN_2/index.m3u8
@@ -125,29 +125,29 @@ http://fl1.moveonjoy.com/FOOD_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)",FOX (WNYW)
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-id="Fox.Business.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" tvg-name="FOX Business Network",FOX Business Network
-http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
-#EXTINF:-1 group-title="Cable TV" tvg-id="Fox.News.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" tvg-name="FOX News Channel",FOX News Channel
+http://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 group-title="Cable TV" tvg-id="Fox.News.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" tvg-name="FOX News Channel",(Steam Down)
 http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/267.m3u8
-#EXTINF:-1 group-title="Cable TV" tvg-id="FOX.Soccer.Plus.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" tvg-name="FOX SOCCER PLUS",FOX SOCCER PLUS
+#EXTINF:-1 group-title="Cable TV" tvg-id="FOX.Soccer.Plus.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" tvg-name="FOX SOCCER PLUS",(Stream Down)
 http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/265.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-id="plex.tv.FOX.SOUL.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-soul-us.png?raw=true" tvg-name="FOX SOUL",FOX SOUL
 http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-id="Freeform.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" tvg-name="Freeform",Freeform
-http://fl2.moveonjoy.com/FREE_FORM/index.m3u8
-#EXTINF:-1 group-title="Cable TV" tvg-id="Fox.Sports.1.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" tvg-name="FS1",FS1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+http://fl1.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 group-title="Cable TV" tvg-id="Fox.Sports.1.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" tvg-name="FS1",(Stream Bad)
+http://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-id="Fox.Sports.2.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" tvg-name="FS2",FS2
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/264
 #EXTINF:-1 group-title="Cable TV" tvg-id="FUSE.TV.-.Eastern.feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" tvg-name="Fuse",Fuse
-http://fl2.moveonjoy.com/FUSE/index.m3u8
+http://fl1.moveonjoy.com/FUSE/index.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-id="FX.Networks.East.Coast.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" tvg-name="FX",FX
-http://fl2.moveonjoy.com/FX/index.m3u8
+http://fl1.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-id="FX.Movie.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" tvg-name="FXM",FXM
-http://fl2.moveonjoy.com/FX_MOVIE/index.m3u8
+http://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-id="FXX.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" tvg-name="FXX",FXX
-http://fl2.moveonjoy.com/FXX/index.m3u8
+http://fl1.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-id="FYI.USA.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" tvg-name="FYI FHD",FYI FHD
-http://fl2.moveonjoy.com/FYI/index.m3u8
+http://fl1.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-id="Game.Show.Network.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" tvg-name="GAME SHOW NETWORK",GAME SHOW NETWORK
 http://fl5.moveonjoy.com/GAME_SHOW_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Cable TV" tvg-id="get.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/get-tv-us.png?raw=true" tvg-name="getTV",getTV
