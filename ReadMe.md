@@ -14,7 +14,7 @@
 
 ⭐ <a href="https://github.com/BuddyChewChew/My-Streams/tree/main/Google%20Script%20And%20Install%20Info" target="_blank">Google Script And Install Info</a> Host your own version of the `Pluto`, `Samsung`, `Stirr`, `Plex`, `Roku` and `Tubi` playlist script. You can use in your IPTV Player.
 
-⭐ [combine-remote-playlists](https://github.com/BuddyChewChew/combine-remote-playlists) `tvpass.org`, `Daddylive`, `moveonjoy`, `thetvapp.to`
+⭐ [combine-remote-playlists](https://github.com/BuddyChewChew/combine-remote-playlists) `PLAYLISTS ARE DOWN... UPDATING SOON`
 
 ⭐ [tubi-scraper](https://github.com/BuddyChewChew/tubi-scraper) `Tubi` m3u with epg.
 
