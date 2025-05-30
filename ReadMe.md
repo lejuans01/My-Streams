@@ -11,9 +11,8 @@
 
 ## 🏠 REPO HOMEPAGE
 
-⭐ [Backup.m3u](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u) `My Playlist. Work In Progress.`
+⭐ [Backup.m3u](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u) EPG: [epg_ripper_ALL_SOURCES1.xml.gz](https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz) `My Playlist. Work In Progress.`
  
-   EPG: [epg_ripper_ALL_SOURCES1.xml.gz](https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz)
 
 ⭐ <a href="https://github.com/BuddyChewChew/My-Streams/tree/main/Google%20Script%20And%20Install%20Info" target="_blank">Google Script And Install Info</a> Host your own version of the `Pluto`, `Samsung`, `Stirr`, `Plex`, `Roku` and `Tubi` playlist script. You can use in your IPTV Player.
 
