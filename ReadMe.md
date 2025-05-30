@@ -13,7 +13,7 @@
 
 ⭐ [Backup.m3u](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u) `My Playlist. Work In Progress.`
 
-## ▶️ Extra EPG files just for 💩 and 😆.
+EPG files
 
 - `moveonjoy` [epg.xml](https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml)
 - `acidjesuz` [guide.xml.gz](https://github.com/acidjesuz/EPGTalk/raw/refs/heads/master/guide.xml.gz)
