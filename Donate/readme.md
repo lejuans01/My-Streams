@@ -6,8 +6,6 @@
 
 ===========================================
 
-===========================================
-
 ## 💥OUR SHOP◼️CHECK IT OUT💥
 Designs available on more than just shirts. Dozens of products in the store. Check them out.
 >
