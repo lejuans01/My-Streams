@@ -5,7 +5,10 @@
 
 
 
-📌 Repo Discord: https://discord.gg/xhAdX8Ryxp
+💲 Donate: https://github.com/BuddyChewChew/My-Streams/tree/main/Donate
+
+
+
 
 ---------------------------------------------
 
