@@ -1,7 +1,7 @@
 EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml"
 
 # ------------------Local TV---------------------------
-#EXTINF:-1 group-title="Buddy TV",ABC (WPVI)
+#EXTINF:-1  group-title="Buddy TV",ABC (WPVI) tvg-id="5.Star.Max.-.Eastern.us" 
 http://cord-cutter.net:8080/hq3y4G/234247/121149
 #EXTINF:-1 group-title="Buddy TV",ABC (WABC)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
