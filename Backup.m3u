@@ -5,13 +5,13 @@ EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main
 http://cord-cutter.net:8080/hq3y4G/234247/121149
 #EXTINF:-1 group-title="Buddy TV" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png",ABC (WABC)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="Buddy TV" tvg-id="ABC.(WOLO).Columbia,.SC.us" tvg-logo="",ABC (WOLO)
+#EXTINF:-1 group-title="Buddy TV" tvg-id="ABC.(WOLO).Columbia,.SC.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-aluminum-us.png?raw=true",ABC (WOLO)
 http://fl3.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="Buddy TV" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="",ABC (WABC)
+#EXTINF:-1 group-title="Buddy TV" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-aluminum-us.png?raw=true",ABC (WABC)
 http://143.244.60.30/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="Buddy TV" tvg-id="ABC.(KMIZ).Columbia,.MO.us" tvg-logo="",ABC (KMIZ)
+#EXTINF:-1 group-title="Buddy TV" tvg-id="ABC.(KMIZ).Columbia,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-aluminum-us.png?raw=true",ABC (KMIZ)
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-#EXTINF:-1 group-title="Buddy TV" tvg-id="ABC.(KTVO).Kirskville,.MO.us" tvg-logo="",ABC (KTVO)
+#EXTINF:-1 group-title="Buddy TV" tvg-id="ABC.(KTVO).Kirskville,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-aluminum-us.png?raw=true",ABC (KTVO)
 https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
 
 #EXTINF:-1 group-title="Buddy TV" tvg-id="MNT.(KSMO).Kansas.City,.MO.us" tvg-logo="",CBS (KSMO)
