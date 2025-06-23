@@ -5,25 +5,25 @@ EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main
 http://cord-cutter.net:8080/hq3y4G/234247/121149
 #EXTINF:-1 group-title="Buddy TV" tvg-id="ABC.(WABC).New.York,.NY.us",ABC (WABC)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="Buddy TV" tvg-id="",ABC (WOLO)
+#EXTINF:-1 group-title="Buddy TV" tvg-id="ABC.(WOLO).Columbia,.SC.us",ABC (WOLO)
 http://fl3.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="Buddy TV" tvg-id="",ABC (WABC)
+#EXTINF:-1 group-title="Buddy TV" tvg-id="ABC.(WABC).New.York,.NY.us",ABC (WABC)
 http://143.244.60.30/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="Buddy TV" tvg-id="",ABC (KMIZ)
+#EXTINF:-1 group-title="Buddy TV" tvg-id="ABC.(KMIZ).Columbia,.MO.us",ABC (KMIZ)
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-#EXTINF:-1 group-title="Buddy TV" tvg-id="",ABC (KTVO)
+#EXTINF:-1 group-title="Buddy TV" tvg-id="ABC.(KTVO).Kirskville,.MO.us",ABC (KTVO)
 https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
 
-#EXTINF:-1 group-title="Buddy TV" tvg-id="",CBS (KSMO)
+#EXTINF:-1 group-title="Buddy TV" tvg-id="MNT.(KSMO).Kansas.City,.MO.us",CBS (KSMO)
 https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
-#EXTINF:-1 group-title="Buddy TV" tvg-id="",CBS (KRCG)
+#EXTINF:-1 group-title="Buddy TV" tvg-id="CBS.(KRCG).Jefferson,.MO.us",CBS (KRCG)
 https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
-#EXTINF:-1 group-title="Buddy TV" tvg-id="",CBS (KTVO)
+#EXTINF:-1 group-title="Buddy TV" tvg-id="ABC.(KTVO).Kirskville,.MO.us",CBS (KTVO)
 https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
 
-#EXTINF:-1 group-title="Buddy TV" tvg-id="",CW (KOMU)
+#EXTINF:-1 group-title="Buddy TV" tvg-id="CW.(KOMU-TV3).+.Columbia,.MO.us",CW (KOMU)
 https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
-#EXTINF:-1 group-title="Buddy TV" tvg-id="",CW (KYOU)
+#EXTINF:-1 group-title="Buddy TV" tvg-id="CW.(KYOU4).Ottumwa,.IA.us",CW (KYOU)
 https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
 
 #EXTINF:-1 group-title="Buddy TV" tvg-id="",Fox (WDAF)
