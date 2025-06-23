@@ -544,11 +544,11 @@ https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Buddy TV" tvg-id="" tvg-logo="",TBS (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Buddy TV" tvg-id="" tvg-logo="",TNT (East)1
+#EXTINF:-1 group-title="Buddy TV" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true",TNT (East)
 https://streamer1.nexgen.bz/TNT/index.m3u8
-#EXTINF:-1 group-title="Buddy TV" tvg-id="" tvg-logo="",TNT (East)2
+#EXTINF:-1 group-title="Buddy TV" tvg-id="TNT.-.Western.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true",TNT (West)1
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_2_1964000.m3u8
-#EXTINF:-1 group-title="Buddy TV" tvg-id="" tvg-logo="",TNT (West)
+#EXTINF:-1 group-title="Buddy TV" tvg-id="TNT.-.Western.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true",TNT (West)2
 https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="Buddy TV" tvg-id="" tvg-logo="",TruTV (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
