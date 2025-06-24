@@ -48,12 +48,16 @@ http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 
 # ------------------Cable TV---------------------------
 
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax",5 StarMax
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1603
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="A&E",A&E
-http://23.237.104.106:8080/USA_AE/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC (WABC)",ABC (WABC)
 http://143.244.60.30/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="WSBK.(TV-38).Boston.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" tvg-name="CBS",CBS?
+http://143.244.60.30/CBSEAST/index.m3u8
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)",FOX (WNYW)
+http://143.244.60.30/FOX_EAST/index.m3u8
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" tvg-name="NBC",NBC
+http://143.244.60.30/NBC_EAST/index.m3u8
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="A&E",A&E
+http://23.237.104.106:8080/USA_AE/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="ACC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-name="ACC NETWORK",ACC NETWORK
 http://143.244.60.30/ACC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-name="AMC",AMC
@@ -98,10 +102,10 @@ http://143.244.60.30/Buzzr/index.m3u8
 http://143.244.60.30/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" tvg-name="CARTOON NETWORK",CARTOON NETWORK
 http://143.244.60.30/CARTOON_NETWORK/index.m3u8
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="WSBK.(TV-38).Boston.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" tvg-name="CBS",CBS?
-http://143.244.60.30/CBSEAST/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="CBS.Sports.Network.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" tvg-name="CBS SPORTS NETWORK",CBS SPORTS NETWORK
 http://143.244.60.30/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax",5 StarMax
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/1603
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-name="CINEMAX EAST",CINEMAX EAST
 http://143.244.60.30/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" tvg-name="CINEMAX MOREMAX",CINEMAX MOREMAX
@@ -170,8 +174,6 @@ http://143.244.60.30/ESPN_NEWS/index.m3u8
 http://143.244.60.30/ESPN_U/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" tvg-name="FOOD NETWORK",FOOD NETWORK
 http://143.244.60.30/FOOD_NETWORK/index.m3u8
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)",FOX (WNYW)
-http://143.244.60.30/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Fox.Business.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" tvg-name="FOX Business Network",FOX Business Network
 http://143.244.60.30/FOX_Business_Network/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Fox.News.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" tvg-name="FOX News Channel",FOX News Channel
@@ -312,8 +314,6 @@ http://143.244.60.30/NBA_8/index.m3u8
 http://143.244.60.30/NBA_9/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="NBA.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" tvg-name="NBA TV",NBA TV
 http://143.244.60.30/NBA_TV/index.m3u8
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" tvg-name="NBC",NBC
-http://143.244.60.30/NBC_EAST/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Golf.Channel.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" tvg-name="NBC Golf",NBC Golf
 http://143.244.60.30/GOLF_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="NewsNation.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" tvg-name="NewsNation",NewsNation
