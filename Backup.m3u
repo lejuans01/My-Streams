@@ -518,9 +518,9 @@ http://143.244.60.30/YES_NETWORK/index.m3u8
 # ---------------Backup Channels----------------
 #EXTINF:-1 group-title="Buddy TV" tvg-id="" tvg-logo="https://i.ibb.co/pBk4JHgD/Family-Guy-Logo-svg.png",Family Guy 24/7
 http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
-#EXTINF:-1 group-title="Buddy TV" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true",Live 6pm .est (East)
+#EXTINF:-1 group-title="Buddy TV" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true",[ AS ]5PM-6AM.est
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/aseast.us.m3u8
-#EXTINF:-1 group-title="Buddy TV" tvg-id="Cartoon.Network.USA.-.Pacific.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true",Live 9pm .est (West)
+#EXTINF:-1 group-title="Buddy TV" tvg-id="Cartoon.Network.USA.-.Pacific.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true",[ AS ]8PM-9AM.est
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/aswest.us.m3u8
 #EXTINF:-1 group-title="Buddy TV" tvg-id="CNN.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
