@@ -50,7 +50,7 @@ http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC (WABC)",ABC (WABC)
 http://143.244.60.30/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="WSBK.(TV-38).Boston.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" tvg-name="CBS",CBS?
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" tvg-name="CBS",CBS (WCBS)
 http://143.244.60.30/CBSEAST/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)",FOX (WNYW)
 http://143.244.60.30/FOX_EAST/index.m3u8
