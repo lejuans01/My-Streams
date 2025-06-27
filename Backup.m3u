@@ -223,8 +223,11 @@ http://143.244.60.30/HBO_FAMILY/index.m3u8
 http://143.244.60.30/HBO_ZONE/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" tvg-name="HGTV",HGTV
 http://143.244.60.30/HGTV/index.m3u8
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" tvg-name="History",(Broken)
-http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/153.m3u8
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" tvg-name="History",HISTORY
+https://ft.fbcdntv247.cfd/memfs/7ba806d9-3ae3-4425-a46d-90db0b27988a_output_0.m3u8
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="History.Canada.East.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/history-channel-ca.png?raw=true" tvg-name="History",HISTORY CA
+https://tvnow.best/api/stream/burns/burns/livetv.epg/history.canada.east.ca.m3u8
+
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="HLN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" tvg-name="HLN",HLN
 http://143.244.60.30/HLN/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="HSN..-.Home.Shopping.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hsn-us.png" tvg-name="HSN",HSN
@@ -233,7 +236,13 @@ http://143.244.60.30/HSN/index.m3u8
 http://143.244.60.30/INVESTIGATION_DISCOVERY/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="INSP.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/insp-us.png?raw=true" tvg-name="INSP TV",INSP TV
 http://143.244.60.30/INSP/index.m3u8
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="ION..-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" tvg-name="ION",ION
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="ION..-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" tvg-name="ION",ION 1
+http://fl1.moveonjoy.com/ION_TV/index.m3u8
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="ION..-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" tvg-name="ION",ION 2
+http://143.244.60.30/ION_TV/index.m3u8
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="ION..-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-plus-us.png?raw=true" tvg-name="ION",ION PLUS 1
+http://143.244.60.30/ION_TV/index.m3u8
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="ION..-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-plus-us.png?raw=true" tvg-name="ION",ION PLUS http://fl3.moveonjoy.com/ION_Plus/index.m3u8
 http://143.244.60.30/ION_TV/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Laff.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true" tvg-name="Laff TV",LAFF TV
 http://72.46.118.193/Laff/index.m3u8
@@ -241,18 +250,18 @@ http://72.46.118.193/Laff/index.m3u8
 http://143.244.60.30/LIFETIME/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Lifetime.Movies.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" tvg-name="Lifetime Movies Network",LIFETIME MOVIE NETWORK
 http://143.244.60.30/LIFETIME_MOVIE_NETWORK/index.m3u8
+
+
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="LOGO.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png" tvg-name="Logo",(Broken)
 http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/952.m3u8
+
+
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Love.Nature.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/love-nature-4k-ca.png" tvg-name="LOVE NATURE",LOVE NATURE
 http://143.244.60.30/LOVE_NATURE/index.m3u8
-
-
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Magnolia.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/magnolia-network-us.png?raw=true" tvg-name="MAGNOLIA NETWORK",MAGNOLIA NETWORK 1
 http://143.244.60.30/DIY/index.m3u8
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Magnolia.Network.Canada.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/diy-network-ca.png" tvg-name="MAGNOLIA NETWORK",MAGNOLIA NETWORK 2
-http://fl1.moveonjoy.com/HGTV/index.m3u8
-
-
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Magnolia.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/magnolia-network-us.png?raw=true" tvg-name="MAGNOLIA NETWORK",MAGNOLIA NETWORK 2
+http://fl1.moveonjoy.com/DIY/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="MeTV.KSAT-DT2.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/me-tv-us.png?raw=true" tvg-name="MeTV",METV
 http://143.244.60.30/ME_TV/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" tvg-name="MGM+",EPIX
@@ -545,8 +554,6 @@ https://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8
 http://143.244.60.30/Comedy_Central/index.m3u8
 #EXTINF:-1 group-title="Buddy TV" tvg-id="Comet.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comet-us.png?raw=true",Comet
 https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
-#EXTINF:-1 group-title="Buddy TV" tvg-id="Deja.View.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/dejaview-ca.png?raw=true",DEJA VIEW
-https://tvnow.best/api/stream/burns/burns/livetv.epg/deja.view.ca.m3u8
 #EXTINF:-1 group-title="Buddy TV" tvg-id="Food.Network.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/food-network-us.png?raw=true",FOOD
 https://streamer1.nexgen.bz//FOOD/index.m3u8
 #EXTINF:-1 group-title="Buddy TV" tvg-id="FX.Networks.East.Coast.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true",FX (SP/EN)
