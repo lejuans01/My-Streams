@@ -223,11 +223,12 @@ http://143.244.60.30/HBO_FAMILY/index.m3u8
 http://143.244.60.30/HBO_ZONE/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" tvg-name="HGTV",HGTV
 http://143.244.60.30/HGTV/index.m3u8
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" tvg-name="History",HISTORY
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" tvg-name="History",HISTORY 1
 https://ft.fbcdntv247.cfd/memfs/7ba806d9-3ae3-4425-a46d-90db0b27988a_output_0.m3u8
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" tvg-name="History",HISTORY 2
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium322%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="History.Canada.East.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/history-channel-ca.png?raw=true" tvg-name="History",HISTORY CA
 https://tvnow.best/api/stream/burns/burns/livetv.epg/history.canada.east.ca.m3u8
-
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="HLN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" tvg-name="HLN",HLN
 http://143.244.60.30/HLN/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="HSN..-.Home.Shopping.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hsn-us.png" tvg-name="HSN",HSN
