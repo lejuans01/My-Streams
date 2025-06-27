@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/ydbf/MoveOnJoy/refs/heads/main/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://i.mjh.nz/all/epg.xml.gz"
 
 # ------------------Local TV---------------------------
 #EXTINF:-1  group-title="Buddy TV" tvg-id="ABC.(WPVI).Philadelphia,.PA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true",ABC (WPVI)
@@ -415,6 +415,14 @@ http://143.244.60.30/Ovation/index.m3u8
 http://143.244.60.30/OXYGEN/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" tvg-name="Paramount Network",PARAMOUNT NETWORK
 http://143.244.60.30/PARAMOUNT_NETWORK/index.m3u8
+
+
+
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/sweden/paramount-plus-movies-se.png?raw=true" tvg-name="tvg-name="Paramount Movie Channel",PARAMOUNT MOVIE CHANNEL
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
+
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="PixL.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pixl-us.png?raw=true" tvg-name="Pixl",(Broken)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1665
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="POP.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pop-us.png" tvg-name="PopTV",POPTV
