@@ -243,6 +243,8 @@ http://143.244.60.30/ION_TV/index.m3u8
 http://143.244.60.30/ION_TV/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="ION..-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-plus-us.png?raw=true" tvg-name="ION",ION PLUS http://fl3.moveonjoy.com/ION_Plus/index.m3u8
 http://143.244.60.30/ION_TV/index.m3u8
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Music.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/kaloopy.jpg?raw=true" tvg-name="KALOOPY MUSIC CHANNEL",KALOOPY MUSIC CHANNEL
+https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Laff.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true" tvg-name="Laff TV",LAFF TV
 http://72.46.118.193/Laff/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Lifetime.Network.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" tvg-name="Lifetime",LIFETIME
@@ -407,16 +409,18 @@ http://143.244.60.30/OWN/index.m3u8
 http://143.244.60.30/OUTDOOR_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="OuterMax.east.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-outermax-us.png?raw=true" tvg-name="OUTER MAX",OUTER MAX
 http://143.244.60.30/OUTER_MAX/index.m3u8
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="OutsideTelevision.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outside-tv-us.png?raw=true" tvg-name="OUTSIDE TV",OUTSIDE TV
-http://143.244.60.30/OUTSIDE_TV/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Ovation.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ovation-us.png?raw=true" tvg-name="Ovation",OVATION
 http://143.244.60.30/Ovation/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Oxygen.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" tvg-name="Oxygen",OXYGEN
 http://143.244.60.30/OXYGEN/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" tvg-name="Paramount Network",PARAMOUNT NETWORK
 http://143.244.60.30/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="5cb0cae7a461406ffe3f5213" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/nordic/sweden/paramount-plus-movies-se.png?raw=true" tvg-name="Paramount Movie Channel",PARAMOUNT MOVIE CHANNEL
+
+
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="USAJ26000054W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20241112T000713SQUARE.png" tvg-name="Paramount Movie Channel",PARAMOUNT MOVIE CHANNEL
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="PixL.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pixl-us.png?raw=true" tvg-name="Pixl",(Broken)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1665
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="POP.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/pop-us.png" tvg-name="PopTV",POPTV
