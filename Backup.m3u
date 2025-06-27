@@ -140,6 +140,8 @@ http://143.244.60.30/CRAVE_3/index.m3u8
 http://143.244.60.30/CRAVE_4/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Crime.+.Investigation.Canada.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/crime-and-investigation-us.png?raw=true" tvg-name="Crime + Investigation",Crime + Investigation
 http://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="CTV.Nature.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true",CTV.Nature
+http://143.244.60.30/Discovery_Science/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Destination.America.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" tvg-name="Destination America",Destination America
 http://143.244.60.30/Destination_America/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" tvg-name="Discovery Channel",Discovery Channel
@@ -148,8 +150,8 @@ http://143.244.60.30/Discovery_Channel/index.m3u8
 http://143.244.60.30/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Discovery.Life.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" tvg-name="DISCOVERY LIFE",DISCOVERY LIFE
 http://143.244.60.30/DISCOVERY_LIFE/index.m3u8
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Science.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true" tvg-name="Discovery Science",Discovery Science
-http://143.244.60.30/Discovery_Science/index.m3u8
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Science.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-science-us.png?raw=true",Discovery Science
+http://cord-cutter.net:8080/bn80NG/909467/20866
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL
 http://fl1.moveonjoy.com/DISNEY/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" tvg-name="DISNEY JR",DISNEY JR
