@@ -239,9 +239,7 @@ http://143.244.60.30/INSP/index.m3u8
 http://fl1.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="ION..-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" tvg-name="ION",ION 2
 http://143.244.60.30/ION_TV/index.m3u8
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="ION..-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-plus-us.png?raw=true" tvg-name="ION",ION PLUS 1
-http://143.244.60.30/ION_TV/index.m3u8
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="ION..-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-plus-us.png?raw=true" tvg-name="ION",ION PLUS
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="plex.tv.ION.Plus.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-plus-us.png?raw=true" tvg-name="ION PLUS",ION PLUS
 http://fl3.moveonjoy.com/ION_Plus/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Music.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/kaloopy.jpg?raw=true" tvg-name="KALOOPY MUSIC CHANNEL",KALOOPY MUSIC CHANNEL
 https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
