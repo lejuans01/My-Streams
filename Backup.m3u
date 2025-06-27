@@ -313,7 +313,7 @@ http://143.244.60.30/NBA_8/index.m3u8
 http://143.244.60.30/NBA_9/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="NBA.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" tvg-name="NBA TV",NBA TV
 http://fl1.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Golf.Channel.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" tvg-name="NBC Golf",NBC GOLF
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Golf.Channel.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14899_dark_360w_270h.png" tvg-name="NBC Golf",(Broken)
 http://143.244.60.30/GOLF_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="NewsNation.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" tvg-name="NewsNation",NEWSNATION
 http://143.244.60.30/NEWS_NATION/index.m3u8
@@ -377,8 +377,10 @@ http://143.244.60.30/NHL_8/index.m3u8
 http://143.244.60.30/NHL_9/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="NHL.Network.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" tvg-name="NHL Network",NHL NETWORK
 http://143.244.60.30/NHL_NETWORK/index.m3u8
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="Nickelodeon",NICKELODEON
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="Nickelodeon",NICKELODEON 1
 http://cord-cutter.net:8080/bn80NG/909467/38
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="Nickelodeon",NICKELODEON 2
+https://ft.fbcdntv247.cfd/memfs/64e9b01f-1dfc-4708-b9b6-ab6249c25536_output_0.m3u88
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Nick.Jr..-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" tvg-name="NickJr",NICKJR
 http://143.244.60.30/NICK_JR/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Nick.Music.(NICM).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" tvg-name="NickMusic USA",NICKMUSIC
@@ -551,6 +553,12 @@ https://streamer1.nexgen.bz/HGTV/index.m3u8
 https://i.mjh.nz/.r/discovery-hgtv.m3u8
 #EXTINF:-1 group-title="Buddy TV" tvg-id="Laff.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true",Laff TV
 https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="Buddy TV" tvg-id="TBS.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true",TBS (East)
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tbseast.us.m3u8
 #EXTINF:-1 group-title="Buddy TV" tvg-id="TBS.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true",TBS (EAST)2
