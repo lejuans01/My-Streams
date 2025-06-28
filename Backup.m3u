@@ -392,12 +392,18 @@ http://143.244.60.30/Travel_Channel/index.m3u8
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="truTV.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" tvg-name="truTV",TRUETV 1
 http://143.244.60.30/TRU_TV/index.m3u8
-#EXTINF:-1 group-title="Buddy TV" tvg-id="truTV.USA.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true",TruTV 2
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="truTV.USA.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true",TruTV 2
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/trutveast.us.m3u8
-#EXTINF:-1 group-title="Buddy TV" tvg-id="truTV.USA.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true",TruTV (West)
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="truTV.USA.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true",TruTV (West)
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/trutvwest.us.m3u8
-#EXTINF:-1 group-title="Buddy TV" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA NETWORK
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA NETWORK
 https://streamer1.nexgen.bz/USA/index.m3u8
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true",TNT (East)1
+https://streamer1.nexgen.bz/TNT/index.m3u8
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true",TNT (East)2
+https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tnteast.us.m3u8
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true",TNT (EAST)3
+https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tntwest.us.m3u8
 
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="TV.Land.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" tvg-name="TVLand",TVLAND
@@ -471,12 +477,6 @@ https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tbseast.us.m3u8
 #EXTINF:-1 group-title="Buddy TV" tvg-id="TBS.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true",TBS (EAST)2
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tbswest.us.m3u8
-#EXTINF:-1 group-title="Buddy TV" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true",TNT (East)1
-https://streamer1.nexgen.bz/TNT/index.m3u8
-#EXTINF:-1 group-title="Buddy TV" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true",TNT (East)2
-https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tnteast.us.m3u8
-#EXTINF:-1 group-title="Buddy TV" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true",TNT (EAST)3
-https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tntwest.us.m3u8
 #EXTINF:-1 group-title="Buddy TV" tvg-id="24.7.Dummy.us" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615307rd7sNLdHNe-512x512-square.png",HUNT&FISH TV (STIRR)
 https://jmp2.uk/str-5747.m3u8
 #EXTINF:-1 group-title="Buddy TV" tvg-name="plex.tv.Free.Movies.Plus.plex" tvg-logo="",FREE MOVIES PLUS (LG)
