@@ -367,7 +367,7 @@ http://143.244.60.30/REELZ/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Revolt.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/revolt-us.png?raw=true" tvg-name="Revolt",REVOLT
 http://143.244.60.30/REVOLT/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="SEC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" tvg-name="SEC Network",SEC NETWORK
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/295
+http://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" tvg-name="Showtime",SHOWTIME
 http://143.244.60.30/SHOWTIME/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" tvg-name="Showtime 2",SHOWTIME 2
@@ -380,12 +380,11 @@ http://143.244.60.30/SHOWTIME_NEXT/index.m3u8
 http://143.244.60.30/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Smithsonian.Channel.USA.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/smithsonian-channel-us.png?raw=true" tvg-name="SMITHSONIAN CHANNEL",SMITHSONIAN CHANNEL
 http://143.244.60.30/SMITHSONIAN_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Sony.Movies.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" tvg-name="Sony Movie Channel",(Broken)
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1217
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Sportsman.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sportsman-channel-us.png?raw=true" tvg-name="Sportsman Channel",SPORTSMAN CHANNEL
 http://143.244.60.30/SPORTSMAN_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="plex.tv.Stadium.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" tvg-name="Stadium",(Broken)
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/1466
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="plex.tv.Stadium.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" tvg-name="Stadium",STADIUM CHANNEL
+http://fl1.moveonjoy.com/STADIUM/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="StartTVNetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true" tvg-name="Start TV",START TV
 http://143.244.60.30/Start_Tv/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Starz.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" tvg-name="Starz",STARS (EAST) 1
@@ -396,9 +395,9 @@ http://143.244.60.30/STARZ/index.m3u8
 http://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Starz.-.Pacific.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" tvg-name="STARZ WEST",STARZ (WEST) 2
 http://143.244.60.30/STARZ_WEST/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" tvg-name="Starz Comedy",STARS COMEDY
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" tvg-name="Starz Comedy",STARS COMEDY 1
 http://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" tvg-name="Starz Comedy",STARS COMEDY
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" tvg-name="Starz Comedy",STARS COMEDY 2
 http://143.244.60.30/STARZ_COMEDY/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Starz.Edge.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" tvg-name="Starz Edge",STARS EDGE 1
 http://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8
