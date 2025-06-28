@@ -384,11 +384,13 @@ http://143.244.60.30/SYFY/index.m3u8
 
 
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="TBS.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" tvg-name="TBS",TBS (East)1
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="TBS.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true",TBS (East)2
-https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tbseast.us.m3u8
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="TBS.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true",TBS (EAST)3
-https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tbswest.us.m3u8
+http://fl1.moveonjoy.com/TBS/index.m3u8
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="TBS.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" tvg-name="TBS",TBS (East)2
 http://143.244.60.30/TBS/index.m3u8
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="TBS.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true",TBS (East)3
+https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tbseast.us.m3u8
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="TBS.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true",TBS (WEST)
+https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tbswest.us.m3u8
 
 
 
@@ -408,27 +410,22 @@ https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Singl
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tntwest.us.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Travel.US.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" tvg-name="Travel Channel",TRAVEL CHANNEL
 http://143.244.60.30/Travel_Channel/index.m3u8
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="truTV.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" tvg-name="truTV",TRUETV 1
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="truTV.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" tvg-name="truTV",TRUTV 1
 http://143.244.60.30/TRU_TV/index.m3u8
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="truTV.USA.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true",TruTV 2
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="truTV.USA.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true",TRUTV 2
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/trutveast.us.m3u8
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="truTV.USA.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true",TruTV (West)
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="truTV.USA.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true",TRUTV (WEST)
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/trutvwest.us.m3u8
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA NETWORK
-https://streamer1.nexgen.bz/USA/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="TV.Land.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" tvg-name="TVLand",TVLAND
 http://143.244.60.30/TV_Land/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="TV.One.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" tvg-name="TVOne",TVONE
 http://143.244.60.30/TV_ONE/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="UP.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/up-tv-us.png" tvg-name="UP",UPTV
 http://fl3.moveonjoy.com/Up_Tv/index.m3u
-
-
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA NETWORK
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA NETWORK 1
+https://streamer1.nexgen.bz/USA/index.m3u8
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA NETWORK 2
 http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
-
-
-
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="VH1.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" tvg-name="VH1",VH1
 http://143.244.60.30/VH1/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="VICE.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18822_dark_360w_270h.png" tvg-name="Vice",VICE
