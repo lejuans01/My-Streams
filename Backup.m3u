@@ -225,8 +225,12 @@ http://143.244.60.30/HBO_FAMILY/index.m3u8
 http://212.102.60.231/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" tvg-name="HBO Zone",HBO ZONE
 http://143.244.60.30/HBO_ZONE/index.m3u8
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" tvg-name="HGTV",HGTV
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" tvg-name="HGTV",HGTV 1
 http://143.244.60.30/HGTV/index.m3u8
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hgtv-us.png?raw=true",HGTV 2
+https://streamer1.nexgen.bz/HGTV/index.m3u8
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="HGTV.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/hgtv-rs.png?raw=true",HGTV (NZ)
+https://i.mjh.nz/.r/discovery-hgtv.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" tvg-name="History",HISTORY 1
 https://ft.fbcdntv247.cfd/memfs/7ba806d9-3ae3-4425-a46d-90db0b27988a_output_0.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" tvg-name="History",HISTORY 2
@@ -480,10 +484,6 @@ https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
 https://streamer1.nexgen.bz//FOOD/index.m3u8
 #EXTINF:-1 group-title="Buddy TV" tvg-id="FX.Networks.East.Coast.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true",FX (SP/EN)
 https://streamer1.nexgen.bz/FX/index.m3u8
-#EXTINF:-1 group-title="Buddy TV" tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hgtv-us.png?raw=true",HGTV
-https://streamer1.nexgen.bz/HGTV/index.m3u8
-#EXTINF:-1 group-title="Buddy TV" tvg-id="HGTV.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/hgtv-rs.png?raw=true",HGTV (NZ)
-https://i.mjh.nz/.r/discovery-hgtv.m3u8
 #EXTINF:-1 group-title="Buddy TV" tvg-id="Laff.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true",Laff TV
 https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
 #EXTINF:-1 group-title="Buddy TV" tvg-id="24.7.Dummy.us" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615307rd7sNLdHNe-512x512-square.png",HUNT&FISH TV (STIRR)
