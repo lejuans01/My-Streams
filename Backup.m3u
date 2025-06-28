@@ -119,6 +119,8 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 http://143.244.60.30/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" tvg-name="CINEMAX MOREMAX",CINEMAX MOREMAX
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="OuterMax.east.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-outermax-us.png?raw=true" tvg-name="OUTER MAX",OUTER MAX
+http://143.244.60.30/OUTER_MAX/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Charge.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/charge-us.png?raw=true",Charge
 https://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="CLEO.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true" tvg-name="Cleo TV",CLEO TV
@@ -350,8 +352,6 @@ http://143.244.60.30/NICKTOONS/index.m3u8
 http://143.244.60.30/OWN/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Outdoor.Channel.US.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" tvg-name="Outdoor Channel",OUTDOOR CHANNEL
 http://143.244.60.30/OUTDOOR_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="JoyOnMove TV" tvg-id="OuterMax.east.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-outermax-us.png?raw=true" tvg-name="OUTER MAX",OUTER MAX
-http://143.244.60.30/OUTER_MAX/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Ovation.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ovation-us.png?raw=true" tvg-name="Ovation",OVATION
 http://143.244.60.30/Ovation/index.m3u8
 #EXTINF:-1 group-title="JoyOnMove TV" tvg-id="Oxygen.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" tvg-name="Oxygen",OXYGEN
