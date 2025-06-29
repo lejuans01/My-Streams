@@ -92,11 +92,12 @@ http://143.244.60.30/BIG_TEN_NETWORK/index.m3u8
 http://143.244.60.30/BLOOMBERG/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Boomerang.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" tvg-name="Boomerang",BOOMERANG
 http://143.244.60.30/BOOMERANG/index.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="BounceTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="Bounce",BOUNCE 1
-http://143.244.60.30/BOUNCE_TV/index.m3u8
 http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="BounceTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="Bounce",BOUNCE 2
-http://143.244.60.30/BOUNCE_TV/index.m3u8
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" tvg-name="BRAVO",BRAVO
 http://143.244.60.30/BRAVO/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="BUZZR.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" tvg-name="Buzzr",BUZZR
