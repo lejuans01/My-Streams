@@ -66,8 +66,8 @@ http://23.237.104.106:8080/USA_AMC/index.m3u8
 http://143.244.60.30/American_Heroes_Channel/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Animal.Planet.US.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" tvg-name="Animal Planet",ANIMAL PLANET
 http://143.244.60.30/Animal_Planet/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Antenna.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/antenna-us.png" tvg-name="Antenna",(Broken)
-http://143.244.60.30/Antenna/index.m3u8
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Antenna.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/antenna-us.png" tvg-name="Antenna",ANTENNA
+https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="ASPiRE.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png" tvg-name="Aspire",ASPIRE
 http://143.244.60.30/Aspire/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="BBC.America.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-name="BBC AMERICA",BBC AMERICA
@@ -475,6 +475,9 @@ http://fl3.moveonjoy.com/WGN/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="YES.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES Network",YES NETWORK
 http://143.244.60.30/YES_NETWORK/index.m3u8
 
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Blank.Dummy.us" tvg-logo="",-
+https://jmp2.uk/str-5747.m3u8
+
 # -----------
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Outdoor.Channel.US.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" tvg-name="Outdoor Channel",OUTDOOR CHANNEL
 http://143.244.60.30/OUTDOOR_CHANNEL/index.m3u8
@@ -549,6 +552,8 @@ https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/tim-and-eric/stream.m3u8
 # -------------------------------
 
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Blank.Dummy.us" tvg-logo="",-
+https://jmp2.uk/str-5747.m3u8
 
 # ------------NEWS-------------------
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="InfoWars.us",InfoWars Network
@@ -560,6 +565,8 @@ https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="",InfoWars War Room With Owen Shroyer
 https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
 
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Blank.Dummy.us" tvg-logo="",-
+https://jmp2.uk/str-5747.m3u8
 
 #EXTINF:-1 tvg-id="News.12.New.Jersey.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12 ("New Jersey" Edison NJ)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8
@@ -588,6 +595,9 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A
 #EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12 ("Connecticut" Norwalk CT)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8
 # -------------------------------
+
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Blank.Dummy.us" tvg-logo="",-
+https://jmp2.uk/str-5747.m3u8
 
 # -------------EVENTS------------------
 #EXTINF:-1 group-title="Events" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 1",PPV 1
