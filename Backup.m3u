@@ -496,6 +496,8 @@ https://jmp2.uk/str-5747.m3u8
 
 
 # -----------24/7--------------------
+#EXTINF:-1 group-title="24/7 Programs" tvg-id="Music.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/kaloopy.jpg?raw=true" tvg-name="KALOOPY MUSIC CHANNEL",KALOOPY MUSIC CHANNEL
+https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="ACLCornholeTV.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/cornhole.png?raw=true",ACL CORNHOLE TV
 https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV.m3u8
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="BilliardTV.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/billard.png?raw=true",BILLIARD TV
@@ -509,19 +511,6 @@ https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist
 
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="" tvg-logo="https://i.ibb.co/pBk4JHgD/Family-Guy-Logo-svg.png",FAMILY GUY
 http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
-
-#EXTINF:-1 group-title="24/7 Programs" tvg-id="Music.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/kaloopy.jpg?raw=true" tvg-name="KALOOPY MUSIC CHANNEL",KALOOPY MUSIC CHANNEL
-https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
-
-#EXTINF:-1 tvg-id="InfoWars.us",InfoWars Network
-https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="",InfoWars The Alex Jones Show
-https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
-#EXTINF:-1 tvg-id="",InfoWars The American Journal
-https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
-#EXTINF:-1 tvg-id="",InfoWars War Room With Owen Shroyer
-https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true" group-title="24/7 Programs" tvg-id="24.7.Dummy.us",Last Stream on the Left
 https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true" group-title="24/7 Programs" tvg-id="24.7.Dummy.us",Aqua Teen Hunger Force
@@ -560,6 +549,16 @@ http://adultswim-vodlive.cdn.turner.com/live/tim-and-eric/stream.m3u8
 
 
 # ------------NEWS-------------------
+#EXTINF:-1 group-title="24/7 Programs" tvg-id="InfoWars.us",InfoWars Network
+https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
+#EXTINF:-1 group-title="24/7 Programs" tvg-id="",InfoWars The Alex Jones Show
+https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
+#EXTINF:-1 group-title="24/7 Programs"tvg-id="",InfoWars The American Journal
+https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
+#EXTINF:-1 group-title="24/7 Programs" tvg-id="",InfoWars War Room With Owen Shroyer
+https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="News.12.New.Jersey.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12 ("New Jersey" Edison NJ)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8
 #EXTINF:-1 tvg-id="News.12.New.Jersey.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12+ ("New Jersey" Edison NJ)
