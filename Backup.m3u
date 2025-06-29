@@ -511,6 +511,15 @@ http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="Music.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/kaloopy.jpg?raw=true" tvg-name="KALOOPY MUSIC CHANNEL",KALOOPY MUSIC CHANNEL
 https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 
+#EXTINF:-1 tvg-id="InfoWars.us",InfoWars Network
+https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="",InfoWars The Alex Jones Show
+https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
+#EXTINF:-1 tvg-id="",InfoWars The American Journal
+https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
+#EXTINF:-1 tvg-id="",InfoWars War Room With Owen Shroyer
+https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true" group-title="24/7 Programs" tvg-id="24.7.Dummy.us",Last Stream on the Left
 https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true" group-title="24/7 Programs" tvg-id="24.7.Dummy.us",Aqua Teen Hunger Force
