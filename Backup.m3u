@@ -114,22 +114,42 @@ http://fl1.moveonjoy.com/BEIN_SPORTS/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" tvg-name="BEIN SPORTS",BEIN SPORTS 2
 http://143.244.60.30/BEIN_SPORTS/index.m3u8
 
-
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="BET.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" tvg-name="BET",BET
+#EXTINF:-1 tvg-id="BET.-.Eastern.Feed.us" tvg-name="BET" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" group-title="Buddy Chew TV",BET 1
+http://fl1.moveonjoy.com/BET_EAST/index.m3u8
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="BET.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" tvg-name="BET",BET 2
 http://143.244.60.30/BET_EAST/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="BETGOSPEL.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-gospel-us.png?raw=true" tvg-name="BET GOSPEL",BET GOSPEL
+
+#EXTINF:-1 tvg-id="BET.Gospel.us" tvg-name="Buddy Chew TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-gospel-us.png?raw=true" group-title="Buddy Chew TV",BET GOSPEL 1
+http://fl1.moveonjoy.com/BET_GOSPEL/index.m3u8
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="BETGOSPEL.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-gospel-us.png?raw=true" tvg-name="BET GOSPEL",BET GOSPEL 2
 http://143.244.60.30/BET_GOSPEL/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="BET.Her.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" tvg-name="BET HER",BET HER
+
+#EXTINF:-1 tvg-id="BET.Her.us" tvg-name="BET HER" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" group-title="LIVE",BET HER 1
+http://fl1.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="BET.Her.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" tvg-name="BET HER",BET HER 2
 http://143.244.60.30/BET_HER/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="BET.Jams.(BETJ).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" tvg-name="BET Jams",BET JAMS
+
+#EXTINF:-1 tvg-id="BET.Jams.(BETJ).us" tvg-name="BET JAMS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" group-title="Buddy Chew TV",BET JAMS 1
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="BET.Jams.(BETJ).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" tvg-name="BET Jams",BET JAMS 2
 http://143.244.60.30/BET_Jams/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="BETSoul.us" tvg-name="BET SOUL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-soul-us.png?raw=true",BET Soul
+
+#EXTINF:-1 tvg-id="BET.Soul.us" tvg-name="BET SOUL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-soul-us.png?raw=true" group-title="Buddy Chew TV",BET SOUL 1
+http://fl1.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="BETSoul.us" tvg-name="BET SOUL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-soul-us.png?raw=true",BET Soul 2
 http://143.244.60.30/BET_SOUL/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Big.Ten.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-name="Big Ten Network HD",BIG TEN NETWORK
+
+#EXTINF:-1 tvg-id="Big.Ten.Network.us" tvg-name="BIG TEN NETWORK" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" group-title="Buddy Chew TV",BIG TEN NETWORK 1
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Big.Ten.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-name="Big Ten Network HD",BIG TEN NETWORK 2
 http://143.244.60.30/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Bloomberg.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" tvg-name="BLOOMBERG",BLOOMBERG
+
+#EXTINF:-1 tvg-id="Bloomberg.TV.USA.us" tvg-name="BLOOMBERG" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" group-title="Buddy Chew TV",BLOOMBERG 1
+http://fl1.moveonjoy.com/BLOOMBERG/index.m3u8
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Bloomberg.TV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bloomberg-television-us.png?raw=true" tvg-name="BLOOMBERG",BLOOMBERG 2
 http://143.244.60.30/BLOOMBERG/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Boomerang.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" tvg-name="Boomerang",BOOMERANG
+
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Boomerang.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" tvg-name="Boomerang",BOOMERANG 2
 http://143.244.60.30/BOOMERANG/index.m3u8
 
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="BounceTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="Bounce",BOUNCE 1
