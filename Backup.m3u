@@ -52,7 +52,6 @@ http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC",ABC (WABC) 2
 http://143.244.60.30/ABC_EAST/index.m3u8
 
-
 #EXTINF:-1 tvg-id="WSBK.(TV-38).Boston.us" tvg-name="CBS (WCBS)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="Buddy Chew TV",CBS (WCBS) 1
 http://fl1.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" tvg-name="CBS",CBS (WCBS) 2
@@ -236,24 +235,58 @@ http://143.244.60.30/CNBC/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="CNN.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true",CNN 2
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Cable.News.Network.International.(CNNI).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" tvg-name="CNN INTERNATIONAL",CNN INTERNATIONAL
+
+#EXTINF:-1 tvg-id="Cable.News.Network.International.(CNNI).us" tvg-name="CNN INTERNATIONAL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" group-title="Buddy Chew TV",CNN INTERNATIONAL 1
+http://fl1.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Cable.News.Network.International.(CNNI).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" tvg-name="CNN INTERNATIONAL",CNN INTERNATIONAL 2
 http://143.244.60.30/CNN_INTERNATIONAL/index.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL",COMEDY CENTRAL (EAST)
 https://fbcdntv247.cfd/memfs/56af1099-35de-4c64-ace2-99eb216793b4.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL",COMEDY CENTRAL (WEST)1
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL",COMEDY CENTRAL (WEST)2
 http://143.244.60.30/Comedy_Central/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Comet.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comet-us.png?raw=true",COMET 1
+
+#EXTINF:-1 tvg-id="Comet.TV.us" tvg-name="COMET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comet-us.png" group-title="Buddy Chew TV",COMET 1
+http://fl3.moveonjoy.com/COMET/index.m3u8
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Comet.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comet-us.png?raw=true",COMET 2
 https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Comet.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comet-us.png" tvg-name="COMET",COMET 2
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Comet.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comet-us.png" tvg-name="COMET",COMET 3
 http://143.244.60.30/COMET/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="The.Cooking.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" tvg-name="COOKING",COOKING
+
+#EXTINF:-1 tvg-id="The.Cooking.Channel.us" tvg-name="COOKING CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" group-title="Buddy Chew TV",COOKING CHANNEL 1
+http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="The.Cooking.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" tvg-name="COOKING",COOKING CHANNEL 2
 http://143.244.60.30/COOKING_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Court.TV.US.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/court-tv-us.png?raw=true" tvg-name="COURT TV",COURT TV
+
+#EXTINF:-1 tvg-id="Court.TV.US.us" tvg-name="COURT TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/court-tv-us.png?raw=true" group-title="Buddy Chew TV",COURT TV 1
+http://fl3.moveonjoy.com/COURT_TV/index.m3u8
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Court.TV.US.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/court-tv-us.png?raw=true" tvg-name="COURT TV",COURT TV 2
 http://143.244.60.30/COURT_TV/index.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="COZITV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cozi-tv-us.png?raw=true" tvg-name="COZI TV",COZI TV
 http://143.244.60.30/COZI_TV/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Crave1.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" tvg-name="CRAVE 1",CRAVE 1
 http://143.244.60.30/CRAVE_1/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Crave2.-.East.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 2",CRAVE 2
