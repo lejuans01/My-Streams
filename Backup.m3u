@@ -193,18 +193,17 @@ http://143.244.60.30/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Movie.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/cinemax-hk.png?raw=true" tvg-name="ASTRO CINEMAX",ASTRO CINEMAX
 https://ott.udptv.org/stream/astro/astrocinemax/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
-
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax",5 STARMAX
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us" tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Buddy Chew TV",CINEMAX
+#EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us" tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="Buddy Chew TV",CINEMAX EAST 1
 http://fl1.moveonjoy.com/CINEMAX/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-name="CINEMAX EAST",CINEMAX EAST 1
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-name="CINEMAX EAST",CINEMAX EAST 2
 http://143.244.60.30/CINEMAX_EAST/index.m3u8
-#EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us" tvg-name="CINEMAX EAST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="LIVE",CINEMAX EAST 2
+#EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us" tvg-name="CINEMAX EAST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" group-title="LIVE",CINEMAX EAST 3
 http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax.-.Pacific.Feed.us" tvg-name="CINEMAX WEST" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" group-title="Buddy Chew TV",CINEMAX WEST
+#EXTINF:-1 tvg-id="Cinemax.-.Pacific.Feed.us" tvg-name="CINEMAX WEST" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" group-title="Buddy Chew TV",CINEMAX WEST (OFFLINE)
 http://fl1.moveonjoy.com/CINEMAX_WEST/index.m3u8
 
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" tvg-name="CINEMAX MOREMAX",CINEMAX MOREMAX
@@ -212,7 +211,7 @@ http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 
 #EXTINF:-1 tvg-id="OuterMax.east.us" tvg-name="CINEMAX OUTERMAX" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-outermax-us.png?raw=true" group-title="Buddy Chew TV",CINEMAX OUTERMAX 1
 http://fl1.moveonjoy.com/OUTER_MAX/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="OuterMax.east.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-outermax-us.png?raw=true" tvg-name="OUTER MAX",OUTER MAX 2
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="OuterMax.east.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-outermax-us.png?raw=true" tvg-name="OUTER MAX",CINEMAX OUTER MAX 2
 http://143.244.60.30/OUTER_MAX/index.m3u8
 
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Charge.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/charge-us.png?raw=true",Charge
@@ -222,6 +221,7 @@ https://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8
 http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="CLEO.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true" tvg-name="Cleo TV",CLEO TV 2
 http://143.244.60.30/Cleo_TV/index.m3u8
+
 
 
 
