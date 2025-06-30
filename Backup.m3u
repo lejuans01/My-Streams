@@ -215,11 +215,23 @@ http://fl1.moveonjoy.com/OUTER_MAX/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="OuterMax.east.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-outermax-us.png?raw=true" tvg-name="OUTER MAX",OUTER MAX 2
 http://143.244.60.30/OUTER_MAX/index.m3u8
 
-
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Charge.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/charge-us.png?raw=true",Charge
 https://cvtv.cvalley.net/hls/KRCGCHARGE/KRCGCHARGE.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="CLEO.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true" tvg-name="Cleo TV",CLEO TV
+
+#EXTINF:-1 tvg-id="CLEO.TV.us" tvg-name="CLEO TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true" group-title="Buddy Chew TV",CLEO TV 1
+http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="CLEO.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true" tvg-name="Cleo TV",CLEO TV 2
 http://143.244.60.30/Cleo_TV/index.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="CMT.US.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" tvg-name="CMT",CMT
 http://143.244.60.30/CMT/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="CNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" tvg-name="CNBC FHD",CNBC
