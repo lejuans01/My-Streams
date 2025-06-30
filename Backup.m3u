@@ -157,12 +157,22 @@ http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="BounceTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="Bounce",BOUNCE 2
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" tvg-name="BRAVO",BRAVO
+#EXTINF:-1 tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-name="BRAVO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" group-title="Buddy Chew TV",BRAVO 1
+http://fl1.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" tvg-name="BRAVO",BRAVO 2
 http://143.244.60.30/BRAVO/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="BUZZR.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" tvg-name="Buzzr",BUZZR
+
+#EXTINF:-1 tvg-id="Buzzr.TV.us" tvg-name="BUZZR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" group-title="Buddy Chew TV",BUZZR 1
+http://fl3.moveonjoy.com/Buzzr/index.m3u8
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Buzzr.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" tvg-name="Buzzr",BUZZR 2
 http://143.244.60.30/Buzzr/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="C-SPAN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" tvg-name="C-SPAN",C-SPAN
+
+#EXTINF:-1 tvg-id="C-SPAN.us" tvg-name="C-SPAN" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" group-title="Buddy Chew TV",C-SPAN 1
+http://fl1.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="C-SPAN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" tvg-name="C-SPAN",C-SPAN 2
 http://143.244.60.30/C-SPAN/index.m3u8
+
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true",[ AS ]5PM-6AM.est
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/aseast.us.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Cartoon.Network.USA.-.Pacific.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true",[ AS ]8PM-9AM.est
