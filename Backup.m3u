@@ -107,8 +107,8 @@ http://143.244.60.30/Aspire/index.m3u8
 
 
 
-
-#EXTINF:-1 tvg-shift="+3" tvg-id="BBC.America.-.East.us" tvg-name="BBC AMERICA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="Buddy Chew TV",BBC AMERICA (WEST) 1
+#EXTM3U tvg-shift=+3
+#EXTINF:-1 tvg-id="BBC.America.-.East.us" tvg-name="BBC AMERICA" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" group-title="Buddy Chew TV",BBC AMERICA (WEST) 1
 http://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="BBC.America.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-name="BBC AMERICA",BBC AMERICA (WEST) 2
 http://143.244.60.30/BBC_AMERICA/index.m3u8
