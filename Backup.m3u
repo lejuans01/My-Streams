@@ -527,12 +527,8 @@ http://143.244.60.30/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Smithsonian.Channel.USA.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/smithsonian-channel-us.png?raw=true" tvg-name="SMITHSONIAN CHANNEL",SMITHSONIAN CHANNEL
 http://143.244.60.30/SMITHSONIAN_CHANNEL/index.m3u8
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1217
-
-
 #EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="SONY CHANNEL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" group-title="Buddy Chew TV",SONY CHANNEL
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-
-
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="plex.tv.Stadium.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" tvg-name="Stadium",STADIUM CHANNEL
 http://fl1.moveonjoy.com/STADIUM/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="StartTVNetwork.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true" tvg-name="Start TV",START TV
@@ -656,7 +652,7 @@ https://30a-tv.com/darcizzle.m3u8
 https://jmp2.uk/str-5747.m3u8
 # -----------
 
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/-----.png?raw=true",24/7 PROGRAMS
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true",24/7 PROGRAMS
 https://jmp2.uk/str-5747.m3u8
 
 # -----------24/7--------------------
@@ -711,44 +707,44 @@ https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/tim-and-eric/stream.m3u8
 # -------------------------------
 
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true?raw=true",LOCAL NEWS/INFO
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true?raw=true",NEWS OTHER
 https://jmp2.uk/str-5747.m3u8
 
 # ------------NEWS-------------------
-#EXTINF:-1 group-title="24/7 Programs" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true",InfoWars Network
+#EXTINF:-1 group-title="NEWS OTHER" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true",InfoWars Network
 https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
-#EXTINF:-1 group-title="24/7 Programs" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true",InfoWars The Alex Jones Show
+#EXTINF:-1 group-title="NEWS OTHER" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true",InfoWars The Alex Jones Show
 https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
-#EXTINF:-1 group-title="24/7 Programs" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true",InfoWars The American Journal
+#EXTINF:-1 group-title="NEWS OTHER" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true",InfoWars The American Journal
 https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
-#EXTINF:-1 group-title="24/7 Programs" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true",InfoWars War Room With Owen Shroyer
+#EXTINF:-1 group-title="NEWS OTHER" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true",InfoWars War Room With Owen Shroyer
 https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="News.12.New.Jersey.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12 ("New Jersey" Edison NJ)
+#EXTINF:-1 group-title="NEWS OTHER" tvg-id="News.12.New.Jersey.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12 ("New Jersey" Edison NJ)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="News.12.New.Jersey.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12+ ("New Jersey" Edison NJ)
+#EXTINF:-1 group-title="NEWS OTHER" tvg-id="News.12.New.Jersey.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12+ ("New Jersey" Edison NJ)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="plex.tv.News.12.New.York.plex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12 (New York NY)
+#EXTINF:-1 group-title="NEWS OTHER" tvg-id="plex.tv.News.12.New.York.plex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12 (New York NY)
 https://aegis-cloudfront-1.tubi.video/1568cc70-2bf5-4f52-805b-42e0e514a77a/playlist.m3u8
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12 (Long Island NY)
+#EXTINF:-1 group-title="NEWS OTHER" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12 (Long Island NY)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12+ (Long Island NY)
+#EXTINF:-1 group-title="NEWS OTHER" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12+ (Long Island NY)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12 ("Westchester" Yonkers NY)
+#EXTINF:-1 group-title="NEWS OTHER" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12 ("Westchester" Yonkers NY)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12+ ("Westchester" Yonkers NY)
+#EXTINF:-1 group-title="NEWS OTHER" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12+ ("Westchester" Yonkers NY)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12 (Bronx NY)
+#EXTINF:-1 group-title="NEWS OTHER" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12 (Bronx NY)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12+ (Bronx NY)
+#EXTINF:-1 group-title="NEWS OTHER" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12+ (Bronx NY)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12 (Brooklyn NY)
+#EXTINF:-1 group-title="NEWS OTHER" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12 (Brooklyn NY)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12 ("Hudson Valley" West Nyack NY)
+#EXTINF:-1 group-title="NEWS OTHER" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12 ("Hudson Valley" West Nyack NY)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12+ ("Connecticut" Norwalk CT)
+#EXTINF:-1 group-title="NEWS OTHER" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12+ ("Connecticut" Norwalk CT)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12 ("Connecticut" Norwalk CT)
+#EXTINF:-1 group-title="NEWS OTHER" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png" group-title="Buddy Chew TV",News 12 ("Connecticut" Norwalk CT)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8
 # -------------------------------
 
