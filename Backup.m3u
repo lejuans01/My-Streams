@@ -348,8 +348,12 @@ http://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8?auth_key=1750259767-3c31ed6f27c7691ccd311624290610dc-00000000000000000000000000000000-2d0e00aa737194ef8afd0c44ff8c512c|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0&Referer=https%3A%2F%2Ffstv.us%2F
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="plex.tv.FOX.SOUL.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-soul-us.png?raw=true" tvg-name="FOX SOUL",FOX SOUL
 http://143.244.60.30/FOX_SOUL/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Freeform.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" tvg-name="FREEFORM",FREEFORM
+
+#EXTINF:-1 tvg-id="Freeform.-.East.Feed.us" tvg-name="FREEFORM" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="Buddy Chew TV",FREEFORM (WEST)1
+http://fl1.moveonjoy.com/FREE_FORM/index.m3u8
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Freeform.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" tvg-name="FREEFORM",FREEFORM (WEST)2
 http://143.244.60.30/FREE_FORM/index.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-name="plex.tv.Free.Movies.Plus.plex" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/freemoviesplus.png?raw=true",FREE MOVIES PLUS (LG)
 https://amg02042-ottstudio-amg02042c6-lg-us-2808.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviesplus-lgus/playlist.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Fox.Sports.1.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" tvg-name="FS1",FS1
