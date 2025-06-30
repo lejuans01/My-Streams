@@ -103,7 +103,7 @@ http://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="BBC.America.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-name="BBC AMERICA",BBC AMERICA (WEST) 2
 http://143.244.60.30/BBC_AMERICA/index.m3u8
 
-#EXTINF:-1 tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-name="BBC WORLD NEWS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" group-title="Buddy Chew TV",BBC WORLD NEWS 1
+#EXTINF:-1 tvg-shift="-3" tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-name="BBC WORLD NEWS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" group-title="Buddy Chew TV",BBC WORLD NEWS 1
 http://fl1.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" tvg-name="BBC WORLD NEWS",BBC WORLD NEWS 2
 http://143.244.60.30/BBC_WORLD_NEWS/index.m3u8
