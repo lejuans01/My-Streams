@@ -222,20 +222,16 @@ http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="CLEO.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cleo-tv-us.png?raw=true" tvg-name="Cleo TV",CLEO TV 2
 http://143.244.60.30/Cleo_TV/index.m3u8
 
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="CMT.US.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" tvg-name="CMT",CMT
+#EXTINF:-1 tvg-id="CMT.US.-.Eastern.Feed.us" tvg-name="CMT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" group-title="Buddy Chew TV",CMT 1
+http://fl3.moveonjoy.com/CMT/index.m3u8
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="CMT.US.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png" tvg-name="CMT",CMT 2
 http://143.244.60.30/CMT/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="CNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" tvg-name="CNBC FHD",CNBC
+
+#EXTINF:-1 tvg-id="CNBC.USA.us" tvg-name="CNBC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" group-title="Buddy Chew TV",CNBC 1
+http://fl5.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="CNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" tvg-name="CNBC",CNBC 2
 http://143.244.60.30/CNBC/index.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="CNN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" tvg-name="CNN",CNN 1
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="CNN.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true",CNN 2
@@ -485,8 +481,13 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/1217
 
 
 
-#EXTINF:-1 tvg-id="Sony.AXN.ch" tvg-name="SONY AXN" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" group-title="Buddy Chew TV",SONY AXN CHANNEL
+#EXTINF:-1 tvg-id="Sony.Channel.ch" tvg-name="SONY CHANNEL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" group-title="Buddy Chew TV",SONY CHANNEL
 http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="plex.tv.Stadium.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" tvg-name="Stadium",STADIUM CHANNEL
 http://fl1.moveonjoy.com/STADIUM/index.m3u8
