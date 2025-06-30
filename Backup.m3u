@@ -1,5 +1,8 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://i.mjh.nz/all/epg.xml.gz"
 
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/-----.png?raw=true",--- LOCAL CHANNELS ---
+https://jmp2.uk/str-5747.m3u8
+
 # ------------------Local TV---------------------------
 #EXTINF:-1  group-title="Buddy Chew TV" tvg-id="ABC.(WPVI).Philadelphia,.PA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true",ABC (WPVI)
 http://cord-cutter.net:8080/hq3y4G/234247/121149
@@ -45,6 +48,9 @@ https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
 https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true",NBC (WNBC)
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
+
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/-----.png?raw=true",--- MOVEONJOY ---
+https://jmp2.uk/str-5747.m3u8
 
 # ------------------Cable TV---------------------------
 #EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" tvg-name="ABC (WABC)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" group-title="Buddy Chew TV",ABC (WABC) 1
@@ -657,7 +663,7 @@ https://30a-tv.com/darcizzle.m3u8
 https://jmp2.uk/str-5747.m3u8
 # -----------
 
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/-----.png?raw=true",--- 24/7 Programs ---
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/-----.png?raw=true",--- 24/7 PROGRAMS ---
 https://jmp2.uk/str-5747.m3u8
 
 # -----------24/7--------------------
@@ -712,7 +718,7 @@ https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/tim-and-eric/stream.m3u8
 # -------------------------------
 
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/-----.png?raw=true",--- LOCAL NEWS & INFO ---
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/-----.png?raw=true",--- LOCAL NEWS/INFO ---
 https://jmp2.uk/str-5747.m3u8
 
 # ------------NEWS-------------------
