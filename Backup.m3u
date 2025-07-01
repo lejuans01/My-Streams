@@ -443,15 +443,16 @@ http://fl25.moveonjoy.com/HBO_COMEDY/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" tvg-name="HBO Comedy",HBO Comedy 2
 http://143.244.60.30/HBO_COMEDY/index.m3u8
 
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" tvg-name="HBO Family",HBO FAMILY
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" tvg-name="HBO Family",HBO FAMILY 1
+http://fl25.moveonjoy.com/HBO_FAMILY/index.m3u8
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" tvg-name="HBO Family",HBO FAMILY 2
 http://143.244.60.30/HBO_FAMILY/index.m3u8
 
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.Family.-.Pacific.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-family-us.png?raw=true",HBO FAMILY (WEST)
-http://212.102.60.231/HBO_FAMILY/index.m3u8
 
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" tvg-name="HBO Zone",HBO ZONE
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" tvg-name="HBO Zone",HBO ZONE 1
 http://143.244.60.30/HBO_ZONE/index.m3u8
-
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" tvg-name="HBO Zone",HBO ZONE 2
+http://fl25.moveonjoy.com/HBO_ZONE/index.m3u8
 
 
 
