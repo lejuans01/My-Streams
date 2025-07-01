@@ -470,14 +470,16 @@ http://fl25.moveonjoy.com/HBO_ZONE/index.m3u8
 
 
 
-
-
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" tvg-name="HGTV",HGTV 1
+http://fl25.moveonjoy.com/HGTV/index.m3u8
+
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" tvg-name="HGTV",HGTV 2
 http://143.244.60.30/HGTV/index.m3u8
 
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hgtv-us.png?raw=true",HGTV 2
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png",HGTV 3
 https://streamer1.nexgen.bz/HGTV/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HGTV.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/hgtv-rs.png?raw=true" tvg-name="HGTV NZ",HGTV (NZ)
+
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HGTV.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hgtv-us.png?raw=true" tvg-name="HGTV NZ",HGTV (NZ)
 https://i.mjh.nz/.r/discovery-hgtv.m3u8
 
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" tvg-name="History",HISTORY 1
