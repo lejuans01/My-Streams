@@ -390,8 +390,10 @@ http://143.244.60.30/FX_MOVIE/index.m3u8
 http://143.244.60.30/FXX/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="FYI.USA.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" tvg-name="FYI",FYI FHD
 http://143.244.60.30/FYI/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Game.Show.Network.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" tvg-name="GAME SHOW NETWORK",GAME SHOW NETWORK
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6018913ea15130002b284191.m3u8
+
+#EXTINF:-1 tvg-id="plex.tv.Game.Show.Central.plex" tvg-chno="" tvg-name="Game Show Central" tvg-logo="https://provider-static.plex.tv/epg/cms/production/690eb5a5-8a79-4f7a-8b6d-7ab2a01dc1d5/game-show-centralRDX.png" group-title="Buddy Chew TV",GAME SHOW CENTRAL
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5eea605574085f0040ddc782.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="get.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/get-tv-us.png?raw=true" tvg-name="getTV",GET TV
 http://143.244.60.30/GET_TV/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Grit.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/grit-us.png?raw=true" tvg-name="GRIT TV",GRIT TV
