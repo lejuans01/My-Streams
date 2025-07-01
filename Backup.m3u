@@ -440,8 +440,16 @@ http://fl1.moveonjoy.com/ION_TV/index.m3u8
 http://143.244.60.30/ION_TV/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="plex.tv.ION.Plus.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-plus-us.png?raw=true" tvg-name="ION PLUS",ION PLUS
 http://fl3.moveonjoy.com/ION_Plus/index.m3u8
+
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Laff.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true",LAFF TV
 https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Laff.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true",LAFF TV
+https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
+
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="plex.tv.Laff.More.plex" tvg-name="Laff More" tvg-logo="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0dcdc1c519e1f78b74fb7d5147a81707.png",LAFF MORE
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-648095b14e104622d093d902.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Lifetime.Network.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" tvg-name="Lifetime",LIFETIME
 http://143.244.60.30/LIFETIME/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Lifetime.Movies.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png" tvg-name="Lifetime Movies Network",LIFETIME MOVIE NETWORK
@@ -646,6 +654,8 @@ http://143.244.60.30/YES_NETWORK/index.m3u8
 https://jmp2.uk/str-5747.m3u8
 
 # -----------
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Test.Dummy.us" tvg-logo="" tvg-name="GAME&FISH TV",GAME&FISH TV
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-67a147a7114554261db9e45d.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Outdoor.Channel.US.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" tvg-name="Outdoor Channel",OUTDOOR CHANNEL
 http://143.244.60.30/OUTDOOR_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Pursuit.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pursuit-us.png?raw=true" tvg-name="Pursuit Channel",PURSUIT CHANNEL
