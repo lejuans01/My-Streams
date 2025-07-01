@@ -656,8 +656,6 @@ http://143.244.60.30/YES_NETWORK/index.m3u8
 https://jmp2.uk/str-5747.m3u8
 
 # -----------
-#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-67a147a7114554261db9e45d" tvg-id="5e20b730f2f8d5003d739db7-67a147a7114554261db9e45d" tvg-chno="" tvg-name="Game & Fish TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/76978d32-d638-4ef6-a167-a4b87a600f70/Game-Fish-TV_logo_allwhite_-_Daniel_Soane.png" group-title="Buddy Chew TV",Game & Fish TV
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-67a147a7114554261db9e45d.m3u8
 
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Outdoor.Channel.US.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" tvg-name="Outdoor Channel",OUTDOOR CHANNEL
 http://143.244.60.30/OUTDOOR_CHANNEL/index.m3u8
@@ -673,8 +671,17 @@ http://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 http://143.244.60.30/WORLD_FISHING_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/darcizzle.png?raw=true" tvg-name="darcizzle offshore",DARCIZZLE OFFSHORE
 https://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="24.7.Dummy.us" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615307rd7sNLdHNe-512x512-square.png",HUNT&FISH TV (STIRR)
+
+# --------- (PLEX)
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-67a147a7114554261db9e45d" tvg-id="5e20b730f2f8d5003d739db7-67a147a7114554261db9e45d" tvg-chno="" tvg-name="Game & Fish TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/76978d32-d638-4ef6-a167-a4b87a600f70/Game-Fish-TV_logo_allwhite_-_Daniel_Soane.png" group-title="Buddy Chew TV",Game & Fish TV
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-67a147a7114554261db9e45d.m3u8
+# --------- (PLEX)
+
+# --------- (STIRR)
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="24.7.Dummy.us" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615307rd7sNLdHNe-512x512-square.png",HUNT FISH TV
 https://jmp2.uk/str-5747.m3u8
+# --------- (STIRR)
+
 # -----------
 
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true",24/7 PROGRAMS
@@ -691,7 +698,7 @@ https://jmp2.uk/sam-USBD1700009P5.m3u8
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="Redbull.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/red-bull-tv-int.png?raw=true",REDBULL
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
-#EXTINF:-1 group-title="24/7 Programs" tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/nitro.png?raw=true",NITRO CIRCUS
+#EXTINF:-1 group-title="24/7 Programs" tvg-id="plex.tv.NitroCircusTV.plex" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/nitro.png?raw=true",NITRO CIRCUS
 https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="plex.tv.80`s.Sitcom.Flashback.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6a33b82d-db12-4f5d-8f8f-d49c803dce6a/LogoColor1500RDX.png",80'S SITCOM FLASHBACK
