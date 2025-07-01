@@ -430,15 +430,16 @@ http://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Buddy Chew TV", HBO 1
-http://fl1.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Buddy Chew TV", HBO 2
-http://fl3.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Buddy Chew TV", HBO
+http://cord-cutter.net:8080/hq3y4G/234247/9264
 
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" tvg-name="HBO2", HBO2 1
 http://143.244.60.30/HBO_2/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" tvg-name="HBO2", HBO2 1
 http://fl25.moveonjoy.com/HBO_2/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.MAX.us" tvg-name="HBO (MAX)" tvg-logo="HBO (MAX)" group-title="Buddy Chew TV", HBO (MAX)
+http://fl3.moveonjoy.com/HBO/index.m3u8
 
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" tvg-name="HBO Comedy", HBO Comedy 1
 http://fl25.moveonjoy.com/HBO_COMEDY/index.m3u8
@@ -449,7 +450,6 @@ http://143.244.60.30/HBO_COMEDY/index.m3u8
 http://fl25.moveonjoy.com/HBO_FAMILY/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" tvg-name="HBO Family", HBO FAMILY 2
 http://143.244.60.30/HBO_FAMILY/index.m3u8
-
 
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" tvg-name="HBO Zone", HBO ZONE 1
 http://143.244.60.30/HBO_ZONE/index.m3u8
@@ -788,30 +788,43 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332.m3u8
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="Music.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/kaloopy.jpg?raw=true" tvg-name="KALOOPY MUSIC CHANNEL", KALOOPY MUSIC
 https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 
-
-
-
-#EXTINF:-1 group-title="24/7 Programs" tvg-id="24.7.Dummy.us" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6799c2678500b00ee16b862a3e69b4d4.png", SNL VAULT
+#EXTINF:-1 group-title="24/7 Programs" tvg-id="24.7.Dummy.us" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6799c2678500b00ee16b862a3e69b4d4.png" tvg-name="SNL VAULT", SNL VAULT
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd34.m3u8
 
-#EXTINF:-1 group-title="24/7 Programs" tvg-id="24.7.Dummy.us" tvg-logo="https://i.ibb.co/pBk4JHgD/Family-Guy-Logo-svg.png", FAMILY GUY
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="LOONEY TUNES" group-title="24/7 Programs",24/7 LOONEY TUNES
+http://cord-cutter.net:8080/hq3y4G/234247/125638
+
+#EXTINF:-1 group-title="24/7 Programs" tvg-id="24.7.Dummy.us" tvg-logo="https://i.ibb.co/pBk4JHgD/Family-Guy-Logo-svg.png" tvg-name="FAMILY GUY CH1, FAMILY GUY CH1
 http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
 
 http://cord-cutter.net:8080/hq3y4G/234247/66269
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="24/7 FAMILY GUY" group-title="24/7 Programs",24/7 FAMILY GUY
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="FAMILY GUY CH2" group-title="24/7 Programs", FAMILY GUY CH2
 http://cord-cutter.net:8080/hq3y4G/234247/66317
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="24/7 RICK AND MORTY" group-title="24/7 Programs", RICK AND MORTY
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name=" RICK AND MORTY" group-title="24/7 Programs", RICK AND MORTY
 http://cord-cutter.net:8080/hq3y4G/234247/66302
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="South Park*" group-title="24/7 Programs",SOUTH PARK
 http://cord-cutter.net:8080/hq3y4G/234247/66401
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="24/7 FRIENDS" group-title="24/7 Programs",FRIEND
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="FRIENDS" group-title="24/7 Programs",FRIENDS
 http://cord-cutter.net:8080/hq3y4G/234247/66407
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="The KING OF QUEENS" group-title="24/7 Programs",THE KING OF QUEENS
 http://cord-cutter.net:8080/hq3y4G/234247/79567
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="SEINFELD" group-title="24/7 Programs",SEINFELD
+http://cord-cutter.net:8080/hq3y4G/234247/66303
+
+http://cord-cutter.net:8080/hq3y4G/234247/119451
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="THE GOLDEN GIRLS" group-title="24/7 Programs",THE GOLDEN GIRLS
+http://cord-cutter.net:8080/hq3y4G/234247/120948
+
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="RIDICULOUSNESS" group-title="24/7 Programs",RIDICULOUSNESS
+http://cord-cutter.net:8080/hq3y4G/234247/66397
+
+
 
 
 
