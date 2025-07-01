@@ -81,10 +81,14 @@ http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="ACC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-name="ACC NETWORK",ACC NETWORK 2
 http://143.244.60.30/ACC_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-name="AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="Buddy Chew TV",AMC 1
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-name="AMC",AMC 2
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-name="AMC",AMC
 http://23.237.104.106:8080/USA_AMC/index.m3u8
+#EXTINF:-1 tvg-id="plex.tv.AMC.Thrillers.plex" tvg-name="AMC Thrillers" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e7af423114c9f735d17e142783f233a.png" group-title="Buddy Chew TV",AMC THRILLERS
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d.m3u8
+#EXTINF:-1 tvg-id="plex.tv.Stories.by.AMC.plex" tvg-name="STORIES BY AMC" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" group-title="Buddy Chew TV",STORIES BY AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
+
 
 #EXTINF:-1 tvg-id="American.Heroes.Channel.us" tvg-name="AMERICAN HEROES CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" group-title="Buddy Chew TV",AMERICAN HEROES CHANNEL 1
 http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
