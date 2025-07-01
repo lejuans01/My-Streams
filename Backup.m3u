@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://i.mjh.nz/all/epg.xml.gz"
 
-#EXTINF:-1 group-title="Local TV" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true?raw=true", Local TV
+#EXTINF:-1 group-title="Local TV" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true?raw=true", [ LOCAL TV ]
 https://jmp2.uk/str-5747.m3u8
 
 # ------------------Local TV---------------------------
@@ -51,7 +51,7 @@ http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 
 # ------------------ MoveOnJoy+ ---------------------------
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", MoveOnJoy+
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ MOVEONJOY+ ]
 https://jmp2.uk/str-5747.m3u8
 
 
@@ -725,7 +725,7 @@ http://143.244.60.30/YES_NETWORK/index.m3u8
 
 # -----------24/7--------------------
 
-#EXTINF:-1 group-title="24/7 Programs" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", 24/7 Programs
+#EXTINF:-1 group-title="24/7 Programs" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ 24/7 PROGRAMS ]
 https://jmp2.uk/str-5747.m3u8
 
 # -----------24/7--------------------
@@ -822,7 +822,7 @@ https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/tim-and-eric/stream.m3u8
 # -------------------------------
 
-#EXTINF:-1 group-title="News Other" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true?raw=true", NEWS OTHER
+#EXTINF:-1 group-title="News Other" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true?raw=true", [ NEWS OTHER ]
 https://jmp2.uk/str-5747.m3u8
 
 # ------------NEWS-------------------
@@ -866,7 +866,7 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8
 # -------------------------------
 
-#EXTINF:-1 group-title="Events" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", EVENTS
+#EXTINF:-1 group-title="Events" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ EVENTS ]
 https://jmp2.uk/str-5747.m3u8
 
 # -------------EVENTS------------------
@@ -1001,7 +1001,7 @@ http://fl5.moveonjoy.com/NHL_13/index.m3u8
 # ----------- TEMP
 
 
-#EXTINF:-1 group-title="TEMP" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true?raw=true", TEMP
+#EXTINF:-1 group-title="TEMP" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true?raw=true", [ TEMP ]
 https://jmp2.uk/str-5747.m3u8
 
 
