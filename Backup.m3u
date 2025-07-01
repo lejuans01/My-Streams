@@ -371,7 +371,7 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGI
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="plex.tv.FOX.SOUL.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-soul-us.png?raw=true" tvg-name="FOX SOUL",FOX SOUL
 http://143.244.60.30/FOX_SOUL/index.m3u8
 
-#EXTINF:-1 tvg-id="Freeform.-.East.Feed.us" tvg-name="FREEFORM (EAST)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" group-title="MoveOnJoy+", FREEFORM (EAST)
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Freeform.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" tvg-name="FREEFORM (EAST)", FREEFORM (EAST)
 http://cord-cutter.net:8080/hq3y4G/234247/13370
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Freeform.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" tvg-name="FREEFORM (WEST)", FREEFORM (WEST)
