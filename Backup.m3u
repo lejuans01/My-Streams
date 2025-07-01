@@ -374,20 +374,28 @@ http://143.244.60.30/FREE_FORM/index.m3u8
 
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-name="plex.tv.Free.Movies.Plus.plex" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/freemoviesplus.png?raw=true",FREE MOVIES PLUS (LG)
 https://amg02042-ottstudio-amg02042c6-lg-us-2808.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviesplus-lgus/playlist.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Fox.Sports.1.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" tvg-name="FS1",FS1
 http://143.244.60.30/FOX_Sports_1/index.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Fox.Sports.2.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" tvg-name="FS2",FS2
 http://23.237.104.106:8080/USA_FS2/index.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="FUSE.TV.-.Eastern.feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" tvg-name="FUSE",FUSE
 http://143.244.60.30/FUSE/index.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="FX.Networks.East.Coast.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" tvg-name="FX",FX
 http://cord-cutter.net:8080/bn80NG/909467/46690
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="FX.Networks.East.Coast.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true",FX (SP/EN)
 https://streamer1.nexgen.bz/FX/index.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="FX.Movie.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" tvg-name="FXM",FXM
 http://143.244.60.30/FX_MOVIE/index.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="FXX.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" tvg-name="FXX",FXX
 http://143.244.60.30/FXX/index.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="FYI.USA.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" tvg-name="FYI",FYI FHD
 http://143.244.60.30/FYI/index.m3u8
 
@@ -396,44 +404,66 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5eea605574085f0040ddc782.m3u8
 
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="get.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/get-tv-us.png?raw=true" tvg-name="getTV",GET TV
 http://143.244.60.30/GET_TV/index.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Grit.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/grit-us.png?raw=true" tvg-name="GRIT TV",GRIT TV
 http://143.244.60.30/GRIT_TV/index.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Hallmark.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png" tvg-name="Hallmark Channel",HALMARK CHANNEL
 http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" tvg-name="Hallmark Family",HALLMARK FAMILY
 http://143.244.60.30/HALLMARK_DRAMA/index.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" tvg-name="Hallmark Mystery",HALLMARK MYSTERYY
 http://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.2.-.Pacific.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" tvg-name="HBO",HBO (HBO2 WEST)
-http://143.244.60.30/HBO/index.m3u8
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" tvg-name="HBO2",HBO2
+
+#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Buddy Chew TV",HBO
+http://fl1.moveonjoy.com/HBO/index.m3u8
+
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" tvg-name="HBO2",HBO2 (EAST)
 http://143.244.60.30/HBO_2/index.m3u8
+
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.2.-.Pacific.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" tvg-name="HBO 2",HBO2 (WEST)
+http://143.244.60.30/HBO/index.m3u
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" tvg-name="HBO Comedy",HBO COMEDY
 http://143.244.60.30/HBO_COMEDY/index.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" tvg-name="HBO Family",HBO FAMILY
 http://143.244.60.30/HBO_FAMILY/index.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.Family.-.Pacific.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-family-us.png?raw=true",HBO FAMILY (WEST)
 http://212.102.60.231/HBO_FAMILY/index.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" tvg-name="HBO Zone",HBO ZONE
 http://143.244.60.30/HBO_ZONE/index.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" tvg-name="HGTV",HGTV 1
 http://143.244.60.30/HGTV/index.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hgtv-us.png?raw=true",HGTV 2
 https://streamer1.nexgen.bz/HGTV/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HGTV.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/serbia/hgtv-rs.png?raw=true" tvg-name="HGTV NZ",HGTV (NZ)
 https://i.mjh.nz/.r/discovery-hgtv.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" tvg-name="History",HISTORY 1
 https://ft.fbcdntv247.cfd/memfs/7ba806d9-3ae3-4425-a46d-90db0b27988a_output_0.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" tvg-name="History",HISTORY 2
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium322%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HLN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" tvg-name="HLN",HLN
 http://143.244.60.30/HLN/index.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HSN..-.Home.Shopping.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/hsn-us.png" tvg-name="HSN",HSN
 http://143.244.60.30/HSN/index.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="IFC.HDTV.(East).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ifc-us.png?raw=true" tvg-name="IFC",IFC
 https://tvpass.org/live/IFCEast/hd
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Investigation.Discovery.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" tvg-name="ID (Investigation Discovery)",ID CHANNEL
 http://143.244.60.30/INVESTIGATION_DISCOVERY/index.m3u8
+
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="INSP.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/insp-us.png?raw=true" tvg-name="INSP TV",INSP TV
 http://143.244.60.30/INSP/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="ION..-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" tvg-name="ION",ION 1
