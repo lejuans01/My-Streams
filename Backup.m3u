@@ -417,16 +417,30 @@ http://143.244.60.30/HALLMARK_DRAMA/index.m3u8
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" tvg-name="Hallmark Mystery",HALLMARK MYSTERYY
 http://fl1.moveonjoy.com/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 
-#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Buddy Chew TV",HBO
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Buddy Chew TV",HBO 1
 http://fl1.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="Buddy Chew TV",HBO 2
+http://fl3.moveonjoy.com/HBO/index.m3u8
 
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" tvg-name="HBO2",HBO2 (EAST)
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" tvg-name="HBO2",HBO2 1
 http://143.244.60.30/HBO_2/index.m3u8
+#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" tvg-name="HBO2",HBO2 1
+http://fl25.moveonjoy.com/HBO_2/index.m3u8
 
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.2.-.Pacific.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" tvg-name="HBO 2",HBO2 (WEST)
-http://143.244.60.30/HBO/index.m3u
-
-#EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" tvg-name="HBO Comedy",HBO COMEDY
+#EXTINF:-1 group-title="Movies" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" tvg-name="HBO Comedy",HBO Comedy 1
+http://fl25.moveonjoy.com/HBO_COMEDY/index.m3u8
+#EXTINF:-1 group-title="Movies" tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" tvg-name="HBO Comedy",HBO Comedy 2
 http://143.244.60.30/HBO_COMEDY/index.m3u8
 
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" tvg-name="HBO Family",HBO FAMILY
@@ -437,6 +451,25 @@ http://212.102.60.231/HBO_FAMILY/index.m3u8
 
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" tvg-name="HBO Zone",HBO ZONE
 http://143.244.60.30/HBO_ZONE/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="Buddy Chew TV" tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" tvg-name="HGTV",HGTV 1
 http://143.244.60.30/HGTV/index.m3u8
