@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://i.mjh.nz/all/epg.xml.gz"
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ MOVEONJOY+ 000]
+#EXTINF:-1 group-title="Local TV" tvg-id="Blank.Dummy.us" tvg-name="LOCAL TV" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ LOCAL TV ]
 https://jmp2.uk/str-5747.m3u8
 
 # ------------------Local TV---------------------------
@@ -62,7 +62,8 @@ http://143.244.60.30/ABC_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="WSBK.(TV-38).Boston.us" tvg-name="CBS (WCBS)" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="MoveOnJoy+", CBS (WCBS) 1
 http://fl1.moveonjoy.com/CBSEAST/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" tvg-name="CBS", CBS (WCBS) 2
+
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-name="CBS" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png", CBS (WCBS) 2
 http://143.244.60.30/CBSEAST/index.m3u8
 
 #EXTINF:-1 tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-name="FOX (WNYW)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" group-title="MoveOnJoy+", FOX (WNYW) 1
