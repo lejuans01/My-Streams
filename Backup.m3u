@@ -396,8 +396,8 @@ https://streamer1.nexgen.bz/FX/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FX.Movie.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true" tvg-name="FXM", FXM
 http://143.244.60.30/FX_MOVIE/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FXX.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" tvg-name="FXX", FXX 1
-http://fl1.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FXX.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" tvg-name="FXX", FXX -1
+http://fl1.moveonjoy.com/FXX/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FXX.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png" tvg-name="FXX", FXX 2
 http://143.244.60.30/FXX/index.m3u8
 
