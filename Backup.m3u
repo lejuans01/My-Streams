@@ -658,7 +658,7 @@ https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Singl
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="truTV.USA.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tru-tv-us.png?raw=true", TRUTV (WEST) You ave to timeshift it to west coast time zone.
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/trutvwest.us.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TV.Land.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" tvg-name="TVLand", TVLAND
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TV.Land.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" tvg-name="TVLAND", TVLAND
 http://143.244.60.30/TV_LAND/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TSN1.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" tvg-name="TSN 1", TSN 1
@@ -679,8 +679,11 @@ http://143.244.60.30/TSN_5/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TV.One.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" tvg-name="TVOne", TVONE
 http://143.244.60.30/TV_ONE/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network", USA NETWORK 1
-http://143.244.60.30/USA_NETWORK/index.m3u8
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="UP.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/up-tv-us.png" tvg-name="UP TV", UP TV 
+http://143.244.60.30/Up_Tv/index.m3u8
+
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true", USA NETWORK 2
+https://streamer1.nexgen.bz/USA/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true", USA NETWORK 2
 https://streamer1.nexgen.bz/USA/index.m3u8
