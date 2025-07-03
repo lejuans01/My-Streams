@@ -97,11 +97,17 @@ http://vocotv.pro:80/gast/gast/269006
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="BBC.America.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-name="BBC AMERICA", BBC AMERICA (WEST) You ave to timeshift it to west coast time zone.
 http://143.244.60.30/BBC_AMERICA/index.m3u8
 
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="plex.tv.BBC.Earth.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0694fd21-4459-41d9-b49d-cef804553424/PLEX_BBCEarth_Logo_Light_1500X1000.png" tvg-name="BBC EARTH", BBC EARTH
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6414a73254c537d12d8073d7.m3u8
+
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" tvg-name="BBC WORLD NEWS", BBC WORLD NEWS
 http://143.244.60.30/BBC_WORLD_NEWS/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="beIN.Sport.Canada.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" tvg-name="BEIN SPORTS", BEIN SPORTS
 http://143.244.60.30/BEIN_SPORTS/index.m3u8
+
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="beIN.Sport.Canada.ca" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2bc78162-f4bb-4276-8df3-85c13133df3f/PLEX_XTRA_LOGO_MAIN_-_Mayra_Lopez.pnge" tvg-name="BEIN SPORTS XTRA", BEIN SPORTS XTRA
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-60a53634126de9002e694bc4.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="BET.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" tvg-name="BET", BET
 http://143.244.60.30/BET_EAST/index.m3u8
@@ -732,6 +738,9 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332.m3u8
 
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="Music.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/kaloopy.jpg?raw=true" tvg-name="KALOOPY MUSIC CHANNEL", KALOOPY MUSIC
 https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
+
+#EXTINF:-1 group-title="24/7 Programs" tvg-id="plex.tv.Bizarre.Foods.with.Andrew.Zimmern.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2caec99a-31fd-4a16-a158-5fe3ea530f59/BizarreFoodsWithAndrewZimmern_Logo_Dark_1500x1000.png" tvg-name="BIZARRE FOODS WITH ANDREW ZIMMERN", BIZARRE FOODS WITH ANDREW ZIMMERN
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66a2b83ef7180d8d2ca77f60.m3u8
 
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="SNL VAULT", SNL VAULT
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd34.m3u8
