@@ -720,13 +720,20 @@ http://143.244.60.30/WORLD_FISHING_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/darcizzle.png?raw=true" tvg-name="darcizzle offshore", DARCIZZLE OFFSHORE
 https://30a-tv.com/darcizzle.m3u8
+
 # --------- (PLEX)
 #EXTINF:-1 group-title="MoveOnJoy+" channel-id="5e20b730f2f8d5003d739db7-67a147a7114554261db9e45d" tvg-id="5e20b730f2f8d5003d739db7-67a147a7114554261db9e45d" tvg-chno="" tvg-name="Game & Fish TV" tvg-logo="https://provider-static.plex.tv/epg/cms/production/76978d32-d638-4ef6-a167-a4b87a600f70/Game-Fish-TV_logo_allwhite_-_Daniel_Soane.png", Game & Fish TV
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-67a147a7114554261db9e45d.m3u8
+
 # --------- (STIRR)
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="24.7.Dummy.us" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/04/08/1712615307rd7sNLdHNe-512x512-square.png", HUNT FISH TV
 https://jmp2.uk/str-5747.m3u8
 
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="plex.tv.Waypoint.TV.plex" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/waypointtv_logo_dark.png" tvg-name="WAYPOINT TV", WAYPOINT TV
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fd115b8b7ef8d002dcf1817.m3u8
+
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="plex.tv.Wired2Fish.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/146827c9-ba03-4f25-86b2-d99c501e8227/wired2fish_white.png" tvg-name="WIRED2FISH", WIRED2FISH
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-608a2c722957c9002c6a617b.m3u8
 
 # -----------24/7--------------------
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ 24/7 PROGRAMS ]
