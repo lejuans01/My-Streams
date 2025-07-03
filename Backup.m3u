@@ -88,6 +88,9 @@ https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="ASPiRE.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png" tvg-name="Aspire", ASPIRE
 http://143.244.60.30/Aspire/index.m3u8
 
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="plex.tv.At.the.Movies.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cf7b7e0a-feb0-49cf-8962-428a06c1becf/AtTheMovies_Logo_Dark_1500x1000.png" tvg-name="AT THE MOVIES", AT THE MOVIES
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66a2c1370b91165254efdb3c.m3u8
+
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="BBC.America.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-name="BBC AMERICA", BBC AMERICA (EAST)
 http://vocotv.pro:80/gast/gast/269006
 
@@ -803,17 +806,8 @@ http://adultswim-vodlive.cdn.turner.com/live/tim-and-eric/stream.m3u8
 https://jmp2.uk/str-5747.m3u8
 # ------------NEWS-------------------
 
-#EXTINF:-1 group-title="News Other" tvg-id="Blaze.TV.us" tvg-logo="https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png", BLAZE (LIVE)
-https://jmp2.uk/plu-5e46fba0c43b0d00096e5ac1.m3u8
-
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true", InfoWars Network
-https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true", InfoWars The Alex Jones Show
-https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true", InfoWars The American Journal
-https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true", InfoWars War Room With Owen Shroyer
-https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
+#EXTINF:-1 tvg-id="plex.tv.AccuWeather.NOW.plex" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/ff4384fb627d8efc1adbd65cf13b64da.png" group-title="News Other", ACCUWEATHER NOW
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01.m3u8
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-6-wpvi-us.png?raw=true" group-title="News Other",24/7 WPVI ABC 6 NEWS PA
 https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
@@ -847,6 +841,17 @@ https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A
 #EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 ("Connecticut" Norwalk CT)
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8
 
+#EXTINF:-1 group-title="News Other" tvg-id="Blaze.TV.us" tvg-logo="https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png", BLAZE (LIVE)
+https://jmp2.uk/plu-5e46fba0c43b0d00096e5ac1.m3u8
+
+#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true", InfoWars Network
+https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
+#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true", InfoWars The Alex Jones Show
+https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
+#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true", InfoWars The American Journal
+https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
+#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true", InfoWars War Room With Owen Shroyer
+https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
 # -------------EVENTS-----------
 #EXTINF:-1 group-title="Events" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ EVENTS ]
 https://jmp2.uk/str-5747.m3u8
