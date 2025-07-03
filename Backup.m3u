@@ -306,8 +306,11 @@ http://cord-cutter.net:8080/hq3y4G/234247/13370
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Freeform.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png" tvg-name="FREEFORM (WEST)", FREEFORM (WEST) You ave to timeshift it to west coast time zone.
 http://143.244.60.30/FREE_FORM/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-name="plex.tv.Free.Movies.Plus.plex" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/freemoviesplus.png?raw=true", FREE MOVIES PLUS (LG)
-https://amg02042-ottstudio-amg02042c6-lg-us-2808.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviesplus-lgus/playlist.m3u8
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-name="plex.tv.Free.Movies.Plus.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b927ddc8-1ec7-4e82-896c-77028536e891/Free_Movies_plus_1500x1000rdx.png", FREE MOVIES PLUS
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-636d46934ea1109a7d205a55.m3u8
+
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-name="plex.tv.Freebie.TV.plex" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/freebietv_logo_dark.png", FREEBIE TV
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-604bf68f499957002d574f45.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Fox.Sports.1.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" tvg-name="FS1", FS1
 http://143.244.60.30/FOX_Sports_1/index.m3u8
@@ -354,8 +357,17 @@ http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Hallmark.Family.HDTV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true" tvg-name="Hallmark Family", HALLMARK FAMILY
 http://143.244.60.30/HALLMARK_DRAMA/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" tvg-name="Hallmark Mystery", HALLMARK MYSTERYY
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="plex.tv.Hallmark.Movies.&amp;.More.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/29af70d1-d3ba-4a16-bc4d-bd99e7e7def4/hallmark-movies-and-more_color.png" tvg-name="Hallmark Mystery", HALLMARK MYSTERYY
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6244cf3c742b0d58cd4f2514.m3u8
+
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true" tvg-name="HALLMARK MOVIES & MORE", HALLMARK MOVIES & MORE
 http://143.244.60.30/HALLMARK_MOVIES_MYSTERIES/index.m3u8
+
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="plex.tv.HerSphere.by.Lionsgate.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3ed082aa-5659-4fd0-8775-22613a65f924/HerSphere_1500x1000_Logo_Dark.png" tvg-name="HERSPHERE BY LOINSGATE",HERSPHERE BY LOINSGATE
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0.m3u8
+
+#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="MoveOnJoy+", HBO (OFFLINE)
+http://cord-cutter.net:8080/hq3y4G/234247/9264
 
 #EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="MoveOnJoy+", HBO (OFFLINE)
 http://cord-cutter.net:8080/hq3y4G/234247/9264
@@ -541,6 +553,9 @@ http://143.244.60.30/REELZ/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Revolt.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/revolt-us.png?raw=true" tvg-name="Revolt", REVOLT
 http://143.244.60.30/REVOLT/index.m3u8
+
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="plex.tv.Scares.by.Shudder.plex" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/627ce40ef536741e2d80772b3624650b.png" tvg-name="SCARES BY SHUDDER", SCARES BY SHUDDER
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-650b38f490baad1963ad96f9.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="SEC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" tvg-name="SEC Network", SEC NETWORK
 http://143.244.60.30/SEC_NETWORK/index.m3u8
@@ -731,6 +746,13 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="plex.tv.Bizarre.Foods.with.Andrew.Zimmern.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2caec99a-31fd-4a16-a158-5fe3ea530f59/BizarreFoodsWithAndrewZimmern_Logo_Dark_1500x1000.png" tvg-name="BIZARRE FOODS WITH ANDREW ZIMMERN", BIZARRE FOODS WITH ANDREW ZIMMERN
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66a2b83ef7180d8d2ca77f60.m3u8
 
+#EXTINF:-1 group-title="24/7 Programs" tvg-id="plex.tv.Family.Feud.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2b3983fb-0a5d-4c5a-a7b7-bc9943847393/channel_logo_1500x1000_light.png__1_.png" tvg-name="FAMILY FEUD", FAMILY FEUD
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66a2d1390b91165254efdb3e.m3u8
+
+
+#EXTINF:-1 group-title="24/7 Programs" tvg-id="plex.tv.Car.Chase.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/02e41ea5-71c0-4922-b313-5b37b19cb11d/FF_CLASSIC_Logo_lgt_BKG_1500x1000_-_Elaine_De_Santiago.png" tvg-name="FAMILY FEUD CLASSIC", FAMILY FEUD CLASSIC
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-64b710b44612b1f48e9ad31a.m3u8
+
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="plex.tv.Car.Chase.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/81c22296-dafb-4c43-8d9c-ab880ee55312/Car_Chase_logo_White.png" tvg-name="CAR CHASE", CAR CHASE
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6605be856b034eec533c49ee.m3u8
 
@@ -739,6 +761,9 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66635fc0ca7b22f4c3a2d743.m3u8
 
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="plex.tv.CW.Gold.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e03763f1-e83b-46f1-aaaa-8052d316bbc9/PLEX_CWGOLD_UPDATEDLOGO_RDX.png" tvg-name="CW GOLD", CW GOLD
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66635e41ca7b22f4c3a2d741.m3u8
+
+#EXTINF:-1 group-title="24/7 Programs" tvg-id="plex.tv.Hit.Sitcoms.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5bc80ea6-51bf-4e0a-9d51-c72e4ed18575/HitSitcoms_dark_1500x1000.png" tvg-name="HIT SITCOMS", HIT SITCOMS
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66b13b29a9ef8c41ec0841b0.m3u8
 
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="Music.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/kaloopy.jpg?raw=true" tvg-name="KALOOPY MUSIC CHANNEL", KALOOPY MUSIC
 https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
@@ -831,6 +856,9 @@ https://jmp2.uk/str-5747.m3u8
 
 #EXTINF:-1 tvg-id="plex.tv.AccuWeather.NOW.plex" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/ff4384fb627d8efc1adbd65cf13b64da.png" group-title="News Other", ACCUWEATHER NOW
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01.m3u8
+
+#EXTINF:-1 tvg-id="plex.tv.FOX.Weather.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5822536e-f8a5-44ea-a82f-a73be1b983e8/fox_weather_horizontal.png" group-title="News Other", FOX WEATHER
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17.m3u8
 
 #EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-6-wpvi-us.png?raw=true" group-title="News Other",24/7 WPVI ABC 6 NEWS PA
 https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
