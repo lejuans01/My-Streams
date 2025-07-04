@@ -23,6 +23,8 @@ https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
 #EXTINF:-1 group-title="Local TV" tvg-id="CBS.(KTVO-DT2).Kirskville,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true", CBS (KTVO) MO
 https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
 
+#EXTINF:-1 tvg-id="WPIX.New.York.(SUPERSTATION).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" group-title="Local TV",CW (WPIX) NY
+https://tvnow.best/api/stream/mikemog/878404/livetv.epg/wpix.new.york.superstation.us.m3u8
 #EXTINF:-1 tvg-id="CW.(KCWE).Kansas.City,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" group-title="Local TV"",CW (KCWE) MO
 https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
 #EXTINF:-1 group-title="Local TV" tvg-id="CW.(KOMU-TV3).+.Columbia,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true", CW (KOMU) MO
@@ -320,14 +322,17 @@ http://143.244.60.30/FOX_Sports_1/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Fox.Sports.2.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" tvg-name="FS2", FS2
 http://23.237.104.106:8080/USA_FS2/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Test.Dummy.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" tvg-name="FUSE", FUSE
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FUSE.TV.-.Eastern.feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" tvg-name="FUSE", FUSE 1
 http://143.244.60.30/FUSE/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Test.Dummy.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" tvg-name="(OFFLINE)", (OFFLINE)
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Test.Dummy.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" tvg-name="(OFFLINE)", FUSE 2
 http://cord-cutter.net:8080/hq3y4G/234247/46701
+
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FX.Networks.East.Coast.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" tvg-name="FX", FX
 http://143.244.60.30/FX/index.m3u8
+# https://tvnow.best/api/stream/burns/burns/livetv.epg/super.channel.fuse.ca.m3u8
+
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FX.Networks.East.Coast.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" tvg-name="FX", FX
 http://cord-cutter.net:8080/bn80NG/909467/46690
@@ -376,6 +381,7 @@ http://cord-cutter.net:8080/hq3y4G/234247/9264
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" tvg-name="HBO", HBO
 http://143.244.60.30/HBO/index.m3u8
+# https://tvnow.best/api/stream/mikemog/878404/livetv.epg/hbo.eastern.us.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" tvg-name="HBO2", HBO2
 http://143.244.60.30/HBO_2/index.m3u8
