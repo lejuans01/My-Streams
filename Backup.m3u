@@ -758,11 +758,10 @@ https://jmp2.uk/str-5747.m3u8
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="plex.tv.80`s.Sitcom.Flashback.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6a33b82d-db12-4f5d-8f8f-d49c803dce6a/LogoColor1500RDX.png", 80'S SITCOM FLASHBACK
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332.m3u8
 
-https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="plex.tv.ACL.Cornhole.TV.plex" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/cornhole.png?raw=true", ACL CORNHOLE TV
 https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV.m3u8
 
-#EXTINF:-1 group-title="24/7 Programs" tvg-id="BilliardTV.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/billard.png?raw=true", BILLIARD TV
+#EXTINF:-1 group-title="24/7 Programs" tvg-id="BilliardTV.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/billard.png?raw=true", BILLIARD TV
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="plex.tv.Bizarre.Foods.with.Andrew.Zimmern.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2caec99a-31fd-4a16-a158-5fe3ea530f59/BizarreFoodsWithAndrewZimmern_Logo_Dark_1500x1000.png" tvg-name="BIZARRE FOODS WITH ANDREW ZIMMERN", BIZARRE FOODS WITH ANDREW ZIMMERN
@@ -925,6 +924,7 @@ https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
 https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
 #EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true", InfoWars War Room With Owen Shroyer
 https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
+
 # -------------EVENTS-----------
 #EXTINF:-1 group-title="Events" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ EVENTS ]
 https://jmp2.uk/str-5747.m3u8
