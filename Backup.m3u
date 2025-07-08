@@ -496,8 +496,6 @@ http://143.244.60.30/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="MTV-U.(MTV-U).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-u-us.png?raw=true" tvg-name="mtvU", MTVU
 http://143.244.60.30/MTV_U/index.m3u8
 
-# MTV-U.(MTV-U).us
-
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" tvg-name="National Geographic", NATIONAL GEOGRAPHIC CHANNEL
 http://143.244.60.30/National_Geographic/index.m3u8
 
@@ -522,13 +520,10 @@ http://143.244.60.30/NFL_RedZone/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="NHL.Network.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" tvg-name="NHL Network", NHL NETWORK
 http://143.244.60.30/NHL_NETWORK/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="NICKELODEON (OFFLINE)", NICKELODEON (OFFLINE)
+# EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="NICKELODEON (OFFLINE)", NICKELODEON (OFFLINE)
 http://143.244.60.30/NICKELODEON/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="NICKELODEON 2", NICKELODEON 2
-http://cord-cutter.net:8080/bn80NG/909467/38
-
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="NICKELODEON 3", NICKELODEON 3
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="NICKELODEON", NICKELODEON
 https://ft.fbcdntv247.cfd/memfs/64e9b01f-1dfc-4708-b9b6-ab6249c25536_output_0.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Nick.Jr..-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" tvg-name="NickJr", NICKJR
@@ -627,13 +622,13 @@ http://143.244.60.30/SUNDANCE/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" tvg-name="SYFY", SYFY
 http://143.244.60.30/SYFY/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TBS.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" tvg-name="TBS", TBS (East)
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TBS.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" tvg-name="TBS 1", TBS 1
 http://143.244.60.30/TBS/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TBS.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true", TBS (East)
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TBS.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true" tvg-name="TBS 2, TBS 2
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tbseast.us.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TBS.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true", TBS (WEST) You ave to timeshift it to west coast time zone.
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TBS.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true" tvg-name="TBS 3, TBS 3
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tbswest.us.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Turner.Classic.Movies.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12852_dark_360w_270h.png" tvg-name="TCM", TCM
@@ -645,16 +640,16 @@ http://143.244.60.30/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TLC.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" tvg-name="TLC", TLC
 http://143.244.60.30/TLC/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-name="TNT", TNT 1
+# EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-name="TNT", TNT
 http://143.244.60.30/TNT/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true", TNT 2
+# EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true" tvg-name="TNT", TNT
 https://streamer1.nexgen.bz/TNT/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true", TNT 3
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true" tvg-name="TNT 3", TNT 1
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tnteast.us.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true", TNT (WEST) You ave to timeshift it to west coast time zone.
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true" tvg-name="TNT 4", TNT 2
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tntwest.us.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Travel.US.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" tvg-name="Travel Channel", TRAVEL CHANNEL
@@ -692,7 +687,7 @@ http://143.244.60.30/TV_ONE/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="UP.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/up-tv-us.png" tvg-name="UP TV", UP TV 
 http://143.244.60.30/Up_Tv/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true", USA NETWORK 2
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true", USA NETWORK 1
 https://streamer1.nexgen.bz/USA/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true", USA NETWORK 2
