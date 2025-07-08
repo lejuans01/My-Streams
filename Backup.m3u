@@ -870,6 +870,12 @@ https://adultswim-vodlive.cdn.turner.com/live/squidbillies/stream.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/tim-and-eric/stream.m3u8
 
 
+# -----------24/7 MOVIES--------------------
+#EXTINF:-1 group-title="24/7 Movies" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ 24/7 MOVIES ]
+https://jmp2.uk/str-5747.m3u8
+# -----------24/7 MOVIES --------------------
+
+
 #EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: ANIMATION" group-title="24/7 Programs",CINEBOX: ANIMATION
 http://cord-cutter.net:8080/hq3y4G/234247/119420
 #EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: BLOCKBUSTERS" group-title="24/7 Programs",CINEBOX: BLOCKBUSTERS
@@ -906,6 +912,338 @@ http://cord-cutter.net:8080/hq3y4G/234247/119435
 http://cord-cutter.net:8080/hq3y4G/234247/119436
 #EXTINF:-1 tvg-id="Cinebox.Dummy.us" tvg-logo="" tvg-name="CINEBOX: THRILLER" group-title="24/7 Programs",CINEBOX: THRILLER
 http://cord-cutter.net:8080/hq3y4G/234247/119437
+
+
+
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Action" group-title="24/7 Movies",M4: Action
+http://cord-cutter.net:8080/hq3y4G/234247/215269
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Adventure" group-title="24/7 Movies",M4: Adventure
+http://cord-cutter.net:8080/hq3y4G/234247/215270
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Alien" group-title="24/7 Movies",M4: Alien
+http://cord-cutter.net:8080/hq3y4G/234247/215271
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Animation" group-title="24/7 Movies",M4: Animation
+http://cord-cutter.net:8080/hq3y4G/234247/215272
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Avengers" group-title="24/7 Movies",M4: Avengers
+http://cord-cutter.net:8080/hq3y4G/234247/215273
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Batman" group-title="24/7 Movies",M4: Batman
+http://cord-cutter.net:8080/hq3y4G/234247/215274
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Biography" group-title="24/7 Movies",M4: Biography
+http://cord-cutter.net:8080/hq3y4G/234247/215275
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Blade" group-title="24/7 Movies",M4: Blade
+http://cord-cutter.net:8080/hq3y4G/234247/215276
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Blade Runner" group-title="24/7 Movies",M4: Blade Runner
+http://cord-cutter.net:8080/hq3y4G/234247/215277
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Comedy" group-title="24/7 Movies",M4: Comedy
+http://cord-cutter.net:8080/hq3y4G/234247/215278
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Creature" group-title="24/7 Movies",M4: Creature
+http://cord-cutter.net:8080/hq3y4G/234247/215279
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Crime" group-title="24/7 Movies",M4: Crime
+http://cord-cutter.net:8080/hq3y4G/234247/215280
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Deadpool" group-title="24/7 Movies",M4: Deadpool
+http://cord-cutter.net:8080/hq3y4G/234247/215281
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Die Hard" group-title="24/7 Movies",M4: Die Hard
+http://cord-cutter.net:8080/hq3y4G/234247/215282
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Drama" group-title="24/7 Movies",M4: Drama
+http://cord-cutter.net:8080/hq3y4G/234247/215283
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Epic" group-title="24/7 Movies",M4: Epic
+http://cord-cutter.net:8080/hq3y4G/234247/215284
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Family" group-title="24/7 Movies",M4: Family
+http://cord-cutter.net:8080/hq3y4G/234247/215285
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Fantasy" group-title="24/7 Movies",M4: Fantasy
+http://cord-cutter.net:8080/hq3y4G/234247/215286
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Fast and the Furious" group-title="24/7 Movies",M4: Fast and the Furious
+http://cord-cutter.net:8080/hq3y4G/234247/215287
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Final Destination" group-title="24/7 Movies",M4: Final Destination
+http://cord-cutter.net:8080/hq3y4G/234247/215288
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Ghostbusters" group-title="24/7 Movies",M4: Ghostbusters
+http://cord-cutter.net:8080/hq3y4G/234247/215289
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Hangover" group-title="24/7 Movies",M4: Hangover
+http://cord-cutter.net:8080/hq3y4G/234247/215290
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Harry Potter" group-title="24/7 Movies",M4: Harry Potter
+http://cord-cutter.net:8080/hq3y4G/234247/215291
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: History" group-title="24/7 Movies",M4: History
+http://cord-cutter.net:8080/hq3y4G/234247/215292
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Horror" group-title="24/7 Movies",M4: Horror
+http://cord-cutter.net:8080/hq3y4G/234247/215293
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Ice Age" group-title="24/7 Movies",M4: Ice Age
+http://cord-cutter.net:8080/hq3y4G/234247/215294
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Indiana Jones" group-title="24/7 Movies",M4: Indiana Jones
+http://cord-cutter.net:8080/hq3y4G/234247/215295
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: James Bond (007)" group-title="24/7 Movies",M4: James Bond (007)
+http://cord-cutter.net:8080/hq3y4G/234247/215296
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: John Wick" group-title="24/7 Movies",M4: John Wick
+http://cord-cutter.net:8080/hq3y4G/234247/215297
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Jurassic Park" group-title="24/7 Movies",M4: Jurassic Park
+http://cord-cutter.net:8080/hq3y4G/234247/215298
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Kingsman" group-title="24/7 Movies",M4: Kingsman
+http://cord-cutter.net:8080/hq3y4G/234247/215299
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Legendary" group-title="24/7 Movies",M4: Legendary
+http://cord-cutter.net:8080/hq3y4G/234247/215300
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Mad Max" group-title="24/7 Movies",M4: Mad Max
+http://cord-cutter.net:8080/hq3y4G/234247/215301
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Maze Runner" group-title="24/7 Movies",M4: Maze Runner
+http://cord-cutter.net:8080/hq3y4G/234247/215302
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Men in Black" group-title="24/7 Movies",M4: Men in Black
+http://cord-cutter.net:8080/hq3y4G/234247/215303
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Mission Impossible" group-title="24/7 Movies",M4: Mission Impossible
+http://cord-cutter.net:8080/hq3y4G/234247/215304
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Musical" group-title="24/7 Movies",M4: Musical
+http://cord-cutter.net:8080/hq3y4G/234247/215305
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Mystery" group-title="24/7 Movies",M4: Mystery
+http://cord-cutter.net:8080/hq3y4G/234247/215306
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Mythological" group-title="24/7 Movies",M4: Mythological
+http://cord-cutter.net:8080/hq3y4G/234247/215307
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Oceans Eleven" group-title="24/7 Movies",M4: Oceans Eleven
+http://cord-cutter.net:8080/hq3y4G/234247/215308
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Pirates of the Caribbean" group-title="24/7 Movies",M4: Pirates of the Caribbean
+http://cord-cutter.net:8080/hq3y4G/234247/215309
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Planet of Apes" group-title="24/7 Movies",M4: Planet of Apes
+http://cord-cutter.net:8080/hq3y4G/234247/215310
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Post-Apocalyptic" group-title="24/7 Movies",M4: Post-Apocalyptic
+http://cord-cutter.net:8080/hq3y4G/234247/215311
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Resident Evil" group-title="24/7 Movies",M4: Resident Evil
+http://cord-cutter.net:8080/hq3y4G/234247/215312
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Robot" group-title="24/7 Movies",M4: Robot
+http://cord-cutter.net:8080/hq3y4G/234247/215313
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Rocky" group-title="24/7 Movies",M4: Rocky
+http://cord-cutter.net:8080/hq3y4G/234247/215314
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Romantic" group-title="24/7 Movies",M4: Romantic
+http://cord-cutter.net:8080/hq3y4G/234247/215315
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Saw" group-title="24/7 Movies",M4: Saw
+http://cord-cutter.net:8080/hq3y4G/234247/215316
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Science Fiction" group-title="24/7 Movies",M4: Science Fiction
+http://cord-cutter.net:8080/hq3y4G/234247/215317
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Sherlock Holmes" group-title="24/7 Movies",M4: Sherlock Holmes
+http://cord-cutter.net:8080/hq3y4G/234247/215318
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Shrek" group-title="24/7 Movies",M4: Shrek
+http://cord-cutter.net:8080/hq3y4G/234247/215319
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Space" group-title="24/7 Movies",M4: Space
+http://cord-cutter.net:8080/hq3y4G/234247/215320
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Spiderman" group-title="24/7 Movies",M4: Spiderman
+http://cord-cutter.net:8080/hq3y4G/234247/215321
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Sports" group-title="24/7 Movies",M4: Sports
+http://cord-cutter.net:8080/hq3y4G/234247/215322
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Spy" group-title="24/7 Movies",M4: Spy
+http://cord-cutter.net:8080/hq3y4G/234247/215323
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Star Wars" group-title="24/7 Movies",M4: Star Wars
+http://cord-cutter.net:8080/hq3y4G/234247/215324
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Superhero" group-title="24/7 Movies",M4: Superhero
+http://cord-cutter.net:8080/hq3y4G/234247/215325
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Survival" group-title="24/7 Movies",M4: Survival
+http://cord-cutter.net:8080/hq3y4G/234247/215326
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Bourne" group-title="24/7 Movies",M4: The Bourne
+http://cord-cutter.net:8080/hq3y4G/234247/215327
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Conjuring" group-title="24/7 Movies",M4: The Conjuring
+http://cord-cutter.net:8080/hq3y4G/234247/215328
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Expendables" group-title="24/7 Movies",M4: The Expendables
+http://cord-cutter.net:8080/hq3y4G/234247/215329
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Godfather" group-title="24/7 Movies",M4: The Godfather
+http://cord-cutter.net:8080/hq3y4G/234247/215330
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Hobbit" group-title="24/7 Movies",M4: The Hobbit
+http://cord-cutter.net:8080/hq3y4G/234247/215331
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Hunger Games" group-title="24/7 Movies",M4: The Hunger Games
+http://cord-cutter.net:8080/hq3y4G/234247/215332
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Karete Kid" group-title="24/7 Movies",M4: The Karete Kid
+http://cord-cutter.net:8080/hq3y4G/234247/215333
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Lord of The Rings" group-title="24/7 Movies",M4: The Lord of The Rings
+http://cord-cutter.net:8080/hq3y4G/234247/215334
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Matrix" group-title="24/7 Movies",M4: The Matrix
+http://cord-cutter.net:8080/hq3y4G/234247/215335
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Mummy" group-title="24/7 Movies",M4: The Mummy
+http://cord-cutter.net:8080/hq3y4G/234247/215336
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Purge" group-title="24/7 Movies",M4: The Purge
+http://cord-cutter.net:8080/hq3y4G/234247/215337
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: The Terminator" group-title="24/7 Movies",M4: The Terminator
+http://cord-cutter.net:8080/hq3y4G/234247/215338
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Three Flavours Cornetto" group-title="24/7 Movies",M4: Three Flavours Cornetto
+http://cord-cutter.net:8080/hq3y4G/234247/215339
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Thriller" group-title="24/7 Movies",M4: Thriller
+http://cord-cutter.net:8080/hq3y4G/234247/215340
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Toy Story" group-title="24/7 Movies",M4: Toy Story
+http://cord-cutter.net:8080/hq3y4G/234247/215341
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Transformers" group-title="24/7 Movies",M4: Transformers
+http://cord-cutter.net:8080/hq3y4G/234247/215342
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Transporter" group-title="24/7 Movies",M4: Transporter
+http://cord-cutter.net:8080/hq3y4G/234247/215343
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Twilight Saga" group-title="24/7 Movies",M4: Twilight Saga
+http://cord-cutter.net:8080/hq3y4G/234247/215344
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: War" group-title="24/7 Movies",M4: War
+http://cord-cutter.net:8080/hq3y4G/234247/215345
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Western" group-title="24/7 Movies",M4: Western
+http://cord-cutter.net:8080/hq3y4G/234247/215346
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: X-Men" group-title="24/7 Movies",M4: X-Men
+http://cord-cutter.net:8080/hq3y4G/234247/215347
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Zombie" group-title="24/7 Movies",M4: Zombie
+http://cord-cutter.net:8080/hq3y4G/234247/215348
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Benedict Cumberbatch" group-title="24/7 Movies",M4: Benedict Cumberbatch
+http://cord-cutter.net:8080/hq3y4G/234247/215349
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Bradley Cooper" group-title="24/7 Movies",M4: Bradley Cooper
+http://cord-cutter.net:8080/hq3y4G/234247/215350
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Christian Bale" group-title="24/7 Movies",M4: Christian Bale
+http://cord-cutter.net:8080/hq3y4G/234247/215351
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Cillian Murphy" group-title="24/7 Movies",M4: Cillian Murphy
+http://cord-cutter.net:8080/hq3y4G/234247/215352
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Edward Norton" group-title="24/7 Movies",M4: Edward Norton
+http://cord-cutter.net:8080/hq3y4G/234247/215353
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Hugh Jackman" group-title="24/7 Movies",M4: Hugh Jackman
+http://cord-cutter.net:8080/hq3y4G/234247/215354
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Jack Nicholson" group-title="24/7 Movies",M4: Jack Nicholson
+http://cord-cutter.net:8080/hq3y4G/234247/215355
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Jake Gyllenhaal" group-title="24/7 Movies",M4: Jake Gyllenhaal
+http://cord-cutter.net:8080/hq3y4G/234247/215356
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Jamie Foxx" group-title="24/7 Movies",M4: Jamie Foxx
+http://cord-cutter.net:8080/hq3y4G/234247/215357
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Jeff Bridges" group-title="24/7 Movies",M4: Jeff Bridges
+http://cord-cutter.net:8080/hq3y4G/234247/215358
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Jim Carrey" group-title="24/7 Movies",M4: Jim Carrey
+http://cord-cutter.net:8080/hq3y4G/234247/215359
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Johnny Depp" group-title="24/7 Movies",M4: Johnny Depp
+http://cord-cutter.net:8080/hq3y4G/234247/215360
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Keanu Reeves" group-title="24/7 Movies",M4: Keanu Reeves
+http://cord-cutter.net:8080/hq3y4G/234247/215361
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Liam Neeson" group-title="24/7 Movies",M4: Liam Neeson
+http://cord-cutter.net:8080/hq3y4G/234247/215362
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Mark Wahlberg" group-title="24/7 Movies",M4: Mark Wahlberg
+http://cord-cutter.net:8080/hq3y4G/234247/215363
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Matt Damon" group-title="24/7 Movies",M4: Matt Damon
+http://cord-cutter.net:8080/hq3y4G/234247/215364
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Micheal Caine" group-title="24/7 Movies",M4: Micheal Caine
+http://cord-cutter.net:8080/hq3y4G/234247/215365
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Morgan Freeman" group-title="24/7 Movies",M4: Morgan Freeman
+http://cord-cutter.net:8080/hq3y4G/234247/215366
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Russell Crowe" group-title="24/7 Movies",M4: Russell Crowe
+http://cord-cutter.net:8080/hq3y4G/234247/215367
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Ryan Reynolds" group-title="24/7 Movies",M4: Ryan Reynolds
+http://cord-cutter.net:8080/hq3y4G/234247/215368
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Samuel L. Jakson" group-title="24/7 Movies",M4: Samuel L. Jakson
+http://cord-cutter.net:8080/hq3y4G/234247/215369
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Tom Cruise" group-title="24/7 Movies",M4: Tom Cruise
+http://cord-cutter.net:8080/hq3y4G/234247/215370
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Tom Hanks" group-title="24/7 Movies",M4: Tom Hanks
+http://cord-cutter.net:8080/hq3y4G/234247/215371
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Will Smith" group-title="24/7 Movies",M4: Will Smith
+http://cord-cutter.net:8080/hq3y4G/234247/215372
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Adam Sandler" group-title="24/7 Movies",M4: Adam Sandler
+http://cord-cutter.net:8080/hq3y4G/234247/215373
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Arnold Schwarzenegger" group-title="24/7 Movies",M4: Arnold Schwarzenegger
+http://cord-cutter.net:8080/hq3y4G/234247/215374
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Daniel Craig" group-title="24/7 Movies",M4: Daniel Craig
+http://cord-cutter.net:8080/hq3y4G/234247/215375
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Dwayne Johnson" group-title="24/7 Movies",M4: Dwayne Johnson
+http://cord-cutter.net:8080/hq3y4G/234247/215376
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Gerard Butler" group-title="24/7 Movies",M4: Gerard Butler
+http://cord-cutter.net:8080/hq3y4G/234247/215377
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Jackie Chan" group-title="24/7 Movies",M4: Jackie Chan
+http://cord-cutter.net:8080/hq3y4G/234247/215378
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Jason Statham" group-title="24/7 Movies",M4: Jason Statham
+http://cord-cutter.net:8080/hq3y4G/234247/215379
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Kevin Hart" group-title="24/7 Movies",M4: Kevin Hart
+http://cord-cutter.net:8080/hq3y4G/234247/215380
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Orlando Bloom" group-title="24/7 Movies",M4: Orlando Bloom
+http://cord-cutter.net:8080/hq3y4G/234247/215381
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Sylvester Stallone" group-title="24/7 Movies",M4: Sylvester Stallone
+http://cord-cutter.net:8080/hq3y4G/234247/215382
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Tom Hardy" group-title="24/7 Movies",M4: Tom Hardy
+http://cord-cutter.net:8080/hq3y4G/234247/215383
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Amy Adams" group-title="24/7 Movies",M4: Amy Adams
+http://cord-cutter.net:8080/hq3y4G/234247/215384
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Anne Hathaway" group-title="24/7 Movies",M4: Anne Hathaway
+http://cord-cutter.net:8080/hq3y4G/234247/215385
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Brie Larson" group-title="24/7 Movies",M4: Brie Larson
+http://cord-cutter.net:8080/hq3y4G/234247/215386
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Cate Blanchett" group-title="24/7 Movies",M4: Cate Blanchett
+http://cord-cutter.net:8080/hq3y4G/234247/215387
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Charlize Theron" group-title="24/7 Movies",M4: Charlize Theron
+http://cord-cutter.net:8080/hq3y4G/234247/215388
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Halle Berry" group-title="24/7 Movies",M4: Halle Berry
+http://cord-cutter.net:8080/hq3y4G/234247/215389
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Helen Mirren" group-title="24/7 Movies",M4: Helen Mirren
+http://cord-cutter.net:8080/hq3y4G/234247/215390
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Brad Pitt" group-title="24/7 Movies",M4: Brad Pitt
+http://cord-cutter.net:8080/hq3y4G/234247/215391
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Al Pacino" group-title="24/7 Movies",M4: Al Pacino
+http://cord-cutter.net:8080/hq3y4G/234247/215392
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Denzel Washington" group-title="24/7 Movies",M4: Denzel Washington
+http://cord-cutter.net:8080/hq3y4G/234247/215393
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Vin Diesel" group-title="24/7 Movies",M4: Vin Diesel
+http://cord-cutter.net:8080/hq3y4G/234247/215394
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Bruce Willis" group-title="24/7 Movies",M4: Bruce Willis
+http://cord-cutter.net:8080/hq3y4G/234247/215395
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Robert Downey Jr" group-title="24/7 Movies",M4: Robert Downey Jr
+http://cord-cutter.net:8080/hq3y4G/234247/215396
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Leonardo DiCaprio" group-title="24/7 Movies",M4: Leonardo DiCaprio
+http://cord-cutter.net:8080/hq3y4G/234247/215397
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Angelina Jolie" group-title="24/7 Movies",M4: Angelina Jolie
+http://cord-cutter.net:8080/hq3y4G/234247/215398
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Alicia Vikander" group-title="24/7 Movies",M4: Alicia Vikander
+http://cord-cutter.net:8080/hq3y4G/234247/215399
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Emma Stone" group-title="24/7 Movies",M4: Emma Stone
+http://cord-cutter.net:8080/hq3y4G/234247/215400
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Emma Watson" group-title="24/7 Movies",M4: Emma Watson
+http://cord-cutter.net:8080/hq3y4G/234247/215401
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Jennifer Lawrence" group-title="24/7 Movies",M4: Jennifer Lawrence
+http://cord-cutter.net:8080/hq3y4G/234247/215402
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Julia Roberts" group-title="24/7 Movies",M4: Julia Roberts
+http://cord-cutter.net:8080/hq3y4G/234247/215403
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Julianne Moore" group-title="24/7 Movies",M4: Julianne Moore
+http://cord-cutter.net:8080/hq3y4G/234247/215404
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Kate Winslet" group-title="24/7 Movies",M4: Kate Winslet
+http://cord-cutter.net:8080/hq3y4G/234247/215405
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Keira Knightley" group-title="24/7 Movies",M4: Keira Knightley
+http://cord-cutter.net:8080/hq3y4G/234247/215406
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Kristen Stewart" group-title="24/7 Movies",M4: Kristen Stewart
+http://cord-cutter.net:8080/hq3y4G/234247/215407
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Lupita Nyong` o" group-title="24/7 Movies",M4: Lupita Nyong` o
+http://cord-cutter.net:8080/hq3y4G/234247/215408
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Margot Robbie" group-title="24/7 Movies",M4: Margot Robbie
+http://cord-cutter.net:8080/hq3y4G/234247/215409
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Meryl Streep" group-title="24/7 Movies",M4: Meryl Streep
+http://cord-cutter.net:8080/hq3y4G/234247/215410
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Michelle Pfeiffer" group-title="24/7 Movies",M4: Michelle Pfeiffer
+http://cord-cutter.net:8080/hq3y4G/234247/215411
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Natalie Portman" group-title="24/7 Movies",M4: Natalie Portman
+http://cord-cutter.net:8080/hq3y4G/234247/215412
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Nicole Kidman" group-title="24/7 Movies",M4: Nicole Kidman
+http://cord-cutter.net:8080/hq3y4G/234247/215413
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Rachel McAdams" group-title="24/7 Movies",M4: Rachel McAdams
+http://cord-cutter.net:8080/hq3y4G/234247/215414
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Reese Witherspoon" group-title="24/7 Movies",M4: Reese Witherspoon
+http://cord-cutter.net:8080/hq3y4G/234247/215415
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Salma Hayek" group-title="24/7 Movies",M4: Salma Hayek
+http://cord-cutter.net:8080/hq3y4G/234247/215416
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Sandra Bullock" group-title="24/7 Movies",M4: Sandra Bullock
+http://cord-cutter.net:8080/hq3y4G/234247/215417
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Saoirse Ronan" group-title="24/7 Movies",M4: Saoirse Ronan
+http://cord-cutter.net:8080/hq3y4G/234247/215418
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Scarlett Johansson" group-title="24/7 Movies",M4: Scarlett Johansson
+http://cord-cutter.net:8080/hq3y4G/234247/215419
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Viola Davis" group-title="24/7 Movies",M4: Viola Davis
+http://cord-cutter.net:8080/hq3y4G/234247/215420
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Cameron Diaz" group-title="24/7 Movies",M4: Cameron Diaz
+http://cord-cutter.net:8080/hq3y4G/234247/215421
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Catherine Zeta-Jones" group-title="24/7 Movies",M4: Catherine Zeta-Jones
+http://cord-cutter.net:8080/hq3y4G/234247/215422
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Drew Barrymore" group-title="24/7 Movies",M4: Drew Barrymore
+http://cord-cutter.net:8080/hq3y4G/234247/215423
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Eva Green" group-title="24/7 Movies",M4: Eva Green
+http://cord-cutter.net:8080/hq3y4G/234247/215424
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Jennifer Aniston" group-title="24/7 Movies",M4: Jennifer Aniston
+http://cord-cutter.net:8080/hq3y4G/234247/215425
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Jessica Alba" group-title="24/7 Movies",M4: Jessica Alba
+http://cord-cutter.net:8080/hq3y4G/234247/215426
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Lucy Liu" group-title="24/7 Movies",M4: Lucy Liu
+http://cord-cutter.net:8080/hq3y4G/234247/215427
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Megan Fox" group-title="24/7 Movies",M4: Megan Fox
+http://cord-cutter.net:8080/hq3y4G/234247/215428
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Melissa McCarthy" group-title="24/7 Movies",M4: Melissa McCarthy
+http://cord-cutter.net:8080/hq3y4G/234247/215429
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Mila Kunis" group-title="24/7 Movies",M4: Mila Kunis
+http://cord-cutter.net:8080/hq3y4G/234247/215430
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Penope Cruz" group-title="24/7 Movies",M4: Penope Cruz
+http://cord-cutter.net:8080/hq3y4G/234247/215431
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Sigourney Weaver" group-title="24/7 Movies",M4: Sigourney Weaver
+http://cord-cutter.net:8080/hq3y4G/234247/215432
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-logo="" tvg-name="M4: Zoe Saldana" group-title="24/7 Movies",M4: Zoe Saldana
 
 
 # ------------NEWS-------------------
