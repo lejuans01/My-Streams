@@ -99,7 +99,7 @@ http://143.244.60.30/Aspire/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="plex.tv.At.the.Movies.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/cf7b7e0a-feb0-49cf-8962-428a06c1becf/AtTheMovies_Logo_Dark_1500x1000.png" tvg-name="AT THE MOVIES", AT THE MOVIES
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66a2c1370b91165254efdb3c.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="BBC.America.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-name="BBC AMERICA", BBC AMERICA (EAST)
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="BBC.America.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-name="BBC AMERICA", BBC AMERICA
 http://vocotv.pro:80/gast/gast/269006
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="BBC.America.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-name="BBC AMERICA", BBC AMERICA (WEST) You ave to timeshift it to west coast time zone.
@@ -141,9 +141,9 @@ http://143.244.60.30/BLOOMBERG/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Boomerang.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" tvg-name="Boomerang", BOOMERANG
 http://143.244.60.30/BOOMERANG/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Bounce.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="BOUNCE 1", BOUNCE 1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Bounce.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="BOUNCE 1", BOUNCE
 http://143.244.60.30/BOUNCE_TV/index.m3u8
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Bounce.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="BOUNCE 2", BOUNCE 2
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Bounce.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="BOUNCE 2", BOUNCE
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="plex.tv.Bounce.XL.plex" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/67bb1f39c612ac06e49755f639aa08ab.png" tvg-name="Bounce XL", BOUNCE XL
@@ -152,7 +152,7 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-623d9b0370560b72147a994a.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" tvg-name="BRAVO", BRAVO
 http://143.244.60.30/BRAVO/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Buzzr.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" tvg-name="Buzzr", BUZZR
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Buzzr.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" tvg-name="BUZZER", BUZZR
 http://143.244.60.30/Buzzr/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="C-SPAN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" tvg-name="C-SPAN", C-SPAN
@@ -172,13 +172,10 @@ http://143.244.60.30/CBS_News/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="CBS.Sports.Network.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" tvg-name="CBS SPORTS NETWORK", CBS SPORTS NETWORK
 http://143.244.60.30/CBS_SPORTS_NETWORK/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="CINEMAX.HD.my" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/cinemax-hk.png?raw=true" tvg-name="ASTRO CINEMAX", ASTRO CINEMAX
-https://ott.udptv.org/stream/astro/astrocinemax/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax", 5 STARMAX
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-name="CINEMAX EAST", CINEMAX
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-name="CINEMAX", CINEMAX
 http://143.244.60.30/CINEMAX_EAST/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" tvg-name="CINEMAX MOREMAX", CINEMAX MOREMAX
@@ -323,10 +320,10 @@ https://a1xs.vip/40000021
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Fox.Sports.2.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" tvg-name="FS2", FS2
 http://23.237.104.106:8080/USA_FS2/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FUSE.TV.-.Eastern.feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" tvg-name="FUSE", FUSE 1
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FUSE.TV.-.Eastern.feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" tvg-name="FUSE", FUSE
 http://143.244.60.30/FUSE/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Test.Dummy.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" tvg-name="FUSE 2", FUSE 2
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Test.Dummy.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" tvg-name="FUSE", FUSE
 http://cord-cutter.net:8080/hq3y4G/234247/46701
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FX.Networks.East.Coast.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fx-us.png?raw=true" tvg-name="FX", FX
@@ -369,7 +366,7 @@ http://143.244.60.30/HALLMARK_MOVIES_MYSTERIES/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="plex.tv.HerSphere.by.Lionsgate.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3ed082aa-5659-4fd0-8775-22613a65f924/HerSphere_1500x1000_Logo_Dark.png" tvg-name="HERSPHERE BY LOINSGATE",HERSPHERE BY LOINSGATE
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-644c4bc17472b186783f35a0.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" tvg-name="HBO", HBO
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" tvg-name="HBO", HBO
 http://143.244.60.30/HBO/index.m3u8
 # https://tvnow.best/api/stream/mikemog/878404/livetv.epg/hbo.eastern.us.m3u8
 
@@ -391,7 +388,7 @@ http://143.244.60.30/HBO_ZONE/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" tvg-name="HGTV", HGTV
 http://143.244.60.30/HGTV/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png", HGTV 2
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png", HGTV
 https://streamer1.nexgen.bz/HGTV/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="HGTV.nz" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hgtv-us.png?raw=true" tvg-name="HGTV NZ", HGTV (NZ)
