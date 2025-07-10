@@ -18,7 +18,7 @@
 
 ⭐ My Playlist: [Backup.m3u](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u)  Epg: [Link](https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz) Just incase it dosen't load with the playlist.
  
-⭐ My Playlist: [TheTVApp.m3u8](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8)  Epg: [Link](https://raw.githubusercontent.com/BuddyChewChew/tpass/refs/heads/main/epgs/tvpass-epg.xml.gz)
+⭐ My Playlist: [TheTVApp.m3u8](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8)  Epg: [Link](https://raw.githubusercontent.com/BuddyChewChew/tpass/refs/heads/main/epgs/tvpass-epg.xml.gz) Criedit [DrewLive](https://github.com/Drewski2423/DrewLive) check out his repo. Tons of streams.
 
 ⭐ <a href="https://github.com/BuddyChewChew/My-Streams/tree/main/Google%20Script%20And%20Install%20Info" target="_blank">Google Script And Install Info</a> Host your own version of the `Pluto`, `Samsung`, `Stirr`, `Plex`, `Roku` and `Tubi` playlist script. You can use in your IPTV Player.
 
