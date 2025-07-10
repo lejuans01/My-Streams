@@ -525,7 +525,8 @@ http://143.244.60.30/NHL_NETWORK/index.m3u8
 http://143.244.60.30/NICKELODEON/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="NICKELODEON", NICKELODEON
-https://ft.fbcdntv247.cfd/memfs/64e9b01f-1dfc-4708-b9b6-ab6249c25536_output_0.m3u8
+http://cord-cutter.net:8080/hq3y4G/234247/38
+# https://ft.fbcdntv247.cfd/memfs/64e9b01f-1dfc-4708-b9b6-ab6249c25536_output_0.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Nick.Jr..-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png" tvg-name="NickJr", NICKJR
 http://143.244.60.30/NICK_JR/index.m3u8
