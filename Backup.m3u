@@ -399,6 +399,8 @@ https://i.mjh.nz/.r/discovery-hgtv.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" tvg-name="History", HISTORY
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium322%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50" tvg-id="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50" tvg-chno="" tvg-name="History Hit" tvg-logo="https://provider-static.plex.tv/epg/cms/production/122cb7c8-2f6f-429a-8299-e89d9e632925/HistoryHit_Rectangle_colour_1500x1000_logo.png" group-title="MoveOnJoy+", HISTORY HIT
+
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="HLN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" tvg-name="HLN", HLN
 http://143.244.60.30/HLN/index.m3u8
 
@@ -410,6 +412,9 @@ http://23.237.104.106:8080/USA_IFC/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="IFC.HDTV.(East).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ifc-us.png?raw=true" tvg-name="IFC", IFC
 https://tvpass.org/live/IFCEast/sd
+
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057" tvg-id="5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057" tvg-chno="" tvg-name="IFC Films Picks" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/956bc5f750ddad6a83cc2411a447a984.png" group-title="MoveOnJoy+", IFC FILMS PICKS
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fc705eb052f6f002ef46057.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Investigation.Discovery.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16615_dark_360w_270h.png" tvg-name="ID (Investigation Discovery)", ID CHANNEL
 http://143.244.60.30/INVESTIGATION_DISCOVERY/index.m3u8
@@ -510,7 +515,7 @@ http://143.244.60.30/NFL_RedZone/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="NHL.Network.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" tvg-name="NHL Network", NHL NETWORK
 http://143.244.60.30/NHL_NETWORK/index.m3u8
 
-# EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="NICKELODEON (OFFLINE)", NICKELODEON (OFFLINE)
+# EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="NICKELODEON", NICKELODEON
 http://143.244.60.30/NICKELODEON/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="NICKELODEON", NICKELODEON
@@ -549,6 +554,9 @@ http://143.244.60.30/REELZ/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Revolt.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/revolt-us.png?raw=true" tvg-name="Revolt", REVOLT
 http://143.244.60.30/REVOLT/index.m3u8
+
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-66f5a92352c50d2f62020f38" tvg-id="5e20b730f2f8d5003d739db7-66f5a92352c50d2f62020f38" tvg-chno="" tvg-name="Horror by ALTER" tvg-logo="https://provider-static.plex.tv/epg/cms/production/30b777b5-603d-4ab8-b8f9-9d37da513edd/HorrorbyAlter_logo_1500x1000_-_Courtney_Cox.png" group-title="MoveOnJoy+", HORROR BY ALTER
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66f5a92352c50d2f62020f38.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="plex.tv.Scares.by.Shudder.plex" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/627ce40ef536741e2d80772b3624650b.png" tvg-name="SCARES BY SHUDDER", SCARES BY SHUDDER
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-650b38f490baad1963ad96f9.m3u8
@@ -740,17 +748,22 @@ https://jmp2.uk/str-5747.m3u8
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="plex.tv.80`s.Sitcom.Flashback.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6a33b82d-db12-4f5d-8f8f-d49c803dce6a/LogoColor1500RDX.png", 80'S SITCOM FLASHBACK
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332.m3u8
 
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-68161fa001a9a5584ff27e96" tvg-id="5e20b730f2f8d5003d739db7-68161fa001a9a5584ff27e96" tvg-chno="" tvg-name="Ancient Aliens" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2fe1556a-c271-46cb-927f-935263f2491c/AncientAliensGM_channel_logo_WHite_RDX.png" group-title="24/7 Programs", ANCIENT ALIENS
+
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="plex.tv.ACL.Cornhole.TV.plex" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/cornhole.png?raw=true", ACL CORNHOLE TV
 https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV.m3u8
-
-#EXTINF:-1 group-title="24/7 Programs" tvg-id="plex.tv.Billiard.TV.plex" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/billard.png?raw=true", BILLIARD TV
-https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
 
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-6303ca568a01b5d4dae57d0e" tvg-id="5e20b730f2f8d5003d739db7-6303ca568a01b5d4dae57d0e" tvg-chno="" tvg-name="ANGER MANAGEMNT" tvg-logo="https://provider-static.plex.tv/epg/cms/production/fb5704c7-3992-49f6-b534-11158f20604e/AngerManagement_logodark_1500x1000_-_Chris_Connors.png" group-title="24/7 Programs",ANGER MANAGEMNT
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6303ca568a01b5d4dae57d0e.m3u8
 
+#EXTINF:-1 group-title="24/7 Programs" tvg-id="plex.tv.Billiard.TV.plex" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/billard.png?raw=true", BILLIARD TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
+
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="plex.tv.Bizarre.Foods.with.Andrew.Zimmern.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2caec99a-31fd-4a16-a158-5fe3ea530f59/BizarreFoodsWithAndrewZimmern_Logo_Dark_1500x1000.png" tvg-name="BIZARRE FOODS WITH ANDREW ZIMMERN", BIZARRE FOODS WITH ANDREW ZIMMERN
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66a2b83ef7180d8d2ca77f60.m3u8
+
+#EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-640205c40e1daf16b299567e" tvg-id="5e20b730f2f8d5003d739db7-640205c40e1daf16b299567e" tvg-chno="" tvg-name="Celebrity Name Game" tvg-logo="https://provider-static.plex.tv/epg/cms/production/773232e1-5c36-490b-922e-e5be8ec12eb2/celebrityd5796a3e14bf45513f7b3071b90d030.png" group-title="24/7 Programs",CELEBRITY NAME GAME
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-640205c40e1daf16b299567e.m3u8
 
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="plex.tv.Family.Feud.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2b3983fb-0a5d-4c5a-a7b7-bc9943847393/channel_logo_1500x1000_light.png__1_.png" tvg-name="FAMILY FEUD", FAMILY FEUD
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66a2d1390b91165254efdb3e.m3u8
