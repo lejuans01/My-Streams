@@ -6,19 +6,19 @@
 
 ## 🏠 REPO HOMEPAGE: MY REPOS
 
-`Update 7/3/25`
+`Update 7/11/25`
 
 ⭐ My Playlist: [Backup.m3u](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u)  Epg: [Backup-epg.xml](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/epgs/Backup-epg.xml) 0R [Backup-epg.xml.gz](https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/epgs/Backup-epg.xml.gz) Just incase it dosen't load with the playlist.
 
-⭐ <a href="https://github.com/BuddyChewChew/My-Streams/tree/main/Google%20Script%20And%20Install%20Info" target="_blank">Google Script And Install Info</a> Host your own version of the `Pluto`, `Samsung`, `Stirr`, `Plex`, `Roku` and `Tubi` playlist script. You can use in your IPTV Player.
-
-⭐ [combine-remote-playlists](https://github.com/BuddyChewChew/combine-remote-playlists) `PLAYLISTS UPDATED 6/9/25`
+⭐ [combine-remote-playlists](https://github.com/BuddyChewChew/combine-remote-playlists) `PLAYLISTS UPDATED 7/11/25`
 
 ⭐ [tubi-scraper](https://github.com/BuddyChewChew/tubi-scraper) `Tubi` m3u with epg.
 
 ⭐ [localnow-playlist-generator](https://github.com/BuddyChewChew/localnow-playlist-generator) `Localnow` m3u with epg.
 
 ⭐ [xumo-playlist-generator](https://github.com/BuddyChewChew/xumo-playlist-generator) `Xumo` m3u with epg.
+
+⭐ <a href="https://github.com/BuddyChewChew/My-Streams/tree/main/Google%20Script%20And%20Install%20Info" target="_blank">Google Script And Install Info</a> Host your own version of ( app-m3u-generator ) On Google. Easy and free. The script will give you `Pluto`, `Samsung`, `Stirr`, `Plex`, `Roku` and `Tubi` links to use in your IPTV Player.
 
 ⭐ [app-m3u-generator](https://github.com/BuddyChewChew/app-m3u-generator) `Pluto`, `Samsung`, `Stirr`, `Plex`, `Tubi` Playlist & EPG Direct Links.
 
@@ -35,7 +35,7 @@
 - `apsattv` [Multiple Playlists](https://apsattv.com/streams.html)
 - `adultswim` [Playlist](https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_adultswim.m3u)
 - `tvpass.org` [Playlist](https://tvpass.org/playlist/m3u) From: tvpass.org
-- `repo` [DrewLive](https://github.com/Drewski2423/DrewLive) ( Great repo ) Way more content then I offer.
+- `💥` [DrewLive](https://github.com/Drewski2423/DrewLive) ( Great repo ) Tons of content.
 
 🔵 **EPGS**
 - `www.bevy.be` [Multiple Epg](https://www.bevy.be/epg-guide/)
