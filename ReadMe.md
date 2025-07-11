@@ -24,7 +24,7 @@
 
 ---------------------------------------------
 
-🌎 **LINKS:**
+🔗 **LINKS:**
 
 🔵 **STREAMING SITES & LINKS**
 - `videopiracyguide` [Link](https://fmhy.pages.dev/videopiracyguide#live-tv--sports) Resources related to IPTV, Streaming and info.
