@@ -4,12 +4,11 @@
 
 ---------------------------------------------
 
-## 🏠 REPO HOMEPAGE
+## 🏠 REPO HOMEPAGE: MY REPOS
 
 `Update 7/3/25`
 
 ⭐ My Playlist: [Backup.m3u](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u)  Epg: [Link](https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz) Just incase it dosen't load with the playlist.
-
 
 ⭐ <a href="https://github.com/BuddyChewChew/My-Streams/tree/main/Google%20Script%20And%20Install%20Info" target="_blank">Google Script And Install Info</a> Host your own version of the `Pluto`, `Samsung`, `Stirr`, `Plex`, `Roku` and `Tubi` playlist script. You can use in your IPTV Player.
 
@@ -38,12 +37,12 @@
 - `tvpass.org` [Playlist](https://tvpass.org/playlist/m3u) From: tvpass.org
 - `repo` [DrewLive](https://github.com/Drewski2423/DrewLive) ( Great repo ) Way more content then I offer.
 
-
-> [!WARNING]
-> DISCLAIMER: The scripts and links provided on this GitHub page are for informational and educational purposes only. I do not claim responsibility for any issues, damages, or losses that may arise from the use of these scripts or links. Users are advised to use them at their own risk and discretion. Always review and test any code or links before implementing them in your projects.
 🔵 **EPGS**
 - `www.bevy.be` [Multiple Epg](https://www.bevy.be/epg-guide/)
 - `acidjesuz` [Multiple Epg](https://github.com/acidjesuz/EPGTalk)
 - `epgshare01` [Multiple Epg](https://epgshare01.online/epgshare01)
 - `i.mjh.nz` [Multiple Epg](https://github.com/matthuisman/i.mjh.nz/) Plex, SamsungTVPlus, Pluto, Stirr, Roku and more.
+
+> [!WARNING]
+> DISCLAIMER: The scripts and links provided on this GitHub page are for informational and educational purposes only. I do not claim responsibility for any issues, damages, or losses that may arise from the use of these scripts or links. Users are advised to use them at their own risk and discretion. Always review and test any code or links before implementing them in your projects.
 
