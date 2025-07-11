@@ -31,20 +31,20 @@
 
 ---------------------------------------------
 
-🌎 **LINKS:**
+## 🌎 **LINKS:**
 
-### 🔵 STREAMING SITES & LINKS
+🔵 **STREAMING SITES & LINKS**
 - `videopiracyguide` [Link](https://fmhy.pages.dev/videopiracyguide#live-tv--sports) Resources related to IPTV, Streaming and info.
 - `awesome-iptv` [Link](https://github.com/iptv-org/awesome-iptv) A curated list of resources related to IPTV.
 
-### 🔵 M3U PLAYLIST
+🔵 **M3U PLAYLIST**
 - `iptv-org` [Multiple Playlists](https://github.com/iptv-org/iptv)
 - `apsattv` [Multiple Playlists](https://apsattv.com/streams.html)
 - `adultswim` [Playlist](https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_adultswim.m3u)
 - `tvpass.org` [Playlist](https://tvpass.org/playlist/m3u) From: tvpass.org
 - `repo` [DrewLive](https://github.com/Drewski2423/DrewLive) ( Great repo ) Way more content then I offer.
 
-### 🔵 EPGS
+🔵 **EPGS**
 - `www.bevy.be` [Multiple Epg](https://www.bevy.be/epg-guide/)
 - `acidjesuz` [Multiple Epg](https://github.com/acidjesuz/EPGTalk)
 - `epgshare01` [Multiple Epg](https://epgshare01.online/epgshare01)
