@@ -8,7 +8,7 @@
 
 `Update 7/3/25`
 
-⭐ My Playlist: [Backup.m3u](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u)  Epg: [Backup-epg.xml](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/epgs/Backup-epg.xml) 0R [Backup-epg.xml.gz)]https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/epgs/Backup-epg.xml.gz) Just incase it dosen't load with the playlist.
+⭐ My Playlist: [Backup.m3u](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u)  Epg: [Backup-epg.xml](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/epgs/Backup-epg.xml) 0R [Backup-epg.xml.gz](https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/epgs/Backup-epg.xml.gz) Just incase it dosen't load with the playlist.
 
 ⭐ <a href="https://github.com/BuddyChewChew/My-Streams/tree/main/Google%20Script%20And%20Install%20Info" target="_blank">Google Script And Install Info</a> Host your own version of the `Pluto`, `Samsung`, `Stirr`, `Plex`, `Roku` and `Tubi` playlist script. You can use in your IPTV Player.
 
