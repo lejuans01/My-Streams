@@ -1,12 +1,6 @@
-> [!WARNING]
-> DISCLAIMER: The scripts and links provided on this GitHub page are for informational and educational purposes only. I do not claim responsibility for any issues, damages, or losses that may arise from the use of these scripts or links. Users are advised to use them at their own risk and discretion. Always review and test any code or links before implementing them in your projects.
-
 📌 Repo Discussion: ( Changes, updates, Info ) [Link](https://github.com/BuddyChewChew/My-Streams/issues/5)
 
 📌 Discord: https://discord.gg/xhAdX8Ryxp
-
-
-
 
 ---------------------------------------------
 
@@ -31,7 +25,7 @@
 
 ---------------------------------------------
 
-## 🌎 **LINKS:**
+🌎 **LINKS:**
 
 🔵 **STREAMING SITES & LINKS**
 - `videopiracyguide` [Link](https://fmhy.pages.dev/videopiracyguide#live-tv--sports) Resources related to IPTV, Streaming and info.
@@ -44,6 +38,9 @@
 - `tvpass.org` [Playlist](https://tvpass.org/playlist/m3u) From: tvpass.org
 - `repo` [DrewLive](https://github.com/Drewski2423/DrewLive) ( Great repo ) Way more content then I offer.
 
+
+> [!WARNING]
+> DISCLAIMER: The scripts and links provided on this GitHub page are for informational and educational purposes only. I do not claim responsibility for any issues, damages, or losses that may arise from the use of these scripts or links. Users are advised to use them at their own risk and discretion. Always review and test any code or links before implementing them in your projects.
 🔵 **EPGS**
 - `www.bevy.be` [Multiple Epg](https://www.bevy.be/epg-guide/)
 - `acidjesuz` [Multiple Epg](https://github.com/acidjesuz/EPGTalk)
