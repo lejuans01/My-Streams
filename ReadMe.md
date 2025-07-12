@@ -10,7 +10,7 @@
 
 ⭐ Playlist 1: [Backup.m3u](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u) Epg: [Backup-epg.xml](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/epgs/Backup-epg.xml) 0R [Backup-epg.xml.gz](https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/epgs/Backup-epg.xml.gz) Just incase it dosen't load with the playlist.
 
-⭐ Playlist 2: [TheTVApp.m3u8](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8) Epg: [epg.xml](https://tvpass.org/epg.xml)
+⭐ Playlist 2: [TheTVApp.m3u8](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8) Epg: [epg.xml](https://tvpass.org/epg.xml) *Thanks [DrewLive](https://github.com/Drewski2423/DrewLive)
 
 ⭐ [combine-remote-playlists](https://github.com/BuddyChewChew/combine-remote-playlists) `PLAYLISTS UPDATED 7/11/25`
 
