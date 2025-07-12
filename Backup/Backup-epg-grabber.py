@@ -89,6 +89,7 @@ urls = [
     'https://epgshare01.online/epgshare01/epg_ripper_FANDUEL1.xml.gz',
     'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/all.xml',
     'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/all.xml',
+    'https://github.com/BuddyChewChew/xumo-playlist-generator/raw/refs/heads/main/playlists/xumo_epg.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz'
 ]
 
