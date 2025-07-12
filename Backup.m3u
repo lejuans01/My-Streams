@@ -800,8 +800,16 @@ https://jmp2.uk/sam-USBD1700009P5.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="LOONEY TUNES" group-title="24/7 Programs",LOONEY TUNES
 http://cord-cutter.net:8080/hq3y4G/234247/125638
 
-#EXTINF:-1 tvg-id="Test.Dummy.us" group-title="24/7 Programs",24/7 American Dad (test)
+#EXTINF:-1 tvg-id="Test.Dummy.us" group-title="24/7 Programs", AMERICAN DAD (test)
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/511223
+
+#EXTINF:-1 tvg-id="Test.Dummy.us" group-title="24/7 Programs", BOB'S BURGERS 1 (test)
+#EXTVLCOPT:network-caching=1000
+https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/30693
+
+#EXTINF:-1 tvg-id="Test.Dummy.us" group-title="24/7 Programs", BOB'S BURGERS 2 (test)
+#EXTVLCOPT:network-caching=1000
+https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/511288
 
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="FAMILY GUY CH1", FAMILY GUY CH1
 http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
