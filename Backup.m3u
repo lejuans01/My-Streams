@@ -793,6 +793,12 @@ https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 
+#EXTINF:-1 group-title="24/7 Programs" tvg-id="5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd34" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6799c2678500b00ee16b862a3e69b4d4.png" tvg-name="SNL VAULT", SNL VAULT
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd34.m3u8
+
+#EXTINF:-1 tvg-id="99951236" tvg-name="SNL VAULT" tvg-logo="https://image.xumo.com/v1/channels/channel/99951236/168x168.png?type=color_onBlack" group-title="24/7 Programs",SNL Vault
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951236/hls/master.m3u8?ads.xumo_channelId=99951236&ads.asnw=169843&ads.afid=380737434&ads.sfid=19208104&ads.csid=xumo_web_NBCUSNLVault_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=1d54f2f0-a35d-4d13-9206-0cf42c094870&ads._fw_vcid2=512116:1d54f2f0-a35d-4d13-9206-0cf42c094870&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3931&ads.xumo_contentName=NBCUSNLVault&ads.xumo_providerId=3931&ads.xumo_providerName=NBCUSNLVault&ads.channelId=99951236&ads._fw_ifa_type=
+
 #EXTINF:-1 channel-id="64edf6eaa7ec0d000812f58c-gb" tvg-id="64edf6eaa7ec0d000812f58c" tvg-chno="300" tvg-name="SOUTH PARK" tvg-logo="https://images.pluto.tv/channels/64edf6eaa7ec0d000812f58c/colorLogoPNG.png" group-title="24/7 Programs",SOUTH PARK
 https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
 
@@ -859,11 +865,6 @@ http://cord-cutter.net:8080/hq3y4G/234247/66397
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="SEINFELD" group-title="24/7 Programs",SEINFELD
 http://cord-cutter.net:8080/hq3y4G/234247/66303
 
-#EXTINF:-1 group-title="24/7 Programs" tvg-id="5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd34" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6799c2678500b00ee16b862a3e69b4d4.png" tvg-name="SNL VAULT", SNL VAULT
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5fc70600598c41002da3dd34.m3u8
-
-#EXTINF:-1 tvg-id="99951236" tvg-name="SNL VAULT" tvg-logo="https://image.xumo.com/v1/channels/channel/99951236/168x168.png?type=color_onBlack" group-title="24/7 Programs",SNL Vault
-https://d4whmvwm0rdvi.cloudfront.net/10007/99951236/hls/master.m3u8?ads.xumo_channelId=99951236&ads.asnw=169843&ads.afid=380737434&ads.sfid=19208104&ads.csid=xumo_web_NBCUSNLVault_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=1d54f2f0-a35d-4d13-9206-0cf42c094870&ads._fw_vcid2=512116:1d54f2f0-a35d-4d13-9206-0cf42c094870&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3931&ads.xumo_contentName=NBCUSNLVault&ads.xumo_providerId=3931&ads.xumo_providerName=NBCUSNLVault&ads.channelId=99951236&ads._fw_ifa_type=
 
 #EXTINF:-1 tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/as.png?raw=true" group-title="24/7 Programs" tvg-id="24.7.Dummy.us", Last Stream on the Left
 https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
