@@ -88,6 +88,7 @@ urls = [
     'https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_FANDUEL1.xml.gz',
     'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Plex/all.xml',
+    'https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/PlutoTV/all.xml',
     'https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz'
 ]
 
