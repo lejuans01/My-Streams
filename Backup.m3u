@@ -792,6 +792,27 @@ https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="Redbull.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/red-bull-tv-int.png?raw=true", REDBULL
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
+
+#EXTINF:-1 channel-id="64edf6eaa7ec0d000812f58c-gb" tvg-id="64edf6eaa7ec0d000812f58c" tvg-chno="300" tvg-name="SOUTH PARK" tvg-logo="https://images.pluto.tv/channels/64edf6eaa7ec0d000812f58c/colorLogoPNG.png" group-title="24/7 Programs",SOUTH PARK
+https://jmp2.uk/plu-64edf6eaa7ec0d000812f58c.m3u8
+
+#EXTINF:-1 channel-id="62bdb1c5e25122000798ac79-ca" tvg-id="62bdb1c5e25122000798ac79" tvg-chno="120" tvg-name="SOUTH PARK" tvg-logo="https://images.pluto.tv/channels/62bdb1c5e25122000798ac79/colorLogoPNG.png" group-title="24/7 Programs",SOUTH PARK
+https://jmp2.uk/plu-62bdb1c5e25122000798ac79.m3u8
+
+#EXTINF:-1 channel-id="65df4934f7f0af0008c32545-ca" tvg-id="65df4934f7f0af0008c32545" tvg-chno="122" tvg-name="SOUTH PARK: CARTMAN COLLECTION" tvg-logo="https://images.pluto.tv/channels/65df4934f7f0af0008c32545/colorLogoPNG.png" group-title="24/7 Programs",SOUTH PARK: CARTMAN COLLECTION
+https://jmp2.uk/plu-65df4934f7f0af0008c32545.m3u8
+
+#EXTINF:-1 channel-id="65df47f428730900089f83ac-ca" tvg-id="65df47f428730900089f83ac" tvg-chno="123" tvg-name="SOUTH PARK: KENNY COLLECTION" tvg-logo="https://images.pluto.tv/channels/65df47f428730900089f83ac/colorLogoPNG.png" group-title="24/7 Programs",SOUTH PARK: KENNY COLLECTION
+https://jmp2.uk/plu-65df47f428730900089f83ac.m3u8
+
+#EXTINF:-1 channel-id="65df49b30d45610008172c5b-ca" tvg-id="65df49b30d45610008172c5b" tvg-chno="124" tvg-name="SOUTH PARK: KYLE COLLECTION" tvg-logo="https://images.pluto.tv/channels/65df49b30d45610008172c5b/colorLogoPNG.png" group-title="24/7 Programs",SOUTH PARK: KYLE COLLECTION
+https://jmp2.uk/plu-65df49b30d45610008172c5b.m3u8
+
+#EXTINF:-1 channel-id="65df48ba28730900089f8480-ca" tvg-id="65df48ba28730900089f8480" tvg-chno="125" tvg-name="SOUTH PARK: STAN COLLECTION" tvg-logo="https://images.pluto.tv/channels/65df48ba28730900089f8480/colorLogoPNG.png" group-title="24/7 Programs",SOUTH PARK: STAN COLLECTION
+https://jmp2.uk/plu-65df48ba28730900089f8480.m3u8
+
+
+
 #EXTINF:-1 group-title="24/7 Programs" tvg-name="World Poker Tour" tvg-id="plex.tv.The.World.Poker.Tour.plex" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/wpt.png?raw=true", WORLD POKER TOUR
 https://jmp2.uk/sam-USBD1700009P5.m3u8
 
@@ -819,7 +840,6 @@ http://cord-cutter.net:8080/hq3y4G/234247/66317
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name=" RICK AND MORTY" group-title="24/7 Programs", RICK AND MORTY
 http://cord-cutter.net:8080/hq3y4G/234247/66302
-
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="South Park*" group-title="24/7 Programs",SOUTH PARK
 http://cord-cutter.net:8080/hq3y4G/234247/66401
