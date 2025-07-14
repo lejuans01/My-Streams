@@ -828,41 +828,50 @@ https://jmp2.uk/sam-USBD1700009P5.m3u8
 http://cord-cutter.net:8080/hq3y4G/234247/125638
 
 #EXTINF:-1 tvg-id="Test.Dummy.us" group-title="24/7 Programs", AMERICAN DAD (test)
+#EXTVLCOPT:network-caching=2000
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/511223
 
 #EXTINF:-1 tvg-id="Test.Dummy.us" group-title="24/7 Programs", BOB'S BURGERS 1 (test)
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/30693
 
 #EXTINF:-1 tvg-id="Test.Dummy.us" group-title="24/7 Programs", BOB'S BURGERS 2 (test)
-#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:network-caching=2000
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/511288
 
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="FAMILY GUY CH1", FAMILY GUY CH1
+#EXTVLCOPT:network-caching=2000
 http://user.scalecdn.co:8080/live/26725074/92867131/50187.ts
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="FAMILY GUY CH2" group-title="24/7 Programs", FAMILY GUY CH2
+#EXTVLCOPT:network-caching=2000
 http://cord-cutter.net:8080/hq3y4G/234247/66317
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name=" RICK AND MORTY" group-title="24/7 Programs", RICK AND MORTY
+#EXTVLCOPT:network-caching=2000
 http://cord-cutter.net:8080/hq3y4G/234247/66302
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="South Park*" group-title="24/7 Programs",SOUTH PARK
 http://cord-cutter.net:8080/hq3y4G/234247/66401
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="FRIENDS" group-title="24/7 Programs",FRIENDS
+#EXTVLCOPT:network-caching=2000
 http://cord-cutter.net:8080/hq3y4G/234247/66407
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="THE GOLDEN GIRLS" group-title="24/7 Programs",THE GOLDEN GIRLS
+#EXTVLCOPT:network-caching=2000
 http://cord-cutter.net:8080/hq3y4G/234247/120948
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="The KING OF QUEENS" group-title="24/7 Programs",THE KING OF QUEENS
+#EXTVLCOPT:network-caching=2000
 http://cord-cutter.net:8080/hq3y4G/234247/79567
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="RIDICULOUSNESS" group-title="24/7 Programs",RIDICULOUSNESS
+#EXTVLCOPT:network-caching=2000
 http://cord-cutter.net:8080/hq3y4G/234247/66397
 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="SEINFELD" group-title="24/7 Programs",SEINFELD
+#EXTVLCOPT:network-caching=2000
 http://cord-cutter.net:8080/hq3y4G/234247/66303
 
 
