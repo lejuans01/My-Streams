@@ -160,6 +160,8 @@ http://143.244.60.30/Buzzr/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="C-SPAN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" tvg-name="C-SPAN", C-SPAN
 http://143.244.60.30/C-SPAN/index.m3u8
 
+#EXTINF:-1 tvg-id="Adult.Swim.-.East.ca" tvg-logo="https://www.nicepng.com/png/detail/326-3269271_adult-swim-adult-swim-logo-png.png" tvg-name="[ Adult Swim ] (CA)" group-title="MoveOnJoy+", [ Adult Swim ] (CA)
+http://cord-cutter.net:8080/hq3y4G/234247/11644
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true", [ AS ]5PM-6AM.est
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/aseast.us.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Cartoon.Network.USA.-.Pacific.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true", [ AS ]8PM-9AM.est
