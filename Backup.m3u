@@ -825,26 +825,26 @@ https://jmp2.uk/sam-USBD1700009P5.m3u8
 
 
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="LOONEY TUNES" group-title="24/7 Programs",LOONEY TUNES
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="LOONEY TUNES" group-title="24/7 Programs", LOONEY TUNES
 http://cord-cutter.net:8080/hq3y4G/234247/125638
 
-#EXTINF:-1 tvg-id="Test.Dummy.us" group-title="24/7 Programs", AMERICAN DAD CH1
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="24/7 Programs", AMERICAN DAD CH1
 #EXTVLCOPT:network-caching=2000
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/511223
 
-#EXTINF:-1 tvg-id="Test.Dummy.us" group-title="24/7 TEMP", AMERICAN DAD CH2
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="24/7 Programs", AMERICAN DAD CH2
 #EXTVLCOPT:network-caching=2000
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/511224
 
-#EXTINF:-1 tvg-id="Test.Dummy.us" group-title="24/7 TEMP", AMERICAN DAD CH3
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="24/7 Programs", AMERICAN DAD CH3
 #EXTVLCOPT:network-caching=2000
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/30651
 
-#EXTINF:-1 tvg-id="Test.Dummy.us" group-title="24/7 Programs", BOB'S BURGERS CH1
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="24/7 Programs", BOB'S BURGERS CH1
 #EXTVLCOPT:network-caching=2000
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/30693
 
-#EXTINF:-1 tvg-id="Test.Dummy.us" group-title="24/7 Programs", BOB'S BURGERS CH2
+#EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="24/7 Programs", BOB'S BURGERS CH2
 #EXTVLCOPT:network-caching=2000
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/511288
 
@@ -860,26 +860,26 @@ http://cord-cutter.net:8080/hq3y4G/234247/66317
 #EXTVLCOPT:network-caching=2000
 http://cord-cutter.net:8080/hq3y4G/234247/66302
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="South Park*" group-title="24/7 Programs",SOUTH PARK
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="South Park*" group-title="24/7 Programs", SOUTH PARK
 http://cord-cutter.net:8080/hq3y4G/234247/66401
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="FRIENDS" group-title="24/7 Programs",FRIENDS
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="FRIENDS" group-title="24/7 Programs", FRIENDS
 #EXTVLCOPT:network-caching=2000
 http://cord-cutter.net:8080/hq3y4G/234247/66407
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="THE GOLDEN GIRLS" group-title="24/7 Programs",THE GOLDEN GIRLS
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="THE GOLDEN GIRLS" group-title="24/7 Programs", THE GOLDEN GIRLS
 #EXTVLCOPT:network-caching=2000
 http://cord-cutter.net:8080/hq3y4G/234247/120948
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="The KING OF QUEENS" group-title="24/7 Programs",THE KING OF QUEENS
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="The KING OF QUEENS" group-title="24/7 Programs", THE KING OF QUEENS
 #EXTVLCOPT:network-caching=2000
 http://cord-cutter.net:8080/hq3y4G/234247/79567
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="RIDICULOUSNESS" group-title="24/7 Programs",RIDICULOUSNESS
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="RIDICULOUSNESS" group-title="24/7 Programs", RIDICULOUSNESS
 #EXTVLCOPT:network-caching=2000
 http://cord-cutter.net:8080/hq3y4G/234247/66397
 
-#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="SEINFELD" group-title="24/7 Programs",SEINFELD
+#EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="SEINFELD" group-title="24/7 Programs", SEINFELD
 #EXTVLCOPT:network-caching=2000
 http://cord-cutter.net:8080/hq3y4G/234247/66303
 
