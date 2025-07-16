@@ -828,15 +828,23 @@ https://jmp2.uk/sam-USBD1700009P5.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="" tvg-name="LOONEY TUNES" group-title="24/7 Programs",LOONEY TUNES
 http://cord-cutter.net:8080/hq3y4G/234247/125638
 
-#EXTINF:-1 tvg-id="Test.Dummy.us" group-title="24/7 Programs", AMERICAN DAD (test)
+#EXTINF:-1 tvg-id="Test.Dummy.us" group-title="24/7 Programs", AMERICAN DAD CH1
 #EXTVLCOPT:network-caching=2000
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/511223
 
-#EXTINF:-1 tvg-id="Test.Dummy.us" group-title="24/7 Programs", BOB'S BURGERS 1 (test)
+#EXTINF:-1 tvg-id="Test.Dummy.us" group-title="24/7 TEMP", AMERICAN DAD CH2
+#EXTVLCOPT:network-caching=2000
+https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/511224
+
+#EXTINF:-1 tvg-id="Test.Dummy.us" group-title="24/7 TEMP", AMERICAN DAD CH3
+#EXTVLCOPT:network-caching=2000
+https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/30651
+
+#EXTINF:-1 tvg-id="Test.Dummy.us" group-title="24/7 Programs", BOB'S BURGERS CH1
 #EXTVLCOPT:network-caching=2000
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/30693
 
-#EXTINF:-1 tvg-id="Test.Dummy.us" group-title="24/7 Programs", BOB'S BURGERS 2 (test)
+#EXTINF:-1 tvg-id="Test.Dummy.us" group-title="24/7 Programs", BOB'S BURGERS CH2
 #EXTVLCOPT:network-caching=2000
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/511288
 
