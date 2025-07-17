@@ -742,8 +742,63 @@ https://jmp2.uk/str-5747.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/darcizzle.png?raw=true" tvg-name="darcizzle offshore", DARCIZZLE OFFSHORE
 https://30a-tv.com/darcizzle.m3u8
 
+# ------------NEWS-------------------
+#EXTINF:-1 group-title="News Other" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true?raw=true", [ NEWS OTHER ]
+https://jmp2.uk/str-5747.m3u8
+# ------------NEWS-------------------
+
+#EXTINF:-1 tvg-id="plex.tv.AccuWeather.NOW.plex" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/ff4384fb627d8efc1adbd65cf13b64da.png" group-title="News Other", ACCUWEATHER NOW
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01.m3u8
+
+#EXTINF:-1 tvg-id="plex.tv.FOX.Weather.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5822536e-f8a5-44ea-a82f-a73be1b983e8/fox_weather_horizontal.png" group-title="News Other", FOX WEATHER
+https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17.m3u8
+
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-6-wpvi-us.png?raw=true" group-title="News Other",24/7 WPVI ABC 6 NEWS PA
+https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
+#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="News Other",24/7 WABC ABC 7 NY
+https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
+
+#EXTINF:-1 group-title="News Other" tvg-id="News.12.New.Jersey.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 ("New Jersey" Edison NJ)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8
+#EXTINF:-1 group-title="News Other" tvg-id="News.12.New.Jersey.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12+ ("New Jersey" Edison NJ)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8
+#EXTINF:-1 group-title="News Other" tvg-id="plex.tv.News.12.New.York.plex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 (New York NY)
+https://aegis-cloudfront-1.tubi.video/1568cc70-2bf5-4f52-805b-42e0e514a77a/playlist.m3u8
+#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 (Long Island NY)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8
+#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12+ (Long Island NY)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8
+#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 ("Westchester" Yonkers NY)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8
+#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12+ ("Westchester" Yonkers NY)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
+#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 (Bronx NY)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8
+#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12+ (Bronx NY)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8
+#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 (Brooklyn NY)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8
+#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 ("Hudson Valley" West Nyack NY)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8
+#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12+ ("Connecticut" Norwalk CT)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
+#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 ("Connecticut" Norwalk CT)
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8
+
+#EXTINF:-1 group-title="News Other" tvg-id="Blaze.TV.us" tvg-logo="https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png", BLAZE (LIVE)
+https://jmp2.uk/plu-5e46fba0c43b0d00096e5ac1.m3u8
+
+#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true", InfoWars Network
+https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
+#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true", InfoWars The Alex Jones Show
+https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
+#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true", InfoWars The American Journal
+https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
+#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true", InfoWars War Room With Owen Shroyer
+https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
+
 # -----------24/7--------------------
-#EXTINF:-1 group-title="Sports Temp" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ Sports Temp ]
+#EXTINF:-1 group-title="Sports Temp" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ SPORTS TEMP ]
 https://jmp2.uk/str-5747.m3u8
 # -----------24/7--------------------
 
@@ -11544,62 +11599,6 @@ https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/679099
 #EXTINF:-1 group-title="24/7 TEMP",247 Universe
 #EXTVLCOPT:network-caching=1000
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/679100
-
-
-# ------------NEWS-------------------
-#EXTINF:-1 group-title="News Other" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true?raw=true", [ NEWS OTHER ]
-https://jmp2.uk/str-5747.m3u8
-# ------------NEWS-------------------
-
-#EXTINF:-1 tvg-id="plex.tv.AccuWeather.NOW.plex" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/ff4384fb627d8efc1adbd65cf13b64da.png" group-title="News Other", ACCUWEATHER NOW
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01.m3u8
-
-#EXTINF:-1 tvg-id="plex.tv.FOX.Weather.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5822536e-f8a5-44ea-a82f-a73be1b983e8/fox_weather_horizontal.png" group-title="News Other", FOX WEATHER
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17.m3u8
-
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-6-wpvi-us.png?raw=true" group-title="News Other",24/7 WPVI ABC 6 NEWS PA
-https://content.uplynk.com/channel/ext/10b98e7c615f43a98b180d51797e74aa/wpvi_24x7_news.m3u8
-#EXTINF:-1 tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="News Other",24/7 WABC ABC 7 NY
-https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
-
-#EXTINF:-1 group-title="News Other" tvg-id="News.12.New.Jersey.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 ("New Jersey" Edison NJ)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="News.12.New.Jersey.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12+ ("New Jersey" Edison NJ)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NJ_A1/index_new.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="plex.tv.News.12.New.York.plex" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 (New York NY)
-https://aegis-cloudfront-1.tubi.video/1568cc70-2bf5-4f52-805b-42e0e514a77a/playlist.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 (Long Island NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12+ (Long Island NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_LI_A1/index_new.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 ("Westchester" Yonkers NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12+ ("Westchester" Yonkers NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_WC_A1/index_new.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 (Bronx NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12+ (Bronx NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_NYC_A1/index_new.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 (Brooklyn NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 ("Hudson Valley" West Nyack NY)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12+ ("Connecticut" Norwalk CT)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12PLUS_H_CT_A1/index_new.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png", News 12 ("Connecticut" Norwalk CT)
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8
-
-#EXTINF:-1 group-title="News Other" tvg-id="Blaze.TV.us" tvg-logo="https://images.pluto.tv/channels/5e46fba0c43b0d00096e5ac1/colorLogoPNG.png", BLAZE (LIVE)
-https://jmp2.uk/plu-5e46fba0c43b0d00096e5ac1.m3u8
-
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true", InfoWars Network
-https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true", InfoWars The Alex Jones Show
-https://freespeech.akamaized.net/hls/live/2024573/live2/playlist.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true", InfoWars The American Journal
-https://freespeech.akamaized.net/hls/live/2016873/live3/playlist.m3u8
-#EXTINF:-1 group-title="News Other" tvg-id="NEWS.dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/infowars.jpeg?raw=true", InfoWars War Room With Owen Shroyer
-https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
 
 # -------------EVENTS-----------
 #EXTINF:-1 group-title="Events" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ EVENTS ]
