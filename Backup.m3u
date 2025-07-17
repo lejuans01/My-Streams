@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/epgs/Backup-epg.xml.gz"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/epgs/Backup-epg.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 # https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
 
@@ -748,8 +748,18 @@ https://jmp2.uk/str-5747.m3u8
 # -----------24/7--------------------
 
 
+#EXTGRP:A1xmedia Live Event | PPV
+#EXTINF:-1  group-title="Sports Temp" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 1
+https://a1xs.vip/ppv1
+#EXTINF:-1  group-title="Sports Temp" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 2
+https://a1xs.vip/ppv2
+#EXTINF:-1  group-title="Sports Temp" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 3
+https://a1xs.vip/ppv3
+#EXTINF:-1  group-title="Sports Temp" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 4
+https://a1xs.vip/ppv4
+#EXTINF:-1  group-title="Sports Temp" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 5
+https://a1xs.vip/ppv5
 
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
 #EXTGRP:A1xmedia AU Sports
 #EXTINF:-1  group-title="Sports Temp" group-title="Sports Temp" tvg-name="Fox Sports 501 FHD" tvg-id="FoxCricket.au" tvg-logo="https://i.imgur.com/59gCbVd.png"  radio="false",Fox Sports 501 FHD
@@ -845,18 +855,6 @@ https://a1xs.vip/140003
 https://a1xs.vip/140004
 #EXTINF:-1  group-title="Sports Temp" tvg-name="NL: Ziggo Sport FHD" tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/8mnQvB5.png"  radio="false",NL: Ziggo Sport FHD
 https://a1xs.vip/140001
-
-#EXTGRP:A1xmedia Live Event | PPV
-#EXTINF:-1  group-title="Sports Temp" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 1
-https://a1xs.vip/ppv1
-#EXTINF:-1  group-title="Sports Temp" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 2
-https://a1xs.vip/ppv2
-#EXTINF:-1  group-title="Sports Temp" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 3
-https://a1xs.vip/ppv3
-#EXTINF:-1  group-title="Sports Temp" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 4
-https://a1xs.vip/ppv4
-#EXTINF:-1  group-title="Sports Temp" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 5
-https://a1xs.vip/ppv5
 
 #EXTGRP:A1xmedia NZ Sports
 #EXTINF:-1  group-title="Sports Temp" tvg-name="SKY Sport 1 NZ" tvg-id="SKY.Sport.1.nz" tvg-logo="https://i.imgur.com/NRK8Uc6.png"  radio="false",SKY Sport 1 NZ
