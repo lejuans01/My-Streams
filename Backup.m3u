@@ -56,7 +56,7 @@ https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
 
 # ------------------ MoveOnJoy+ ---------------------------
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ MOVEONJOY+ ]
-https://jmp2.uk/str-5747.m3u8
+https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/Archive/offline.mp4
 # ------------------ MoveOnJoy+ ---------------------------
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC", ABC (WABC) NY
@@ -744,7 +744,7 @@ https://30a-tv.com/darcizzle.m3u8
 
 # ------------NEWS-------------------
 #EXTINF:-1 group-title="News Other" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true?raw=true", [ NEWS OTHER ]
-https://jmp2.uk/str-5747.m3u8
+https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/Archive/offline.mp4
 # ------------NEWS-------------------
 
 #EXTINF:-1 tvg-id="plex.tv.AccuWeather.NOW.plex" tvg-logo="https://provider-static.plex.tv/f/epg/channels/logos/gracenote/ff4384fb627d8efc1adbd65cf13b64da.png" group-title="News Other", ACCUWEATHER NOW
@@ -799,19 +799,8 @@ https://freespeech.akamaized.net/hls/live/2024574/live4/playlist.m3u8
 
 # -----------Sports Temp----------------
 #EXTINF:-1 group-title="Sports Temp" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ SPORTS TEMP ]
-https://jmp2.uk/str-5747.m3u8
+https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/Archive/offline.mp4
 # -----------Sports Temp-------------
-
-#EXTINF:-1  group-title="Sports Temp" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 1
-https://a1xs.vip/ppv1
-#EXTINF:-1  group-title="Sports Temp" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 2
-https://a1xs.vip/ppv2
-#EXTINF:-1  group-title="Sports Temp" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 3
-https://a1xs.vip/ppv3
-#EXTINF:-1  group-title="Sports Temp" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 4
-https://a1xs.vip/ppv4
-#EXTINF:-1  group-title="Sports Temp" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 5
-https://a1xs.vip/ppv5
 
 
 #EXTGRP:A1xmedia AU Sports
@@ -1079,10 +1068,10 @@ https://a1xs.vip/8000011
 #EXTINF:-1  group-title="Sports Temp" tvg-name="Star Sports Select 2 FHD" tvg-id="STAR.SPORTS.SELECT.2.HD.in" tvg-logo="https://i.imgur.com/6u2iOjA.png"  radio="false",Star Sports Select 2 FHD
 https://a1xs.vip/8000012
 
-# -----------24/7--------------------
+# -----------24/7 Programs--------------------
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ 24/7 PROGRAMS ]
-https://jmp2.uk/str-5747.m3u8
-# -----------24/7--------------------
+https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/Archive/offline.mp4
+# -----------24/7 Programs--------------------
 
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="plex.tv.80`s.Sitcom.Flashback.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6a33b82d-db12-4f5d-8f8f-d49c803dce6a/LogoColor1500RDX.png", 80'S SITCOM FLASHBACK
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-65fca98c60dc164e8f272332.m3u8
@@ -1265,7 +1254,7 @@ http://adultswim-vodlive.cdn.turner.com/live/tim-and-eric/stream.m3u8
 
 # -----------24/7 MOVIES--------------------
 #EXTINF:-1 group-title="24/7 Movies" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ 24/7 MOVIES ]
-https://jmp2.uk/str-5747.m3u8
+https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/Archive/offline.mp4
 # -----------24/7 MOVIES --------------------
 
 
@@ -1640,7 +1629,7 @@ http://cord-cutter.net:8080/hq3y4G/234247/215432
 
 # -----------24/7 TEMP-------------
 #EXTINF:-1 group-title="24/7 TEMP" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ 24/7 TEMP ]
-https://jmp2.uk/str-5747.m3u8
+https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/Archive/offline.mp4
 # -----------24/7 TEMP-------------
 
 #EXTINF:-1 group-title="24/7 TEMP",24/7 100 Percent Hotter
@@ -11597,8 +11586,19 @@ https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/679100
 
 # -------------EVENTS-----------
 #EXTINF:-1 group-title="Events" tvg-id="Blank.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ EVENTS ]
-https://jmp2.uk/str-5747.m3u8
+https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/Archive/offline.mp4
 # -------------EVENTS-----------
+
+#EXTINF:-1  group-title="Sports Temp" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 1
+https://a1xs.vip/ppv1
+#EXTINF:-1  group-title="Sports Temp" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 2
+https://a1xs.vip/ppv2
+#EXTINF:-1  group-title="Sports Temp" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 3
+https://a1xs.vip/ppv3
+#EXTINF:-1  group-title="Sports Temp" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 4
+https://a1xs.vip/ppv4
+#EXTINF:-1  group-title="Sports Temp" tvg-name="Live Event" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/LoQdSia.png"  radio="false",Live Event 5
+https://a1xs.vip/ppv5
 
 #EXTINF:-1 group-title="Events" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 1", PPV 1
 http://143.244.60.30/PPV_1/index.m3u8
