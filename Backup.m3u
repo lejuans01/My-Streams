@@ -886,10 +886,21 @@ https://a1xs.vip/400052
 https://a1xs.vip/400053
 #EXTINF:-1  group-title="Sports Temp" tvg-name="SportsNet NY FHD" tvg-id="SNY:.SportsNet.New.York.(Comcast).us" tvg-logo="https://pixvid.org/images/2025/02/05/Sportsnet_NY.png"  radio="false",SportsNet NY FHD
 https://a1xs.vip/40000045
+
+#EXTINF:-1 group-title="Sports Temp" tvg-id="TBS.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tbs-us.png?raw=true" tvg-name="TBS", TBS
+https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tbseast.us.m3u8
+
 #EXTINF:-1  group-title="Sports Temp" tvg-name="Tennis Channel FHD" tvg-id="The.Tennis.Channel.us" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png"  radio="false",Tennis Channel FHD
 https://a1xs.vip/40000040
 #EXTINF:-1  group-title="Sports Temp" tvg-name="Tennis Channel Plus FHD" tvg-id="The.Tennis.Channel.us" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png"  radio="false",Tennis Channel Plus FHD
 https://a1xs.vip/40000041
+
+#EXTINF:-1 group-title="Sports Temp" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true" tvg-name="TNT 3", TNT 
+https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/tnteast.us.m3u8
+
+#EXTINF:-1  group-title="Sports Temp" tvg-name="USA Network FHD" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://pixvid.org/images/2025/01/21/usa-network.png"  radio="false",USA Network FHD
+https://streamer1.nexgen.bz/USA/index.m3u8
+# https://a1xs.vip/1100020
 #EXTINF:-1  group-title="Sports Temp" tvg-name="Willow Cricket FHD" tvg-id="Willow.Cricket.HDTV.(WILLOWHD).us" tvg-logo="https://pixvid.org/images/2025/02/04/willow.png"  radio="false",Willow Cricket FHD
 https://a1xs.vip/40000042
 #EXTINF:-1  group-title="Sports Temp" tvg-name="Willow Cricket Xtra FHD" tvg-id="Willow.Xtra.us" tvg-logo="https://pixvid.org/images/2025/02/04/willow-xtra.png"  radio="false",Willow Cricket Xtra
@@ -958,12 +969,12 @@ https://a1xs.vip/9000001
 https://a1xs.vip/1100001
 #EXTINF:-1  group-title="Sports Temp" tvg-name="Now Sports PL 2 FHD" tvg-id="Now.Sports.Premier.League.2.hk" tvg-logo="https://pixvid.org/images/2025/01/28/NowPL2.png"  radio="false",Now Sports PL 2 FHD
 https://a1xs.vip/1100002
-#EXTINF:-1  group-title="Sports Temp" tvg-name="Peacock Premier League TV" tvg-id="SKY.Sport.8.nz" tvg-logo="https://pixvid.org/images/2025/01/23/Premier_League.png"  radio="false",Peacock Premier League TV
+
+# EXTINF:-1  group-title="Sports Temp" tvg-name="Peacock Premier League TV" tvg-id="SKY.Sport.8.nz" tvg-logo="https://pixvid.org/images/2025/01/23/Premier_League.png"  radio="false",Peacock Premier League TV
 https://a1xs.vip/1100021
+
 #EXTINF:-1  group-title="Sports Temp" tvg-name="Sky Sport PL NZ" tvg-id="SKY.Sport.8.nz" tvg-logo="https://pixvid.org/images/2025/01/23/Sky_Sport_PL_NZ.webp"  radio="false",Sky Sport PL NZ
 https://a1xs.vip/700008
-#EXTINF:-1  group-title="Sports Temp" tvg-name="USA Network FHD" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://pixvid.org/images/2025/01/21/usa-network.png"  radio="false",USA Network FHD
-https://a1xs.vip/1100020
 
 #EXTGRP:A1xmedia EU Sports
 #EXTINF:-1  group-title="Sports Temp" tvg-name="AL: Super Sport 1 FHD" tvg-id="SuperSport.1.al" tvg-logo="https://i.imgur.com/zI22zLw.png"  radio="false",AL: Super Sport 1 FHD
