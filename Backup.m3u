@@ -425,9 +425,12 @@ http://143.244.60.30/ION_Plus/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Laff.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/laff-us.png?raw=true", LAFF TV
 https://cvtv.cvalley.net/hls/KSHBLaff/KSHBLaff.m3u8
-
+# -----------------------------
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="648095b14e104622d093d902" tvg-name="Laff More" tvg-logo="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0dcdc1c519e1f78b74fb7d5147a81707.png", LAFF MORE
-https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-648095b14e104622d093d902.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99951232/hls/playlist.m3u8?ads.xumo_channelId=99951232&ads._fw_ifa_type=&ads._fw_did=6565142b-7cde-4adb-b012-905c11331f61&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=ScrippsLaffMore&ads.csid=xumo_web_ScrippsLaffMore_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3924&ads.xumo_contentName=ScrippsLaffMore&ads.xumo_providerId=3924&ads.xumo_providerName=ScrippsLaffMore&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951232&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+
+# https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-648095b14e104622d093d902.m3u8
+# -----------------------------
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Lifetime.Network.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" tvg-name="Lifetime", LIFETIME
 http://143.244.60.30/LIFETIME/index.m3u8
