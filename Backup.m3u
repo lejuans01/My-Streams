@@ -548,6 +548,18 @@ http://143.244.60.30/OXYGEN/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" tvg-name="Paramount Network", PARAMOUNT NETWORK
 http://143.244.60.30/PARAMOUNT_NETWORK/index.m3u8
 
+
+
+
+
+#EXTINF:-1 channel-id="5ff8c708653d080007361b14" tvg-id="5ff8c708653d080007361b14" tvg-chno="2020" tvg-name="PARAMOUNT+ PICKS" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/colorLogoPNG.png" group-title="MoveOnJoy+",PARAMOUNT+ PICKS
+https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
+
+
+
+
+
+
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="QVC.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/qvc-us.png" tvg-name="QVC", QVC
 http://143.244.60.30/QVC/index.m3u8
 
