@@ -705,7 +705,8 @@ http://143.244.60.30/WGN/index.m3u8
 http://143.244.60.30/YES_NETWORK/index.m3u8
 
 # ---------
-
+#EXTINF:-1 channel-id="9210a8fbeab66e9d1ce20c187804ee7d" tvg-id="9210a8fbeab66e9d1ce20c187804ee7d" tvg-chno="206" tvg-name="Bassmaster" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/9210a8fbeab66e9d1ce20c187804ee7d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749678868866_BassmasterChannel_InfoHUDChannelIdentifier_260x147.png" group-title="MoveOnJoy+",Bassmaster
+https://jmp2.uk/rok-9210a8fbeab66e9d1ce20c187804ee7d.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="24.7.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/darcizzle.png?raw=true" tvg-name="darcizzle offshore", DARCIZZLE OFFSHORE
