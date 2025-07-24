@@ -1,7 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/epgs/Backup-epg.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 
-# https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
-
 # -------------- Local TV --------------
 #EXTINF:-1 group-title="Local TV" tvg-id="Blank.Dummy.us" tvg-name="LOCAL TV" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/x.png?raw=true", [ LOCAL TV ]
 https://jmp2.uk/sam-CA2900005KG.m3u8
