@@ -10,9 +10,9 @@
 
 ⭐ Playlist 1: [Backup.m3u](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u) Epg: [Xtra-Epg](https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz)
 
-⭐🆕 Playlist 2: [TheTVApp.m3u8](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8) Epg: [epg.xml](https://tvpass.org/epg.xml) Credit: ( [DrewLive](https://github.com/Drewski2423/DrewLive) )
+⭐ Playlist 2: [TheTVApp.m3u8](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8) Epg: [epg.xml](https://tvpass.org/epg.xml) Credit: ( [DrewLive](https://github.com/Drewski2423/DrewLive) )
 
-⭐🆕 Playlist 3: [videoall.m3u](https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.m3u) Epg: [videoall.xml](https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml) ( Thetvapp SD channels )
+⭐ Playlist 3: [videoall.m3u](https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.m3u) Epg: [videoall.xml](https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml) ( Thetvapp SD channels )
 
 ⭐ [combine-remote-playlists](https://github.com/BuddyChewChew/combine-remote-playlists) `PLAYLISTS UPDATED 7/11/25`
 
