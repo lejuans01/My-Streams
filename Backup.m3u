@@ -143,8 +143,6 @@ http://143.244.60.30/BOOMERANG/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Bounce.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="BOUNCE 1", BOUNCE
 http://143.244.60.30/BOUNCE_TV/index.m3u8
-# #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Bounce.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="BOUNCE 2", BOUNCE
-http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="plex.tv.Bounce.XL.plex" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/67bb1f39c612ac06e49755f639aa08ab.png" tvg-name="Bounce XL", BOUNCE XL
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-623d9b0370560b72147a994a.m3u8
@@ -159,7 +157,7 @@ http://143.244.60.30/Buzzr/index.m3u8
 http://143.244.60.30/C-SPAN/index.m3u8
 
 #EXTINF:-1 tvg-id="Adult.Swim.-.East.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true" tvg-name="[ Adult Swim ] (CA)" group-title="MoveOnJoy+", [ Adult Swim ] (CA)
-https://ott.udptv.xyz/stream/udptv/adultswim/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+http://cord-cutter.net:8080/hq3y4G/234247/11644
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true", [ AS ]5PM-6AM.est
 https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Single%20Ch%20Streams/aseast.us.m3u8
@@ -207,7 +205,10 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Cable.News.Network.International.(CNNI).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" tvg-name="CNN INTERNATIONAL", CNN INTERNATIONAL
 http://143.244.60.30/CNN_INTERNATIONAL/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL", COMEDY CENTRAL
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL", COMEDY CENTRAL (EAST)
+http://cord-cutter.net:8080/hq3y4G/234247/7466
+
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL", COMEDY CENTRAL (WEST)
 http://143.244.60.30/Comedy_Central/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Comet.TV.us" tvg-name="COMET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comet-us.png", COMET
@@ -2175,6 +2176,7 @@ http://143.244.60.30/NHL_11/index.m3u8
 http://143.244.60.30/NHL_12/index.m3u8
 #EXTINF:-1 group-title="Events" tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 13", NHL 13 (OFFLINE)
 http://143.244.60.30/NHL_13/index.m3u8
+
 
 
 
