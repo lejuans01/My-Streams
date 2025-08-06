@@ -1089,8 +1089,7 @@ https://jmp2.uk/sam-CA2900005KG.m3u8
 # -----------Music--------------------
 
 #EXTINF:-1 group-title="Radio/Music" tvg-id="Music.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/kaloopy.jpg?raw=true" tvg-name="KALOOPY MUSIC CHANNEL", KALOOPY MUSIC
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/df2e1f8e-4f47-41b0-bd26-626e8a63caf2/2.m3u8
-# https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
+https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 
 #EXTINF:0 group-title="Radio/Music" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/iheart.jpeg?raw=true" tvg-id="Music.Dummy.us",iHeart The Beatles Now And Then
 #EXTVLCOPT:network-caching=1000
@@ -2177,6 +2176,7 @@ http://143.244.60.30/NHL_11/index.m3u8
 http://143.244.60.30/NHL_12/index.m3u8
 #EXTINF:-1 group-title="Events" tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 13", NHL 13 (OFFLINE)
 http://143.244.60.30/NHL_13/index.m3u8
+
 
 
 
