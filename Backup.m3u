@@ -1548,7 +1548,8 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66635e41ca7b22f4c3a2d741.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66b13b29a9ef8c41ec0841b0.m3u8
 
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="Music.Dummy.us" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/kaloopy.jpg?raw=true" tvg-name="KALOOPY MUSIC CHANNEL", KALOOPY MUSIC
-https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/df2e1f8e-4f47-41b0-bd26-626e8a63caf2/2.m3u8
+# https://dai.google.com/linear/hls/event/FK1bjW0AThepH1W7CJrByg/master.m3u8
 
 #EXTINF:-1 group-title="24/7 Programs" tvg-id="plex.tv.NitroCircusTV.plex" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/nitro.png?raw=true", NITRO CIRCUS
 https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist.m3u8
@@ -2176,6 +2177,7 @@ http://143.244.60.30/NHL_11/index.m3u8
 http://143.244.60.30/NHL_12/index.m3u8
 #EXTINF:-1 group-title="Events" tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nhl-network-us.png?raw=true" tvg-name="NHL 13", NHL 13 (OFFLINE)
 http://143.244.60.30/NHL_13/index.m3u8
+
 
 
 
