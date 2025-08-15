@@ -22,7 +22,7 @@ _This script generates an m3u8 playlist from the channels provided by services s
 
 ## How to Add the Script to Your Google Account
 
-- Go <a href="https://script.google.com/home/start" target="_blank">here</a> and click the "New Project" button in the upper left corner. Then, copy the script from <a href="https://github.com/BuddyChewChew/My-Streams/blob/main/Google%20Script%20And%20Install%20Info/google_apps_script" target="_blank">google_apps_script</a> and paste it into the script editor. Once done, deploy the script.
+- Go <a href="https://script.google.com/home/start" target="_blank">here</a> and click the "New Project" button in the upper left corner. Then, copy the script from <a href="[https://github.com/BuddyChewChew/My-Streams/blob/main/Google%20Script%20And%20Install%20Info/google_apps_script](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Google%20Script%20And%20Install%20Info/google%20script%20samsung%20update.gs)" target="_blank">google_apps_script</a> and paste it into the script editor. Once done, deploy the script.
 
 - During the deployment process, make sure to select **"Anyone"** for the "Who has access" option, so the app can access the URL and load without requiring authentication.
 
