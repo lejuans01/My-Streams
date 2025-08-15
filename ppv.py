@@ -20,7 +20,7 @@ ALLOWED_CATEGORIES = {
 }
 
 CATEGORY_LOGOS = {
-    "24/7 Streams": "http://drewlive24.duckdns.org:9000/Logos/247.png",
+    "24/7 Streams": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/ppv%20logos/24.png?raw=true",
     "Wrestling": "http://drewlive24.duckdns.org:9000/Logos/Wrestling.png",
     "Football": "http://drewlive24.duckdns.org:9000/Logos/Soccer2.png",
     "Basketball": "http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png",
@@ -129,7 +129,7 @@ async def grab_m3u8_from_iframe(page, iframe_url):
     return valid_urls
 
 def build_m3u(streams, url_map):
-    lines = ['#EXTM3U url-tvg="http://drewlive24.duckdns.org:8081/merged2_epg.xml.gz"']
+    lines = ['#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"']
     seen_names = set()
 
     for s in streams:
