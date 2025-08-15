@@ -20,7 +20,7 @@ ALLOWED_CATEGORIES = {
 }
 
 CATEGORY_LOGOS = {
-    "24/7 Streams": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/ppv%20logos/24.png?raw=true",
+    "24/7 Streams": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/ppv-24.png?raw=true",
     "Wrestling": "http://drewlive24.duckdns.org:9000/Logos/Wrestling.png",
     "Football": "http://drewlive24.duckdns.org:9000/Logos/Soccer2.png",
     "Basketball": "http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png",
