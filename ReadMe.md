@@ -8,7 +8,7 @@
 
 `Update 7/11/25`
 
-⭐ Playlist 1: [Backup.m3u](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u) Epg: [Xtra-Epg](https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz)
+⭐ Playlist 1: [Backup.m3u](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u) Epg: [ALL_SOURCES.gz](https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz)
 
 ⭐ Playlist 2: [TheTVApp.m3u8](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8) Epg: [epg.xml](https://tvpass.org/epg.xml) Credit: ( [DrewLive](https://github.com/Drewski2423/DrewLive) )
 
