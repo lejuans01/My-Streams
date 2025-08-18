@@ -6,7 +6,7 @@
 
 ## 🏠 REPO HOMEPAGE: MY REPOS
 
-:pirate_flag: Buddy Live: https://github.com/BuddyChewChew/buddylive
+💥 Buddy Live: https://github.com/BuddyChewChew/buddylive
 All of my playlists in one spot.
 
 `Update 7/11/25`
@@ -32,6 +32,8 @@ All of my playlists in one spot.
 ---------------------------------------------
 
 🔗 **LINKS:**
+
+✨ Great discord ( GAMING AND IPTV ): https://discord.gg/AAztSsXaTb
 
 🔵 **STREAMING SITES & LINKS**
 - `videopiracyguide` [Link](https://fmhy.pages.dev/videopiracyguide#live-tv--sports) Resources related to IPTV, Streaming and info.
