@@ -6,6 +6,9 @@
 
 ## 🏠 REPO HOMEPAGE: MY REPOS
 
+:pirate_flag: Buddy Live: https://github.com/BuddyChewChew/buddylive
+All of my playlists in one spot.
+
 `Update 7/11/25`
 
 ⭐ Playlist 1: [Backup.m3u](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u) Epg: [ALL_SOURCES.gz](https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz)
