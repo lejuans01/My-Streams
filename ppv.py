@@ -27,9 +27,9 @@ CATEGORY_LOGOS = {
     "Baseball": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true",
     "Combat Sports": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true",
     "Motorsports": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true",
-    "Miscellaneous": "http://drewlive24.duckdns.org:9000/Logos/247.png",
+    "Miscellaneous": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/24-7.png?raw=true",
     "Boxing": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/boxing.png?raw=true",
-    "Darts": "http://drewlive24.duckdns.org:9000/Logos/Darts.png",
+    "Darts": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/darts.png?raw=true",
     "American Football": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true"
 }
 
