@@ -21,16 +21,16 @@ ALLOWED_CATEGORIES = {
 
 CATEGORY_LOGOS = {
     "24/7 Streams": "http://drewlive24.duckdns.org:9000/Logos/247.png",
-    "Wrestling": "http://drewlive24.duckdns.org:9000/Logos/Wrestling.png",
-    "Football": "http://drewlive24.duckdns.org:9000/Logos/Soccer2.png",
-    "Basketball": "http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png",
-    "Baseball": "http://drewlive24.duckdns.org:9000/Logos/Baseball.png",
-    "Combat Sports": "http://drewlive24.duckdns.org:9000/Logos/Boxing.png",
-    "Motorsports": "http://drewlive24.duckdns.org:9000/Logos/F12.png",
+    "Wrestling": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/wwe.png?raw=true",
+    "Football": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true",
+    "Basketball": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true",
+    "Baseball": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true",
+    "Combat Sports": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true",
+    "Motorsports": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true",
     "Miscellaneous": "http://drewlive24.duckdns.org:9000/Logos/247.png",
-    "Boxing": "http://drewlive24.duckdns.org:9000/Logos/Boxing.png",
+    "Boxing": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/boxing.png?raw=true",
     "Darts": "http://drewlive24.duckdns.org:9000/Logos/Darts.png",
-    "American Football": "http://drewlive24.duckdns.org:9000/Logos/NFL2.png"
+    "American Football": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true"
 }
 
 CATEGORY_TVG_IDS = {
