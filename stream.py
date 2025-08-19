@@ -16,7 +16,7 @@ CATEGORY_LOGOS = {
     "StreamEast - Golf": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/golf.png?raw=true",
     "StreamEast - Am. Football": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true",
     "StreamEast - Baseball": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true",
-    "StreamEast - Basketball Hub": "http://drewlive24.duckdns.org:9000/Logos/Basketball5.png",
+    "StreamEast - Basketball Hub": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true",
     "StreamEast - Hockey": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/hockey.png?raw=true",
     "StreamEast - WNBA": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/wnba.png?raw=true",
 }
