@@ -7,18 +7,18 @@ BASE_URL = "https://www.streameast.xyz"
 M3U8_FILE = "StreamEast.m3u8"
 
 CATEGORY_LOGOS = {
-    "StreamEast - PPV Events": "http://drewlive24.duckdns.org:9000/Logos/PPV.png",
-    "StreamEast - Soccer": "http://drewlive24.duckdns.org:9000/Logos/Football2.png",
-    "StreamEast - F1": "http://drewlive24.duckdns.org:9000/Logos/F1.png",
-    "StreamEast - Boxing": "http://drewlive24.duckdns.org:9000/Logos/Boxing-2.png",
-    "StreamEast - MMA": "http://drewlive24.duckdns.org:9000/Logos/MMA.png",
-    "StreamEast - WWE": "http://drewlive24.duckdns.org:9000/Logos/WWE.png",
-    "StreamEast - Golf": "http://drewlive24.duckdns.org:9000/Logos/Golf.png",
-    "StreamEast - Am. Football": "http://drewlive24.duckdns.org:9000/Logos/NFL4.png",
-    "StreamEast - Baseball": "http://drewlive24.duckdns.org:9000/Logos/MLB.png",
+    "StreamEast - PPV Events": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/ppv2.png?raw=true",
+    "StreamEast - Soccer": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true",
+    "StreamEast - F1": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true",
+    "StreamEast - Boxing": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/boxing.png?raw=true",
+    "StreamEast - MMA": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true",
+    "StreamEast - WWE": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/wwe.png?raw=true",
+    "StreamEast - Golf": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/golf.png?raw=true",
+    "StreamEast - Am. Football": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nfl.png?raw=true",
+    "StreamEast - Baseball": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/baseball.png?raw=true",
     "StreamEast - Basketball Hub": "http://drewlive24.duckdns.org:9000/Logos/Basketball5.png",
-    "StreamEast - Hockey": "http://drewlive24.duckdns.org:9000/Logos/Hockey.png",
-    "StreamEast - WNBA": "http://drewlive24.duckdns.org:9000/Logos/WNBA.png",
+    "StreamEast - Hockey": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/hockey.png?raw=true",
+    "StreamEast - WNBA": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/wnba.png?raw=true",
 }
 
 CATEGORY_TVG_IDS = {
