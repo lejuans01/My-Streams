@@ -3,8 +3,10 @@ import json
 from datetime import datetime
 from playwright.async_api import async_playwright, Request
 
+
 BASE_URL = "https://www.streameast.xyz"
 M3U8_FILE = "StreamEast.m3u8"
+
 
 CATEGORY_LOGOS = {
     "StreamEast - PPV Events": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/ppv2.png?raw=true",
@@ -20,6 +22,7 @@ CATEGORY_LOGOS = {
     "StreamEast - Hockey": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/hockey.png?raw=true",
     "StreamEast - WNBA": "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/wnba.png?raw=true",
 }
+
 
 CATEGORY_TVG_IDS = {
     "StreamEast - PPV Events": "PPV.EVENTS.Dummy.us",
@@ -85,16 +88,20 @@ async def scrape_stream_url(context, url):
     event_name = "Unknown Event"
     page = await context.new_page()
 
+
     def capture_request(request: Request):
         if ".m3u8" in request.url.lower() and not m3u8_links:
             print(f"🎯 Found stream: {request.url}")
             m3u8_links.add(request.url)
 
+
     page.on("request", capture_request)
+
 
     try:
         if not await safe_goto(page, url): return event_name, []
         await asyncio.sleep(1)
+
 
         event_name = await page.evaluate("""
             () => {
@@ -107,18 +114,22 @@ async def scrape_stream_url(context, url):
             }
         """)
 
+
         await page.mouse.click(500, 500)
         for _ in range(10):
             if m3u8_links:
                 break
             await asyncio.sleep(0.5)
 
+
     except Exception as e:
         print(f"⚠️ Error scraping {url}: {e}")
     finally:
         await page.close()
 
+
     return event_name, list(m3u8_links)
+
 
 
 async def main():
@@ -126,13 +137,16 @@ async def main():
         browser = await p.firefox.launch(headless=True)
         context = await browser.new_context(user_agent="Mozilla/5.0 Firefox/139.0")
 
+
         main_page = await context.new_page()
         links = await get_event_links(main_page)
         await main_page.close()
 
+
         with open(M3U8_FILE, "w", encoding="utf-8") as f:
             f.write(f"# Updated at {datetime.utcnow().isoformat()}Z\n")
-            f.write("#EXTM3U\n")
+            f.write("#EXTM3U url-tvg=\"https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz\"\n")
+
 
             for idx, link in enumerate(links, 1):
                 print(f"\n➡️ [{idx}/{len(links)}] {link}")
@@ -140,6 +154,7 @@ async def main():
                 category = categorize_stream(link, name)
                 logo = CATEGORY_LOGOS.get(category, "")
                 tvg_id = CATEGORY_TVG_IDS.get(category, "")
+
 
                 for s_url in streams:
                     f.write(f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-logo="{logo}" group-title="{category}",{name}\n')
@@ -149,8 +164,10 @@ async def main():
                     f.write(f'{s_url}\n\n')
                 await asyncio.sleep(0.5)
 
+
         print("✅ StreamEast.m3u8 saved.")
         await browser.close()
+
 
 if __name__ == "__main__":
     asyncio.run(main())
