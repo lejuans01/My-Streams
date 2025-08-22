@@ -2,6 +2,7 @@ name: 🚀 Backup-epg-grabber
 
 on:
   schedule:
+    # Runs every 8 hours at 00:00, 08:00, 16:00 UTC
     - cron: '0 */8 * * *'
   workflow_dispatch:
 
