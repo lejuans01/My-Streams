@@ -1,0 +1,40 @@
+name: Update M3U Playlist
+
+on:
+  schedule:
+    # Runs at the start of every hour
+    - cron: '0 * * * *'
+  # Allow manual triggering
+  workflow_dispatch:
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0  # Fetch all history for proper commit history
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.x'
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests
+    
+    - name: Run update script
+      env:
+        M3U_SOURCE_URL: ${{ secrets.M3U_SOURCE_URL }}
+      run: python update_stream1.py
+      
+    - name: Commit and push if changes exist
+      run: |
+        git config --global user.name 'GitHub Actions'
+        git config --global user.email 'actions@github.com'
+        git add LiveTV.m3u
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update M3U playlist [skip ci]" && git push)
