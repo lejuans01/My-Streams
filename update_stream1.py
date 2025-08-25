@@ -18,9 +18,8 @@ def update_playlist():
         if content.startswith("#EXTM3U"):
             content = content[content.find('\n') + 1:]
             
-        # Add timestamp and proper M3U header
-        timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
-        m3u_content = f"#EXTM3U\n# Last Updated: {timestamp}\n{content}"
+        # Add M3U header
+        m3u_content = f"#EXTM3U\n{content}"
         
         # Write the updated M3U file
         output_filename = "strem1.m3u"
