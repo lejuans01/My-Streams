@@ -43,7 +43,7 @@ def update_playlist():
         m3u_content += '\n'.join(lines)
         
         # Write the updated M3U file
-        output_filename = "strem1.m3u"
+        output_filename = "stream1.m3u"
         output_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), output_filename)
         
         print(f"Writing to: {output_path}")
