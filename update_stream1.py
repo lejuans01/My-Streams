@@ -13,15 +13,20 @@ def update_playlist():
         response = requests.get(m3u_url)
         response.raise_for_status()  # Raise an exception for bad status codes
         
-        # Add a timestamp to the M3U file
+        # Get the content and remove the original #EXTM3U header if it exists
+        content = response.text
+        if content.startswith("#EXTM3U"):
+            content = content[content.find('\n') + 1:]
+            
+        # Add timestamp and proper M3U header
         timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
-        m3u_content = f"#EXTM3U\n# Last Updated: {timestamp}\n" + response.text
+        m3u_content = f"#EXTM3U\n# Last Updated: {timestamp}\n{content}"
         
         # Write the updated M3U file
-        with open("LiveTV.m3u", "w", encoding='utf-8') as f:
+        with open("strem1.m3u", "w", encoding='utf-8') as f:
             f.write(m3u_content)
             
-        print("Successfully updated M3U playlist")
+        print("Successfully updated strem1.m3u playlist")
         return True
         
     except Exception as e:
