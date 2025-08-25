@@ -18,7 +18,7 @@ def update_playlist():
         m3u_content = f"#EXTM3U\n# Last Updated: {timestamp}\n" + response.text
         
         # Write the updated M3U file
-        with open("stream1.m3u", "w", encoding='utf-8') as f:
+        with open("LiveTV.m3u", "w", encoding='utf-8') as f:
             f.write(m3u_content)
             
         print("Successfully updated M3U playlist")
