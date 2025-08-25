@@ -23,10 +23,20 @@ def update_playlist():
         m3u_content = f"#EXTM3U\n# Last Updated: {timestamp}\n{content}"
         
         # Write the updated M3U file
-        with open("strem1.m3u", "w", encoding='utf-8') as f:
+        output_filename = "strem1.m3u"
+        output_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), output_filename)
+        
+        print(f"Writing to: {output_path}")
+        with open(output_path, "w", encoding='utf-8') as f:
             f.write(m3u_content)
             
-        print("Successfully updated strem1.m3u playlist")
+        # Verify file was written
+        if os.path.exists(output_path):
+            print(f"Successfully updated {output_filename} playlist")
+            print(f"File size: {os.path.getsize(output_path)} bytes")
+        else:
+            print(f"Error: Failed to create {output_filename}")
+            
         return True
         
     except Exception as e:
