@@ -36,5 +36,5 @@ jobs:
       run: |
         git config --global user.name 'GitHub Actions'
         git config --global user.email 'actions@github.com'
-        git add LiveTV.m3u
+        git add strem1.m3u
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update M3U playlist [skip ci]" && git push)
