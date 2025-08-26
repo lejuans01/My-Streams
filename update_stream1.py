@@ -45,10 +45,11 @@ def update_playlist():
                      f"# Last Updated: {timestamp}\n" \
                      + content
         
-        # Write to a temporary file first
+        # Write to the repository root
         output_filename = "stream1.m3u"
-        output_dir = os.path.dirname(os.path.abspath(__file__))
-        output_path = os.path.join(output_dir, output_filename)
+        # Use the current working directory (repository root)
+        output_path = os.path.join(os.getcwd(), output_filename)
+        print(f"Writing to: {output_path}")
         
         # Write directly to the output file
         try:
