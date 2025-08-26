@@ -10,12 +10,17 @@ on:
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required for pushing changes
+      pull-requests: write
+      statuses: write
     
     steps:
     - name: Checkout repository
       uses: actions/checkout@v3
       with:
         fetch-depth: 0  # Fetch all history for proper commit history
+        token: ${{ secrets.GITHUB_TOKEN }}
     
     - name: Set up Python
       uses: actions/setup-python@v4
