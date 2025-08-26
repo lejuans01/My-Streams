@@ -25,16 +25,33 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install requests
+        pip install requests urllib3
     
     - name: Run update script
+      id: update
       env:
         M3U_SOURCE_URL: ${{ secrets.M3U_SOURCE_URL }}
-      run: python update_stream1.py
-      
-    - name: Commit and push if changes exist
+      run: |
+        if ! python update_stream1.py; then
+          echo "::error::Failed to update playlist"
+          exit 1
+        fi
+        
+    - name: Check for changes
+      id: git-check
       run: |
         git config --global user.name 'GitHub Actions'
         git config --global user.email 'actions@github.com'
         git add stream1.m3u
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Update M3U playlist [skip ci]" && git push)
+        if ! git diff --quiet && ! git diff --staged --quiet; then
+          echo "changes_detected=true" >> $GITHUB_OUTPUT
+        else
+          echo "No changes detected"
+          echo "changes_detected=false" >> $GITHUB_OUTPUT
+        fi
+        
+    - name: Commit and push changes
+      if: steps.git-check.outputs.changes_detected == 'true'
+      run: |
+        git commit -m "Update M3U playlist [skip ci]"
+        git push
