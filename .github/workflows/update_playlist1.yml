@@ -37,22 +37,50 @@ jobs:
       env:
         M3U_SOURCE_URL: ${{ secrets.M3U_SOURCE_URL }}
       run: |
+        # Print current directory and files for debugging
+        pwd
+        ls -la
+        
+        # Run the update script
         if ! python update_stream1.py; then
           echo "::error::Failed to update playlist"
           exit 1
         fi
         
+        # Verify the file was created
+        if [ ! -f "stream1.m3u" ]; then
+          echo "::error::stream1.m3u was not created"
+          exit 1
+        fi
+        
+        # Show file info
+        ls -la stream1.m3u
+        head -n 5 stream1.m3u || true
+        
     - name: Check for changes
       id: git-check
       run: |
+        # Configure git
         git config --global user.name 'GitHub Actions'
         git config --global user.email 'actions@github.com'
+        
+        # Print git status for debugging
+        git status
+        
+        # Add the file and check for changes
         git add stream1.m3u
-        if ! git diff --quiet && ! git diff --staged --quiet; then
-          echo "changes_detected=true" >> $GITHUB_OUTPUT
-        else
-          echo "No changes detected"
+        
+        # Force check for changes
+        if git diff --cached --quiet; then
+          echo "No changes detected in the staged file"
           echo "changes_detected=false" >> $GITHUB_OUTPUT
+        else
+          echo "Changes detected in stream1.m3u"
+          echo "changes_detected=true" >> $GITHUB_OUTPUT
+          
+          # Show the diff for debugging
+          echo "Changes to be committed:"
+          git diff --cached --stat
         fi
         
     - name: Commit and push changes
