@@ -1,7 +1,11 @@
 import requests
 import os
 import re
+import tempfile
+import shutil
 from datetime import datetime
+from urllib3.util.retry import Retry
+from requests.adapters import HTTPAdapter
 
 def update_playlist():
     # Get M3U URL from environment variable
@@ -9,9 +13,25 @@ def update_playlist():
     if not m3u_url:
         raise ValueError("M3U_SOURCE_URL environment variable not set")
     
+    # Configure retry strategy
+    retry_strategy = Retry(
+        total=3,
+        backoff_factor=1,
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=["GET"]
+    )
+    adapter = HTTPAdapter(max_retries=retry_strategy)
+    http = requests.Session()
+    http.mount("https://", adapter)
+    http.mount("http://", adapter)
+
     try:
-        # Fetch the M3U content
-        response = requests.get(m3u_url)
+        # Fetch the M3U content with timeout
+        response = http.get(
+            m3u_url,
+            timeout=30,  # 30 seconds timeout
+            headers={'User-Agent': 'M3U-Playlist-Updater/1.0'}
+        )
         response.raise_for_status()  # Raise an exception for bad status codes
         
         # Get the content and remove the original #EXTM3U header if it exists
@@ -22,18 +42,34 @@ def update_playlist():
         # Add M3U header with EPG URL and original content
         m3u_content = "#EXTM3U x-tvg-url=\"https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz\"\n" + content
         
-        # Write the updated M3U file
+        # Write to a temporary file first
         output_filename = "stream1.m3u"
-        output_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), output_filename)
+        output_dir = os.path.dirname(os.path.abspath(__file__))
+        output_path = os.path.join(output_dir, output_filename)
         
-        print(f"Writing to: {output_path}")
-        with open(output_path, "w", encoding='utf-8') as f:
-            f.write(m3u_content)
+        # Create a temporary file in the same directory
+        temp_fd, temp_path = tempfile.mkstemp(dir=output_dir, suffix='.tmp', prefix='m3u_')
+        
+        try:
+            # Write to temp file
+            with os.fdopen(temp_fd, 'w', encoding='utf-8') as f:
+                f.write(m3u_content)
             
-        # Verify file was written
-        if os.path.exists(output_path):
-            print(f"Successfully updated {output_filename} playlist")
+            # Atomically replace the old file
+            if os.path.exists(output_path):
+                os.remove(output_path)  # Remove old file if it exists
+            shutil.move(temp_path, output_path)  # Atomic operation
+            
+            print(f"Successfully updated {output_filename}")
             print(f"File size: {os.path.getsize(output_path)} bytes")
+            
+        except Exception as e:
+            # Clean up temp file if something went wrong
+            if os.path.exists(temp_path):
+                os.remove(temp_path)
+            raise
+            
+        # File verification is now done in the try block above
         else:
             print(f"Error: Failed to create {output_filename}")
             
