@@ -47,36 +47,34 @@ def update_playlist():
         output_dir = os.path.dirname(os.path.abspath(__file__))
         output_path = os.path.join(output_dir, output_filename)
         
-        # Create a temporary file in the same directory
-        temp_fd, temp_path = tempfile.mkstemp(dir=output_dir, suffix='.tmp', prefix='m3u_')
-        
+        # Write directly to the output file
         try:
-            # Write to temp file
-            with os.fdopen(temp_fd, 'w', encoding='utf-8') as f:
+            with open(output_path, 'w', encoding='utf-8') as f:
                 f.write(m3u_content)
             
-            # Atomically replace the old file
-            if os.path.exists(output_path):
-                os.remove(output_path)  # Remove old file if it exists
-            shutil.move(temp_path, output_path)  # Atomic operation
-            
+            # Verify the file was written
+            if not os.path.exists(output_path):
+                raise Exception(f"Failed to create {output_filename}")
+                
+            file_size = os.path.getsize(output_path)
+            if file_size == 0:
+                raise Exception(f"Created empty file {output_filename}")
+                
             print(f"Successfully updated {output_filename}")
-            print(f"File size: {os.path.getsize(output_path)} bytes")
+            print(f"File size: {file_size} bytes")
             
         except Exception as e:
-            # Clean up temp file if something went wrong
-            if os.path.exists(temp_path):
-                os.remove(temp_path)
+            print(f"Error writing to {output_path}: {str(e)}")
+            if os.path.exists(output_path):
+                os.remove(output_path)
             raise
             
-        # File verification is now done in the try block above
-        else:
-            print(f"Error: Failed to create {output_filename}")
-            
-        return True
+        return True  # Success
         
     except Exception as e:
         print(f"Error updating M3U playlist: {str(e)}")
+        import traceback
+        traceback.print_exc()
         return False
 
 if __name__ == "__main__":
