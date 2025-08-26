@@ -39,8 +39,11 @@ def update_playlist():
         if content.startswith("#EXTM3U"):
             content = content[content.find('\n') + 1:]
             
-        # Add M3U header with EPG URL and original content
-        m3u_content = "#EXTM3U x-tvg-url=\"https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz\"\n" + content
+        # Add M3U header with EPG URL, timestamp, and original content
+        timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        m3u_content = "#EXTM3U x-tvg-url=\"https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz\"\n" \
+                     f"# Last Updated: {timestamp}\n" \
+                     + content
         
         # Write to a temporary file first
         output_filename = "stream1.m3u"
