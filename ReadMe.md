@@ -1,6 +1,5 @@
 📌 Repo Discussion: ( Changes, updates, Info ) [Link](https://github.com/BuddyChewChew/My-Streams/issues/5)
 
-📌 Discord: https://discord.gg/xhAdX8Ryxp
 
 ---------------------------------------------
 
@@ -44,7 +43,6 @@ All of my playlists in one spot.
 - `apsattv` [Multiple Playlists](https://apsattv.com/streams.html)
 - `adultswim` [Playlist](https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/us_adultswim.m3u)
 - `tvpass.org` [Playlist](https://tvpass.org/playlist/m3u) From: tvpass.org
-- `🔥` [DrewLive](https://github.com/Drewski2423/DrewLive) ( Great repo ) Tons of content.
 
 🔵 **EPGS**
 - `www.bevy.be` [Multiple Epg](https://www.bevy.be/epg-guide/)
