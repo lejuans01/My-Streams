@@ -206,7 +206,8 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 http://143.244.60.30/CNN_INTERNATIONAL/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL", COMEDY CENTRAL (EAST)
-http://cord-cutter.net:8080/hq3y4G/234247/7466
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+# http://cord-cutter.net:8080/hq3y4G/234247/7466
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL", COMEDY CENTRAL (WEST)
 http://143.244.60.30/Comedy_Central/index.m3u8
@@ -2353,4 +2354,5 @@ http://143.244.60.30/PPV_4/index.m3u8
 http://143.244.60.30/PPV_5/index.m3u8
 #EXTINF:-1 group-title="Events" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 6", PPV 6
 http://143.244.60.30/PPV_6/index.m3u8
+
 
