@@ -34,13 +34,8 @@ def update_playlist():
         )
         response.raise_for_status()  # Raise an exception for bad status codes
         
-        # Get the content and remove the original #EXTM3U header if it exists
-        content = response.text
-        if content.startswith("#EXTM3U"):
-            content = content[content.find('\n') + 1:]
-            
-        # Use the content as-is since it already includes the EPG URL
-        m3u_content = content
+        # Use the content as-is since it already includes the EPG URL and header
+        m3u_content = response.text
         
         # Write to the repository root
         output_filename = "dlive.m3u"
