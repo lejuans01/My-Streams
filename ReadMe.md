@@ -76,7 +76,7 @@ EPG: https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator
 M3U: https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/refs/heads/main/playlists/xumo_playlist.m3u
 
 
-##  :new:  STREAMEast
+##  💥  STREAMEast (Live Sports)
 
 M3U: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/StreamEast.m3u8
 
