@@ -78,6 +78,8 @@ M3U: https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/ref
 
 ##  💥  STREAMEast (Live Sports)
 
+(LIVE) Guide: https://www.streameast.sg/
+
 M3U: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/StreamEast.m3u8
 
 
