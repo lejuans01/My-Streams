@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
-# Last Updated: 2025-09-04 07:19:28
+# Last Updated: 2025-09-04 08:27:06
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JwCLwQ2.png" group-title="Religious",3ABN Dare To Dream Network
 https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bgJQIyW.png" group-title="Religious",3ABN English
@@ -1024,6 +1024,8 @@ http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/647786.ts
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/5287.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",ACCDN
 https://amg01258-amg01258c2-freelivesports-emea-5672.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-accdigitalnetwork-freelivesportsemea/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",ESPN Ocho
+https://amg00497-amg00497c24-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c24-amgplt0023/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",PAC 12 Insider
 https://amg00384-amg00384c1-freelivesports-emea-7308.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",FSN 1
@@ -1078,8 +1080,6 @@ http://gjntpkk.leadcool.xyz:80/live/2731921600/1135460737/181547.m3u8
 http://offplatform-midas.fubo.tv/v1/master/cf8aed8001539cb4cab4963801d5f2cda8d77a1e/production-sportsnet/fsn/master.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",NBA TV
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3751.ts
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",The NBA Channel
-https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",NBA G League TV
 https://apollo.production-public.tubi.io/live/nba-g-league2-5ViUll.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Locked on NBA
@@ -1108,8 +1108,6 @@ http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2480.ts
 http://vocotv.pro:80/live/gast/gast/715294.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",NHL Network
 http://kstv.us:8080/live/pubPPn3kY7/9190645106/15941.ts
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",NHL Channel
-https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",Monumental Sports Network
 http://kstv.us:8080/live/pubPPn3kY7/9190645106/48523.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Sports",NESN (New England Sports Network)
@@ -6435,13 +6433,13 @@ https://live1009.delivery.roku.com/10d99635-efe0-4a99-ab00-54cbc2d95cf6/t2-origi
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",Noticias Telemundo Ahora
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951321/hls/master.m3u8?ads.xumo_channelId=99951321
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",Telemundo Noticias California
-http://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8
+https://nbcu-telemundowest-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",Telemundo Noticias Texas
-https://d1rqgw5gocwo9i.cloudfront.net/10009/99951226/hls/playlist.m3u8?ads.xumo_channelId=99951226
+https://nbcu-telemundotexas-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",Telemundo Noticias Noreste
-https://d1rqgw5gocwo9i.cloudfront.net/10009/99951228/hls/playlist.m3u8?ads.xumo_channelId=99951228
+https://nbcu-telemundonortheast-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",Telemundo Noticias Florida
-https://nbcu-Telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
+https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 #EXTINF:-1 tvg-logo="https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png" group-title="Latino (Spanish)",KVEA-TV Telemundo 52 (Corona/Los Angeles CA)
 http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2394.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/800px-Logo_Univision_2019.svg.png" group-title="Latino (Spanish)",WXTV-TV Univision 41 (New York NY)
@@ -9576,8 +9574,6 @@ http://thevdm.xyz:25461/live/timmadden/timmad4765/127999.ts
 http://thevdm.xyz:25461/live/timmadden/timmad4765/128049.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Family Jr. (Canada)
 http://thevdm.xyz:25461/live/timmadden/timmad4765/128050.ts
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Nickelodeon (Canada)
-http://thevdm.xyz:25461/live/timmadden/timmad4765/127928.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Treehouse (Canada)
 http://thevdm.xyz:25461/live/timmadden/timmad4765/128096.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",YTV (West) (Canada)
@@ -9590,12 +9586,6 @@ http://thevdm.xyz:25461/live/timmadden/timmad4765/127974.ts
 http://kstv.us:8080/live/pubPPn3kY7/9190645106/40644.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Disney Channel (Canada)
 http://thevdm.xyz:25461/live/timmadden/timmad4765/127888.ts
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Disney Channel French (Canada)
-http://kstv.us:8080/live/pubPPn3kY7/9190645106/40724.ts
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Disney XD (Canada)
-http://thevdm.xyz:25461/live/timmadden/timmad4765/128048.ts
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Disney Jr. (Canada)
-http://thevdm.xyz:25461/live/timmadden/timmad4765/127889.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Cartoon Network (Canada)
 http://thevdm.xyz:25461/live/timmadden/timmad4765/128033.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Boomerang by Cartoon Network (Canada)
@@ -9614,8 +9604,6 @@ http://kstv.us:8080/live/pubPPn3kY7/9190645106/40774.ts
 http://thevdm.xyz:25461/live/timmadden/timmad4765/127887.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",A&E (Canada)
 http://thevdm.xyz:25461/live/timmadden/timmad4765/127854.ts
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",ABC Spark (Canada)
-http://kstv.us:8080/live/pubPPn3kY7/9190645106/40781.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",Dejaview (Canada)
 http://thevdm.xyz:25461/live/timmadden/timmad4765/127883.ts
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="Canadian Channels",AMC (Canada)
