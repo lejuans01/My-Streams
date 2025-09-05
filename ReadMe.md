@@ -34,11 +34,9 @@ All of my playlists in one spot.
 ##  📺 Buddy TV
 
 
-M3U: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u
+M3U: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u OR (https://tr.ee/TtBXym)
 
-EPG: https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/epgs/Backup-epg.xml.gz
-
-EPG: https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
+XTRA EPG: https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
 
 
 
