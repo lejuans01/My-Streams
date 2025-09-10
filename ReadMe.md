@@ -47,6 +47,11 @@ M3U: [https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/
 
 EPG: [https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml](https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml)
 
+`Alt Playlist and Epg:`
+
+M3U: https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.m3u
+
+EPG: https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml
 
 
 ##  📺 TheTVApp.to (SD/HD) (SD STAYS LIVE) No High Volume Warning.
