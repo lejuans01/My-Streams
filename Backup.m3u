@@ -7,10 +7,8 @@ https://jmp2.uk/stvp-CA2900005KG
 # https://github.com/BuddyChewChew/My-Streams/raw/refs/heads/main/Archive/offline.mp4
 # -------------- Local TV --------------
 
-# EXTINF:-1  group-title="Local TV" tvg-id="ABC.(WPVI).Philadelphia,.PA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true", ABC (WPVI) PA
-# FOX http://cord-cutter.net:8080/hq3y4G/234247/121149
-
-
+# EXTINF:-1  group-title="Local TV" tvg-id="ABC.(WSYR).Syracuse,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true", ABC (WSYR) NY
+http://cord-cutter.net:8080/hq3y4G/234247/122002
 #EXTINF:-1 group-title="Local TV" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true", ABC (WABC) NY
 http://fl25.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="Local TV" tvg-id="ABC.(KMIZ).Columbia,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true", ABC (KMIZ) MO
@@ -28,8 +26,10 @@ https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
 https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
 
 #EXTINF:-1 tvg-id="WPIX.New.York.(SUPERSTATION).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" group-title="Local TV",CW (WPIX) NY
-https://tvnow.best/api/stream/mikemog/878404/livetv.epg/wpix.new.york.superstation.us.m3u8
-#EXTINF:-1 tvg-id="CW.(KCWE).Kansas.City,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" group-title="Local TV"",CW (KCWE) MO
+http://cord-cutter.net:8080/hq3y4G/234247/120897
+#EXTINF:-1 tvg-id="CW.(WCCB).Charlotte,.NC.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" group-title="Local TV",CW (WCCB) NC
+https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
+#EXTINF:-1 tvg-id="CW.(KCWE).Kansas.City,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" group-title="Local TV",CW (KCWE) MO
 https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8
 #EXTINF:-1 group-title="Local TV" tvg-id="CW.(KOMU-TV3).+.Columbia,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true", CW (KOMU) MO
 https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
@@ -37,9 +37,10 @@ https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
 https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
 
 
+#EXTINF:-1 group-title="Local TV" tvg-id="FOX.(WTXF).Philadelphia,.PA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (WTFX) NY
+http://cord-cutter.net:8080/hq3y4G/234247/120775
 #EXTINF:-1 group-title="Local TV" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (WNYW) NY
-http://fl25.moveonjoy.com/FOX_EAST/index.m3u8
-
+http://cord-cutter.net:8080/hq3y4G/234247/120750
 #EXTINF:-1 group-title="Local TV" tvg-id="FOX.35.Plus.(WRBW).Orlando,.FL.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (WRBW) FL
 http://fl25.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="Local TV" tvg-id="FOX.(KYOU).Ottumwa,.IA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (KYOU) IA
@@ -49,6 +50,8 @@ https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
 #EXTINF:-1 group-title="Local TV" tvg-id="FOX.(KQFX).Columbia,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX(KQFX) MO
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 
+#EXTINF:-1 group-title="Local TV" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true", NBC (WCAU) PA
+http://cord-cutter.net:8080/hq3y4G/234247/120776
 #EXTINF:-1 group-title="Local TV" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true", NBC (WNBC) NY
 http://fl25.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 group-title="Local TV" tvg-id="NBC.(KYOU-DT2).Ottumwa,.IA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true", NBC (KYOU) IA
