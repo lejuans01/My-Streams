@@ -57,7 +57,7 @@ https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
 https://jmp2.uk/stvp-CA2900005KG
 # ------------------ MoveOnJoy+ ---------------------------
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="ABC.(WDFL-LD).Miami,.FL.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC", ABC (WDFL) FL
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC", ABC (WABC) NY
 http://fl25.moveonjoy.com/ABC_EAST/index.m3u8
 # http://fl25.moveonjoy.com/ABC_EAST/index.m3u8
 
@@ -65,7 +65,7 @@ http://fl25.moveonjoy.com/ABC_EAST/index.m3u8
 http://fl25.moveonjoy.com/CBSEAST/index.m3u8
 # http://fl25.moveonjoy.com/CBSEAST/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)", FOX (WNYW) NY
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FOX.35.Plus.(WRBW).Orlando,.FL.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)", FOX (WRBW) FL
 http://fl25.moveonjoy.com/FOX_EAST/index.m3u8
 # http://fl25.moveonjoy.com/FOX_EAST/index.m3u8
 
@@ -103,9 +103,6 @@ http://fl25.moveonjoy.com/Aspire/index.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-66a2c1370b91165254efdb3c.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="BBC.America.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-name="BBC AMERICA", BBC AMERICA
-http://vocotv.pro:80/gast/gast/269006
-
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="BBC.America.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-name="BBC AMERICA", BBC AMERICA (WEST) You ave to timeshift it to west coast time zone.
 http://fl25.moveonjoy.com/BBC_AMERICA/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="plex.tv.BBC.Earth.plex" tvg-logo="https://provider-static.plex.tv/epg/cms/production/0694fd21-4459-41d9-b49d-cef804553424/PLEX_BBCEarth_Logo_Light_1500X1000.png" tvg-name="BBC EARTH", BBC EARTH
