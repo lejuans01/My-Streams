@@ -149,20 +149,86 @@ def replace_urls_in_tv_section(lines, tv_urls):
             result.append(line)
     return result
 
+def is_sporting_event(group, title):
+    """Check if a channel is a sporting event that might expire."""
+    sports_groups = ["NBA", "MLB", "NFL", "NCAAF", "NCAAB", "WNBA", "Soccer", "PPV", "Events"]
+    if group not in sports_groups:
+        return False
+    
+    # Check if title contains a date (common for sports events)
+    import re
+    date_patterns = [
+        r'\(\d{4}-\d{2}-\d{2}\)',  # (2023-09-16)
+        r'\d{1,2}/\d{1,2}/\d{2,4}',   # 9/16/23 or 09/16/2023
+        r'\d{1,2}-\d{1,2}-\d{2,4}'    # 9-16-23 or 09-16-2023
+    ]
+    
+    return any(re.search(pattern, title) for pattern in date_patterns)
+
+def is_event_over(event_title):
+    """Check if an event has already occurred based on its title."""
+    import re
+    from datetime import datetime, timedelta
+    
+    # Look for date patterns in the title
+    date_match = re.search(r'(\d{4}-\d{2}-\d{2})', event_title) or \
+                 re.search(r'(\d{1,2})[/-](\d{1,2})[/-](\d{2,4})', event_title)
+    
+    if date_match:
+        try:
+            if len(date_match.groups()) == 1:  # YYYY-MM-DD format
+                event_date = datetime.strptime(date_match.group(1), '%Y-%m-%d').date()
+            else:  # MM/DD/YY or MM-DD-YYYY format
+                month, day, year = date_match.groups()
+                year = int(year) if len(year) == 4 else int(f'20{year}' if int(year) < 50 else f'19{year}')
+                event_date = datetime(year, int(month), int(day)).date()
+            
+            # Keep events for 24 hours after they end
+            return event_date < (datetime.now().date() - timedelta(days=1))
+        except (ValueError, IndexError):
+            pass
+    return False
+
 def append_new_streams(lines, new_urls_with_groups):
     lines = [line for line in lines if line.strip() != "#EXTM3U"]
     existing = {}
     i = 0
-    while i < len(lines) - 1:
+    
+    # First pass: identify all existing entries and mark sports events for removal
+    to_remove = set()
+    while i < len(lines):
         if lines[i].startswith("#EXTINF:-1"):
             group = None
             title = lines[i].split(",")[-1].strip()
             if 'group-title="' in lines[i]:
                 group = lines[i].split('group-title="')[1].split('"')[0]
+            
+            if group and title and is_sporting_event(group, title) and is_event_over(title):
+                print(f"🗑️ Removing expired event: {title}")
+                # Mark both the #EXTINF line and the URL line for removal
+                to_remove.add(i)
+                if i + 1 < len(lines) and not lines[i+1].startswith('#'):
+                    to_remove.add(i + 1)
+            
             if group:
-                existing[(group, title)] = i + 1
+                existing[(group, title)] = i + 1  # Store index of URL line
         i += 1
-
+    
+    # Remove expired events
+    if to_remove:
+        lines = [line for i, line in enumerate(lines) if i not in to_remove]
+        # Rebuild existing dict with updated indices
+        existing = {}
+        for i, line in enumerate(lines):
+            if line.startswith("#EXTINF:-1"):
+                group = None
+                title = line.split(",")[-1].strip()
+                if 'group-title="' in line:
+                    group = line.split('group-title="')[1].split('"')[0]
+                if group and i + 1 < len(lines):
+                    existing[(group, title)] = i + 1
+    
+    # Add/update new streams
     for url, group, title in new_urls_with_groups:
         key = (group, title)
         if key in existing:
@@ -174,7 +240,8 @@ def append_new_streams(lines, new_urls_with_groups):
             else:
                 lines.append(f'#EXTINF:-1 group-title="{group}",{title}')
             lines.append(url)
-
+    
+    # Ensure we have a valid M3U file
     lines = [line for line in lines if line.strip()]
     lines.insert(0, "#EXTM3U")
     return lines
