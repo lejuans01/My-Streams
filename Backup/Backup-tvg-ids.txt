@@ -27,17 +27,36 @@
 USBD1700009P5
 # -------------------
 24.7.Dummy.us
-# -------------------
+# ABC -------------------
+WABC-DT.us_locals1
+WFTS-DT.us_locals1
 ABC.(KMIZ).Columbia,.MO.us
 ABC.(KTVO).Kirskville,.MO.us
-ABC.(WDFL-LD).Miami,.FL.us
-ABC.(WABC).New.York,.NY.us
-ABC.(WPVI).Philadelphia,.PA.us
-CBS.(WCBS).New.York, .NY.us
+# CBS -------------------
+WSBK-DT.us_locals1
+WCBS-DT.us_locals1
 CBS.(KRCG).Jefferson,.MO.us
-CBS.(KCTV).Kansas.City,.MO.us
+KSMO-DT.us_locals1
 CBS.(KTVO-DT2).Kirskville,.MO.us
-# -------------------
+# FOX -------------------
+FOX.(KQFX).Columbia,.MO.us
+KYOU-DT.us_locals1
+WDAF-DT.us_locals1
+WNYW-DT.us_locals1
+FOX.(WTXF).Philadelphia,.PA.us
+FOX.35.Plus.(WRBW).Orlando,.FL.us
+# CW -------------------
+WPIX-DT.us_locals1
+WCCB-DT.us_locals1
+KCWE-DT.us_locals1
+CW.(KOMU-TV3).+.Columbia,.MO.us
+CW.(KYOU4).Ottumwa,.IA.us
+# NBC -------------------
+NBC.(KOMU).Columbia,.MO.us
+KSHB-DT.us_locals1
+KYOU-DT.us_locals1
+WNBC-DT.us_locals1
+WCAU-DT.us_locals1
 A.and.E.HD.East.us2
 ACC.Network.us2
 ACLCornholeTV.us
@@ -61,7 +80,7 @@ Bloomberg.HD.us2
 Boomerang.us2
 Bounce.TV.us2
 Bravo.HD.us2
-Buzzr.TV.us
+BUZZR.us2
 CSPAN.us2
 CBS.Sports.Network.HD.us2
 Cinebox.Dummy.us
@@ -74,9 +93,6 @@ Cooking.Channel.HD.us2
 Comedy.TV.HD.us2
 The.Cowboy.Channel.us2
 CTV.Nature.ca2
-CW.(KCWE).Kansas.City,.MO.us
-CW.(KOMU-TV3).+.Columbia,.MO.us
-CW.(KYOU4).Ottumwa,.IA.us
 Cable.News.Network.International.(CNNI).us
 Adult.Swim.ca2
 Cartoon.Network.HD.us2
@@ -112,12 +128,7 @@ ESPN.HD.us2
 ESPN2.HD.us2
 ESPNU.HD.us2
 FanDuel.TV.us
-FOX.(KQFX).Columbia,.MO.us
-FOX.(KYOU).Ottumwa,.IA.us
-FOX.(WDAF).Kansas.City,.MO.us
-FOX.(WNYW).New.York,.NY.us
-FOX.(WTXF).Philadelphia,.PA.us
-FOX.35.Plus.(WRBW).Orlando,.FL.us
+FanDuel.Sports.Network.Extra.HDTV.DirecTV.(Midwest).us
 Fuse.HD.us2
 FX.Movie.Channel.HD.us2
 FX.HD.us2
@@ -128,7 +139,7 @@ Fox.Business.HD.us2
 Fox.News.Channel.HD.us2
 FS1.HD.us2
 FS2.HD.us2
-Freeform.-.East.Feed.us
+Freeform.HD.us2
 get.us2
 Golf.Channel.HD.us2
 Great.American.Family.HD.us2
@@ -178,10 +189,6 @@ Music.Dummy.us
 MuchMusic.Network.ca2
 NBA.Basketball.Dummy.us
 NBA.TV.HD.us2
-NBC.(KOMU).Columbia,.MO.us
-NBC.(KSHB).Kansas.City,.MO.us
-NBC.(KYOU-DT2).Ottumwa,.IA.us
-NBC.(WNBC).New.York,.NY.us
 NEWS.dummy.us
 NFL.Dummy.us
 NFL.Network.HD.us2
@@ -273,7 +280,6 @@ World.Fishing.Network.(US).(WFN).us
 WWE.Network.us2
 Yes.Network.us2
 beIN.Sport.Canada.ca
-get.us
 plex.tv.80`s.Sitcom.Flashback.plex
 plex.tv.ACL.Cornhole.TV.plex
 plex.tv.AMC.Thrillers.plex
