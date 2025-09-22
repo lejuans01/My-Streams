@@ -77,9 +77,6 @@ https://fl7.moveonjoy.com/FL_Tampa_ABC/index.m3u8
 #EXTINF:-1 tvg-id="WCBS-DT.us_locals1" tvg-name="CBS (WCBS)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="MoveOnJoy+", CBS (WCBS) NY
 http://fl25.moveonjoy.com/CBSEAST/index.m3u8
 
-#EXTINF:-1  tvg-name="CBS (WSBK) BOS" tvg-id="WSBK-DT.us_locals1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="Local TV" radio="false",CBS (WSBK) BOS
-https://fl7.moveonjoy.com/CBS_News/index.m3u8
-
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FOX.35.Plus.(WRBW).Orlando,.FL.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)", FOX (WRBW) FL
 http://fl25.moveonjoy.com/FOX_EAST/index.m3u8
 
@@ -174,6 +171,9 @@ http://fl25.moveonjoy.com/BRAVO/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="BUZZR.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" tvg-name="BUZZER", BUZZR
 http://fl25.moveonjoy.com/Buzzr/index.m3u8
+
+#EXTINF:-1  tvg-name="CBS News 24/7" tvg-id="24.7.Dummy.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" group-title="MoveOnJoy+" radio="false",CBS News 24/7
+https://fl7.moveonjoy.com/CBS_News/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="CSPAN.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" tvg-name="C-SPAN", C-SPAN
 http://fl25.moveonjoy.com/C-SPAN/index.m3u8
