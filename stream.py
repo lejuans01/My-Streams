@@ -4,7 +4,7 @@ from datetime import datetime
 from playwright.async_api import async_playwright, Request
 
 
-BASE_URL = "https://www.streameast.tw"
+BASE_URL = "https://www.streameast.pk"
 M3U8_FILE = "StreamEast.m3u8"
 
 
