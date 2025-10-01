@@ -86,6 +86,6 @@ jobs:
     - name: Commit and push changes
       if: steps.git-check.outputs.changes_detected == 'true'
       run: |
-        git commit -m "Update M3U playlist [skip ci]"
+        git commit -m "🔁 Update M3U playlist [skip ci]"
         git pull --rebase origin main
         git push
