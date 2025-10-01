@@ -35,7 +35,7 @@ jobs:
     - name: Run update script
       id: update
       env:
-        DLIVE_M3U_SOURCE_URL: ${{ secrets.TV_M3U_SOURCE_URL }}
+        TV_M3U_SOURCE_URL: ${{ secrets.TV_M3U_SOURCE_URL }}
       run: |
         # Print current directory and files for debugging
         pwd
