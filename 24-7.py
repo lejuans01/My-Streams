@@ -11,7 +11,7 @@ json_urls = [
 ]
 
 STATIC_TVG_ID = "24.7.Dummy.us"
-STATIC_LOGO_URL = "https://www.wirelesshack.org/wp-content/uploads/2022/01/How-To-Install-Mad-Titan-Sports-Kodi-Add-on-2022.jpg"
+STATIC_LOGO_URL = "https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/24-7.png?raw=true"
 MAX_WORKERS = 50
 CHECK_TIMEOUT = 5
 
@@ -48,7 +48,7 @@ for url in json_urls:
                 all_channels.append({
                     "name": channel_name,
                     "stream_url": stream_url,
-                    "group": f"MadTitan - {category}"
+                    "group": f"{category}"
                 })
                 
     except requests.exceptions.RequestException as e:
