@@ -9,9 +9,9 @@ from requests.adapters import HTTPAdapter
 
 def update_playlist():
     # Get M3U URL from environment variable
-    m3u_url = os.getenv('DLIVE_M3U_SOURCE_URL')
+    m3u_url = os.getenv('TV_M3U_SOURCE_URL')
     if not m3u_url:
-        raise ValueError("DLIVE_M3U_SOURCE_URL environment variable not set")
+        raise ValueError("TV_M3U_SOURCE_URL environment variable not set")
     
     # Configure retry strategy
     retry_strategy = Retry(
@@ -38,7 +38,7 @@ def update_playlist():
         m3u_content = response.text
         
         # Write to the repository root
-        output_filename = "dlive.m3u"
+        output_filename = "tv.m3u"
         # Use the current working directory (repository root)
         output_path = os.path.join(os.getcwd(), output_filename)
         print(f"Writing to: {output_path}")
