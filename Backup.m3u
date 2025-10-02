@@ -430,7 +430,7 @@ http://fl25.moveonjoy.com/HGTV/index.m3u8
 https://i.mjh.nz/.r/discovery-hgtv.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" tvg-name="History", HISTORY
-http://cord-cutter.net:8080/bn80NG/909467/15017
+https://fl7.moveonjoy.com/history_channel/index.m3u8
 # http://cord-cutter.net:8080/bn80NG/909467/46724
 
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50" tvg-id="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50" tvg-chno="" tvg-name="History Hit" tvg-logo="https://provider-static.plex.tv/epg/cms/production/122cb7c8-2f6f-429a-8299-e89d9e632925/HistoryHit_Rectangle_colour_1500x1000_logo.png" group-title="MoveOnJoy+", HISTORY HIT
@@ -2426,6 +2426,7 @@ http://fl25.moveonjoy.com/PPV_4/index.m3u8
 http://fl25.moveonjoy.com/PPV_5/index.m3u8
 #EXTINF:-1 group-title="Events" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 6", PPV 6
 http://fl25.moveonjoy.com/PPV_6/index.m3u8
+
 
 
 
