@@ -30,21 +30,21 @@ USBD1700009P5
 # ABC -------------------
 WABC-DT.us_locals1
 WFTS-DT.us_locals1
-ABC.(KMIZ).Columbia,.MO.us
-ABC.(KTVO).Kirskville,.MO.us
+KMIZ-DT.us_locals1
+KTVO-DT.us_locals1
 # CBS -------------------
 WSBK-DT.us_locals1
 WCBS-DT.us_locals1
-CBS.(KRCG).Jefferson,.MO.us
+WKRG-DT.us_locals1
 KSMO-DT.us_locals1
 CBS.(KTVO-DT2).Kirskville,.MO.us
 # FOX -------------------
-FOX.(KQFX).Columbia,.MO.us
+KQFX-LD.us_locals1
 KYOU-DT.us_locals1
 WDAF-DT.us_locals1
 WNYW-DT.us_locals1
-FOX.(WTXF).Philadelphia,.PA.us
-FOX.35.Plus.(WRBW).Orlando,.FL.us
+WTXF-DT.us_locals1
+WRBW-DT.us_locals1
 # CW -------------------
 WPIX-DT.us_locals1
 WCCB-DT.us_locals1
@@ -52,7 +52,7 @@ KCWE-DT.us_locals1
 CW.(KOMU-TV3).+.Columbia,.MO.us
 CW.(KYOU4).Ottumwa,.IA.us
 # NBC -------------------
-NBC.(KOMU).Columbia,.MO.us
+KOMU-DT.us_locals1
 KSHB-DT.us_locals1
 KYOU-DT.us_locals1
 WNBC-DT.us_locals1
@@ -63,7 +63,7 @@ AMC.HD.us2
 ASPiRE.HD.us2
 American.Heroes.Channel.HD.us2
 Animal.Planet.HD.us2
-Antenna.TV.us
+Antenna.TV.us2
 beIN.Sports.USA.HD.us2
 BBC.America.HD.us2
 BBC.News.(North.America).HD.us2
@@ -88,17 +88,17 @@ CMT.HD.us2
 CNBC.HD.us2
 CNBC.World.us2
 CNN.HD.us2
+CNN.International.us2
 Cooking.Channel.HD.us2
 Comedy.TV.HD.us2
 The.Cowboy.Channel.us2
 CTV.Nature.ca2
-CNN.International.us2
 Adult.Swim.ca2
 Cartoon.Network.HD.us2
 Cartoon.Network.(Pacific).us2
 CHARGE!.us2
 5.StarMAX.HD.East.us2
-Cinemax.-.Eastern.Feed.us
+Cinemax.HD.us2
 Cooking.Channel.HD.us2
 Comedy.Central.HD.us2
 Comedy.Central.HD.(Pacific).us2
@@ -169,12 +169,13 @@ MGM+.HD.us2
 MGM+.Hits.HD.us2
 MGM+.Marquee.HD.us2
 MGM+.Drive-In.us2
+Military.History.Channel.us2
 MLB.Baseball.Dummy.us
 MLB.Network.HD.us2
 MOTORTREND.HD.us2
-MSG.(Alt..feed).-.MSG2.OVERFLOW.us2
+MSG.National.us2
 MNT.(KSMO).Kansas.City,.MO.us
-MSNBC.USA.us
+MSNBC.HD.us2
 mtv-U.us2
 MTV2:.Music.Television.HD.us2
 MTV.Classic.us2
@@ -182,7 +183,7 @@ MTV.Live.HD.us
 MTV.-.Music.Television.HD.us2
 National.Geographic.HD.us2
 National.Geographic.Wild.HD.us2
-MoreMax..Eastern.us
+MoreMax.HD.us2
 Movie.Dummy.us
 Music.Dummy.us
 MuchMusic.Network.ca2
@@ -208,7 +209,7 @@ Oxygen.True.Crime.HD.us2
 PPV.EVENTS.Dummy.us
 Paramount+.with.Showtime.HD.us2
 Paramount.Network.HD.us2
-Pursuit.Channel.us
+Pursuit.Channel.us2
 QVC.HD.us2
 Redbull.Dummy.us
 ReelzChannel.HD.us2
@@ -235,8 +236,7 @@ Smithsonian.HD.Network.us2
 Sony.Movie.Channel.HD.us2
 Sportsman.Channel.us
 Sports.Dummy.us
-Start.TV.us
-StartTVNetwork.us
+Start.TV.Network.us2
 Starz.HD.us2
 Starz.HD.(Pacific).us2
 Starz.Comedy.HD.us2
