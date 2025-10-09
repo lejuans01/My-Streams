@@ -15,14 +15,14 @@ http://fl31.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1  tvg-name="ABC (WFTS) FL" tvg-id="WFTS-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true" group-title="Local TV" radio="false",ABC (WFTS) FL
 http://fl31.moveonjoy.com/FL_Tampa_ABC/index.m3u8
 
-#EXTINF:-1 group-title="Local TV" tvg-id="ABC.(KMIZ).Columbia,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true", ABC (KMIZ) MO
+#EXTINF:-1 group-title="Local TV" tvg-id="KMIZ-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true", ABC (KMIZ) MO
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-#EXTINF:-1 group-title="Local TV" tvg-id="ABC.(KTVO).Kirskville,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true", ABC (KTVO) MO
+#EXTINF:-1 group-title="Local TV" tvg-id="KTVO-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true", ABC (KTVO) MO
 https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
 
 #EXTINF:-1 tvg-id="WCBS-DT.us_locals1" tvg-name="CBS (WCBS)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="Local TV", CBS (WCBS) NY
 http://fl31.moveonjoy.com/CBSEAST/index.m3u8
-#EXTINF:-1 group-title="Local TV" tvg-id="CBS.(KRCG).Jefferson,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true", CBS (KRCG) MO
+#EXTINF:-1 group-title="Local TV" tvg-id="WKRG-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true", CBS (KRCG) MO
 https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
 #EXTINF:-1 group-title="Local TV" tvg-id="KSMO-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true", CBS (KSMO)MO
 https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
@@ -41,17 +41,17 @@ https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
 https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
 
 
-#EXTINF:-1 group-title="Local TV" tvg-id="FOX.(WTXF).Philadelphia,.PA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (WTFX) PA
+#EXTINF:-1 group-title="Local TV" tvg-id="WTXF-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (WTFX) PA
 http://cord-cutter.net:8080/hq3y4G/234247/120775
 #EXTINF:-1 group-title="Local TV" tvg-id="WNYW-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (WNYW) NY
 http://cord-cutter.net:8080/hq3y4G/234247/120750
-#EXTINF:-1 group-title="Local TV" tvg-id="FOX.35.Plus.(WRBW).Orlando,.FL.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (WRBW) FL
+#EXTINF:-1 group-title="Local TV" tvg-id="WRBW-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (WRBW) FL
 http://fl31.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="Local TV" tvg-id="KYOU-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (KYOU) IA
 https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
 #EXTINF:-1 group-title="Local TV" tvg-id="WDAF-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX (WDAF) MO
 https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
-#EXTINF:-1 group-title="Local TV" tvg-id="FOX.(KQFX).Columbia,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX(KQFX) MO
+#EXTINF:-1 group-title="Local TV" tvg-id="KQFX-LD.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", FOX(KQFX) MO
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
 
 #EXTINF:-1 group-title="Local TV" tvg-id="WCAU-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true", NBC (WCAU) PA
@@ -60,7 +60,7 @@ http://cord-cutter.net:8080/hq3y4G/234247/120776
 http://fl31.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 group-title="Local TV" tvg-id="KYOU-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true", NBC (KYOU) IA
 https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
-#EXTINF:-1 group-title="Local TV" tvg-id="NBC.(KOMU).Columbia,.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true", NBC (KOMU) MO
+#EXTINF:-1 group-title="Local TV" tvg-id="KOMU-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true", NBC (KOMU) MO
 https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
 #EXTINF:-1 group-title="Local TV" tvg-id="KSHB-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true", NBC (KSHB) MO
 https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
@@ -107,7 +107,7 @@ http://fl31.moveonjoy.com/American_Heroes_Channel/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Animal.Planet.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" tvg-name="Animal Planet", ANIMAL PLANET
 http://fl31.moveonjoy.com/Animal_Planet/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Antenna.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/antenna-us.png" tvg-name="Antenna", ANTENNA
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Antenna.TV.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/antenna-us.png" tvg-name="Antenna", ANTENNA
 https://cvtv.cvalley.net/hls/WDAFAntenna/WDAFAntenna.m3u8
 # http://fl31.moveonjoy.com/Antenna_TV/index.m3u8
 
@@ -218,11 +218,11 @@ http://fl31.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="CNBC.World.us2" tvg-logo="" tvg-name="CNBC WORLD", CNBC WORLD
 http://fl7.moveonjoy.com/CNBC_World/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="CNN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" tvg-name="CNN", CNN
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="CNN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" tvg-name="CNN", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 
 # -----------------------------
-# #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="CNN.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true", CNN 2
+# #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="CNN.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true", CNN 2
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 # -----------------------------
 
@@ -436,7 +436,7 @@ http://fl31.moveonjoy.com/history_channel/index.m3u8
 #EXTINF:-1 channel-id="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50" tvg-id="5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50" tvg-chno="" tvg-name="History Hit" tvg-logo="https://provider-static.plex.tv/epg/cms/production/122cb7c8-2f6f-429a-8299-e89d9e632925/HistoryHit_Rectangle_colour_1500x1000_logo.png" group-title="MoveOnJoy+", HISTORY HIT
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Test.Dummy.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/military-history-us.png?raw=true" tvg-name="MILITARY HISTORY", MILITARY HISTORY
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Military.History.Channel.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/military-history-us.png?raw=true" tvg-name="MILITARY HISTORY", MILITARY HISTORY
 http://fl7.moveonjoy.com/Military_History/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="HLN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" tvg-name="HLN", HLN
@@ -507,10 +507,10 @@ http://fl31.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="MOTORTREND.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31046_dark_360w_270h.png" tvg-name="MotorTrend", MOTORTREND
 http://fl31.moveonjoy.com/MOTOR_TREND/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="MSG2.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" tvg-name="MSG", MSG
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="MSG.National.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" tvg-name="MSG", MSG
 http://fl31.moveonjoy.com/MSG/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="MSNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" tvg-name="MSNBC", MSNBC
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="MSNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" tvg-name="MSNBC", MSNBC
 http://cord-cutter.net:8080/hq3y4G/234247/9296
 # https://int.klcis.cc/api/m3u/MSNBC?quality=hd
 # https://int.klcis.cc/api/m3u/MSNBC?quality=sd
@@ -643,7 +643,7 @@ http://fl7.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="plex.tv.Stadium.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" tvg-name="Stadium", STADIUM CHANNEL
 http://fl31.moveonjoy.com/STADIUM/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Start.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true" tvg-name="Start TV", START TV
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Start.TV.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/start-tv-us.png?raw=true" tvg-name="Start TV", START TV
 http://fl31.moveonjoy.com/Start_Tv/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" tvg-name="STARZ (EAST)", STARZ (EAST)
@@ -761,7 +761,7 @@ http://fl31.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
 http://cord-cutter.net:8080/hq3y4G/234247/9237
 # http://fl31.moveonjoy.com/WE_TV/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="WGN.Chicago.(LOCAL).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/wgn-america-us.png" tvg-name="WGN", WGN
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Blank.Dummy.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/wgn-america-us.png" tvg-name="WGN", WGN
 http://fl31.moveonjoy.com/WGN/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="World.Fishing.Network.HD.(US).us2" tvg-logo="" tvg-name="WORLD FISHING NETWORK", WORLD FISHING NETWORK
@@ -862,7 +862,7 @@ https://jmp2.uk/str-5747.m3u8
 #EXTINF:-1 group-title="Sport Outdoors" tvg-id="Outdoor.Channel.US.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png" tvg-name="Outdoor Channel", OUTDOOR CHANNEL
 http://fl31.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 
-#EXTINF:-1 group-title="Sport Outdoors" tvg-id="Pursuit.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pursuit-us.png?raw=true" tvg-name="Pursuit Channel", PURSUIT CHANNEL
+#EXTINF:-1 group-title="Sport Outdoors" tvg-id="Pursuit.Channel.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/pursuit-us.png?raw=true" tvg-name="Pursuit Channel", PURSUIT CHANNEL
 https://s2host5.localnow.api.cms.amdvids.com/v1/master/c189661feba961c19bc5fb60b57879ee9b84548a/config3/dist/localnow/205/hls/master/playlist.m3u8?ads.cdnhost=s2host5.localnow.api.cms.amdvids.com&ads.playbackid=02C8D91A-6765-48BC-BC15-8BC069E88062&ads.n1=rule_id&ads.v1=E7BB7BA1-D932-4E65-BD9F-93731E6E87C5-1744054592&ads.n3=qp_content_id&ads.v3=02C8D91A-6765-48BC-BC15-8BC069E88062&ads.n4=content_name&ads.v4=EPG%20%7C%20Pursuit%20Up%20Channel&ads.n21=device_type&ads.v21=&ads.n22=channel_corp&ads.v22=Pursuit%20Media%20TV%20LLC&ads.n23=channel_brand_id&ads.v23=AMDB012510&ads.n24=cust_devicename&ads.v24=desktop_web&ads.n25=network_name&ads.v25=pursuit-up&ads.n26=content_custom_2_param&ads.v26=AMDB012510&ads.n27=gpp_sid&ads.v27=&ads.n28=device_make&ads.v28=&ads.n29=pos&ads.v29=midroll&ads.n30=channel_genre&ads.v30=Sports&ads.n31=ip&ads.v31=195.179.200.80&ads.n32=ifa_type&ads.v32=&ads.n33=content_custom_1_param&ads.v33=02C8D91A-6765-48BC-BC15-8BC069E88062&ads.n34=channel_name&ads.v34=EPG%20%20Pursuit%20Up%20Channel&ads.n35=h&ads.v35=1080&ads.n36=app_version&ads.v36=0.0.0&ads.n37=content_provider&ads.v37=pursuit-up&ads.n38=dnt&ads.v38=&ads.n39=w&ads.v39=1920&ads.n40=app_name&ads.v40=&ads.n41=content_type&ads.v41=channel&ads.n42=content_livestream&ads.v42=1&ads.n43=app_store_url&ads.v43=&ads.n44=ua&ads.v44=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F122.0.0.0%20Safari%2F537.36&ads.n45=channel_company_id&ads.v45=AMDP500223&ads.n46=device_model&ads.v46=&ads.n47=channel_ext_id&ads.v47=6196ecb58cb60e0f204e2041&ads.n48=us_privacy&ads.v48=1YNY&ads.n49=channel_title&ads.v49=EPG%20%20Pursuit%20Up%20Channel&ads.n50=content_custom_3_param&ads.v50=channel&ads.n51=url&ads.v51=https%25253A%25252F%25252Flocalnow.com%25252Fchannels%25252Fcbs-news-chicago-hyperlocal&ads.n52=channel_rating&ads.v52=TV-PG&ads.n53=channel_language&ads.v53=en&ads.n54=app_bundle&ads.v54=&ads.n55=gpp&ads.v55=&ads.n56=did&ads.v56=&ads.n57=content_producer_name&ads.v57=Pursuit%20Media%20TV%20LLC&ads.n58=channel_id&ads.v58=02C8D91A-6765-48BC-BC15-8BC069E88062
 
 #EXTINF:-1 group-title="Sport Outdoors" tvg-id="Sportsman.Channel.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sportsman-channel-us.png?raw=true" tvg-name="Sportsman Channel", SPORTSMAN CHANNEL
