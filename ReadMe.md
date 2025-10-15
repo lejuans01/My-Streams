@@ -1,5 +1,3 @@
-📌 Repo Discussion: ( Changes, updates, Info ) [Link](https://github.com/BuddyChewChew/My-Streams/issues/5)
-
 📌 Discord: https://discord.gg/fnsWGDy2mm
 
 ---------------------------------------------
