@@ -26,6 +26,8 @@ All of my playlists in one spot.
 
 ✨ <a href="https://github.com/BuddyChewChew/My-Streams/tree/main/Google%20Script%20And%20Install%20Info" target="_blank">Google Script And Install Info</a> Host your own version of ( app-m3u-generator ) On Google. Easy and free. The script will give you `Pluto`, `Samsung`, `Stirr`, `Plex`, `Roku` and `Tubi` links to use in your IPTV Player.
 
+**LIVE SPORTS:**
+
 💥 M3U: https://raw.githubusercontent.com/BuddyChewChew/ppv/refs/heads/main/PPVLand.m3u8
 
 💥 M3U: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/StreamedSU.m3u8
