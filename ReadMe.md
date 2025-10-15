@@ -9,15 +9,12 @@
 💥 Buddy Live: https://github.com/BuddyChewChew/buddylive
 All of my playlists in one spot.
 
-`Update 7/11/25`
 
-⭐ Playlist 1: [Backup.m3u](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u) Epg: [ALL_SOURCES.gz](https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz)
+⭐ Playlist 1: [Backup.m3u](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u)
 
-⭐ Playlist 2: [TheTVApp.m3u8](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8) Epg: [epg.xml](https://tvpass.org/epg.xml) Credit: ( [DrewLive](https://github.com/Drewski2423/DrewLive) )
+⭐ Playlist 2: [TheTVApp.m3u8](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8)
 
 ⭐ Playlist 3: M3U-With_EPG: [buddylive_v1.m3u](https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/buddylive_v1.m3u) ( Thetvapp SD channels )
-
-⭐ [combine-remote-playlists](https://github.com/BuddyChewChew/combine-remote-playlists) `PLAYLISTS UPDATED 7/11/25`
 
 ⭐ [tubi-scraper](https://github.com/BuddyChewChew/tubi-scraper) `Tubi` m3u with epg.
 
@@ -29,60 +26,13 @@ All of my playlists in one spot.
 
 ✨ <a href="https://github.com/BuddyChewChew/My-Streams/tree/main/Google%20Script%20And%20Install%20Info" target="_blank">Google Script And Install Info</a> Host your own version of ( app-m3u-generator ) On Google. Easy and free. The script will give you `Pluto`, `Samsung`, `Stirr`, `Plex`, `Roku` and `Tubi` links to use in your IPTV Player.
 
----------------------------------------------
-
-##  📺 Buddy TV
-
-
-M3U: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/Backup.m3u OR (https://tr.ee/TtBXym)
-
-XTRA EPG: https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
-
-
-
-##  📺 TheTVApp.to (SD STAYS LIVE) No High Volume Warning. 
-
-
-M3U: [https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.m3u](https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.m3u)
-
-EPG: [https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml](https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/en/videoall.xml)
-
-`Alt Playlist and Epg:`
-
-M3U: https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.m3u
-
-EPG: https://raw.githubusercontent.com/mikekaprielian/rtnaodhor93n398/refs/heads/main/en/videoall.xml
-
-
-##  📺 TheTVApp.to (SD/HD) (SD STAYS LIVE) No High Volume Warning.
-
-M3U: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8
-
-EPG: https://tvpass.org/epg.xml
-
-
-
-##  📺 Pluto, Samsung, Stirr, Plex, Tubi, Roku (Playlist & EPG)
-
-Link: https://github.com/BuddyChewChew/app-m3u-generator/tree/main/playlists
-
-
-##  📺 Local Now  (Playlist & EPG)
-
-M3U: https://www.apsattv.com/localnow.m3u
-
-EPG: https://raw.githubusercontent.com/BuddyChewChew/localnow-playlist-generator/refs/heads/main/epg.xml
-
-
-##  📺 Xumo (Playlist & EPG)
-
-M3U: https://raw.githubusercontent.com/BuddyChewChew/xumo-playlist-generator/refs/heads/main/playlists/xumo_playlist.m3u
-
-##  Website: https://ppv.zone/
 💥 M3U: https://raw.githubusercontent.com/BuddyChewChew/ppv/refs/heads/main/PPVLand.m3u8
 
-##  Website: [https://streamed.pk](https://streamed.pk)
-💥 M3U: [https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/StreamedSU.m3u8](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/StreamedSU.m3u8)
+💥 M3U: https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/StreamedSU.m3u8
+
+
+---------------------------------------------
+
 
 
 ---------------------------------------------
