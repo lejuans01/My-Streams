@@ -14,7 +14,7 @@ All of my playlists in one spot.
 
 ⭐ Playlist 2: [TheTVApp.m3u8](https://raw.githubusercontent.com/BuddyChewChew/My-Streams/refs/heads/main/TheTVApp.m3u8)
 
-⭐ Playlist 3: M3U-With_EPG: [buddylive_v1.m3u](https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/buddylive_v1.m3u) ( Thetvapp SD channels )
+⭐ Playlist 3: [buddylive_v1.m3u](https://raw.githubusercontent.com/BuddyChewChew/buddylive/refs/heads/main/buddylive_v1.m3u) ( Thetvapp SD channels )
 
 ⭐ [tubi-scraper](https://github.com/BuddyChewChew/tubi-scraper) `Tubi` m3u with epg.
 
