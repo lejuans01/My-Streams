@@ -39,8 +39,6 @@ All of my playlists in one spot.
 
 🔗 **LINKS:**
 
-✨ Great discord ( GAMING AND IPTV ): https://discord.gg/AAztSsXaTb
-
 🔵 **STREAMING SITES & LINKS**
 - `videopiracyguide` [Link](https://fmhy.pages.dev/videopiracyguide#live-tv--sports) Resources related to IPTV, Streaming and info.
 - `awesome-iptv` [Link](https://github.com/iptv-org/awesome-iptv) A curated list of resources related to IPTV.
