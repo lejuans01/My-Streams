@@ -4,9 +4,10 @@ import re
 import concurrent.futures
 
 FALLBACK_LOGOS = {
-    "football": "https://i.imgur.com/RvN0XSF.png",
-    "fight":    "https://i.imgur.com/QlBOQft.png",
-    "basketball": "http://drewlive24.duckdns.org:9000/Logos/NBA.png"
+    "american-football": "http://drewlive24.duckdns.org:9000/Logos/Am-Football2.png",
+    "football":          "https://i.imgur.com/RvN0XSF.png",
+    "fight":             "http://drewlive24.duckdns.org:9000/Logos/Combat-Sports.png",
+    "basketball":        "http://drewlive24.duckdns.org:9000/Logos/Basketball5.png"
 }
 
 CUSTOM_HEADERS = {
@@ -21,20 +22,23 @@ TV_IDS = {
     "American Football": "NFL.Dummy.us",
     "Afl": "AUS.Rules.Football.Dummy.us",
     "Football": "Soccer.Dummy.us",
-    "Basketball": "Basketball.Dummy.us"
+    "Basketball": "Basketball.Dummy.us",
+    "Hockey": "NHL.Hockey.Dummy.us",
+    "Tennis": "Tennis.Dummy.us",
+    "Darts": "Darts.Dummy.us"
 }
 
-def get_all_matches():
-    url = "https://streamed.pk/api/matches/all"
+def get_matches(endpoint="all"):
+    url = f"https://streamed.pk/api/matches/{endpoint}"
     try:
-        print("📡 Fetching all matches from the API...")
+        print(f"📡 Fetching {endpoint} matches from the API...")
         response = requests.get(url, timeout=20)
         response.raise_for_status()
-        print("✅ Successfully fetched match list.")
+        print(f"✅ Successfully fetched {endpoint} matches.")
         return response.json()
     except requests.exceptions.RequestException as e:
-        print(f"❌ Error fetching matches: {e}", file=sys.stderr)
-        return None
+        print(f"❌ Error fetching {endpoint} matches: {e}", file=sys.stderr)
+        return []
 
 def get_stream_embed_url(source):
     try:
@@ -91,7 +95,7 @@ def build_logo_url(match):
     api_category = match.get('category') or ''
     logo_url = None
 
-    teams = match.get('teams', {})
+    teams = match.get('teams') or {}
     for team_key in ['away','home']:
         team = teams.get(team_key, {})
         badge = team.get('badge') or team.get('id')
@@ -123,7 +127,10 @@ def process_match(match):
     return match, None
 
 def generate_m3u8():
-    matches = get_all_matches()
+    all_matches = get_matches("all")
+    live_matches = get_matches("live")
+    matches = all_matches + live_matches 
+
     if not matches:
         return "#EXTM3U\n#EXTINF:-1,No Matches Found\n"
 
