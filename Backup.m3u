@@ -217,7 +217,7 @@ http://fl30.moveonjoy.com/CMT/index.m3u8
 http://fl30.moveonjoy.com/CNBC/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="CNBC.World.us2" tvg-logo="" tvg-name="CNBC WORLD", CNBC WORLD
-http://fl7.moveonjoy.com/CNBC_World/index.m3u8
+http://fl30.moveonjoy.com/CNBC_World/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="CNN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" tvg-name="CNN", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
@@ -238,7 +238,7 @@ http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 http://fl30.moveonjoy.com/Comedy_Central/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Comedy.TV.HD.us2" tvg-logo="" tvg-name="COMEDY TV", COMEDY TV
-http://fl7.moveonjoy.com/Comedy_TV/index.m3u8
+http://fl30.moveonjoy.com/Comedy_TV/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Comet.TV.us2" tvg-name="Comet.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/comet-us.png", COMET
 http://fl30.moveonjoy.com/COMET/index.m3u8
@@ -249,7 +249,7 @@ https://cvtv.cvalley.net/hls/KRCGComet/KRCGComet.m3u8
 # ------------------------
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="The.Cowboy.Channel.us2" tvg-logo="" tvg-name="COWBOY CHANNEL", COWBOY CHANNEL
-http://fl7.moveonjoy.com/Cowboy_Channel/index.m3u8
+http://fl30.moveonjoy.com/Cowboy_Channel/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Cooking.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" tvg-name="COOKING", COOKING CHANNEL
 http://fl30.moveonjoy.com/COOKING_CHANNEL/index.m3u8
@@ -325,10 +325,10 @@ http://fl30.moveonjoy.com/ESPN_NEWS/index.m3u8
 http://fl30.moveonjoy.com/ESPN_U/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FanDuel.TV.us" tvg-logo="" tvg-name="FANDUEL TV", FANDUEL TV
-http://fl7.moveonjoy.com/PAC_12/index.m3u8
+http://fl30.moveonjoy.com/PAC_12/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FanDuel.TV.us" tvg-logo="" tvg-name="FANDUEL TV", FANDUEL TV
-http://fl7.moveonjoy.com/TVG/index.m3u8
+http://fl30.moveonjoy.com/TVG/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png" tvg-name="FOOD NETWORK", FOOD NETWORK
 http://fl30.moveonjoy.com/FOOD_NETWORK/index.m3u8
@@ -392,7 +392,7 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5eea605574085f0040ddc782.m3u8
 http://fl30.moveonjoy.com/GET_TV/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Great.American.Family.HD.us2" tvg-logo="" tvg-name="GREAT AMERICAN FAMILY", GREAT AMERICAN FAMILY
-http://fl7.moveonjoy.com/Great_American_Country/index.m3u8
+http://fl30.moveonjoy.com/Great_American_Country/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Grit.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/grit-us.png?raw=true" tvg-name="GRIT TV", GRIT TV
 http://fl30.moveonjoy.com/GRIT_TV/index.m3u8
@@ -438,7 +438,7 @@ http://fl30.moveonjoy.com/history_channel/index.m3u8
 https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-5f74cf83ffbe690040689f50.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Military.History.Channel.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/military-history-us.png?raw=true" tvg-name="MILITARY HISTORY", MILITARY HISTORY
-http://fl7.moveonjoy.com/Military_History/index.m3u8
+http://fl30.moveonjoy.com/Military_History/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="HLN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" tvg-name="HLN", HLN
 http://fl30.moveonjoy.com/HLN/index.m3u8
@@ -500,7 +500,7 @@ http://fl30.moveonjoy.com/EPIX_HITS/index.m3u8
 http://fl30.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="RACER.Network.HD.us2" tvg-logo="" tvg-name="RACER", RACER
-http://fl7.moveonjoy.com/MAV_TV/index.m3u8
+http://fl30.moveonjoy.com/MAV_TV/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="MLB.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" tvg-name="MLB Network", MLB NETWORK
 http://fl30.moveonjoy.com/MLB_NETWORK/index.m3u8
@@ -532,7 +532,7 @@ http://fl30.moveonjoy.com/MTV_LIVE/index.m3u8
 http://fl30.moveonjoy.com/MTV_U/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="MuchMusic.Network.ca2" tvg-logo="" tvg-name="MUCH", MUCH
-http://fl7.moveonjoy.com/MUCH/index.m3u8
+http://fl30.moveonjoy.com/MUCH/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="National.Geographic.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" tvg-name="National Geographic", NATIONAL GEOGRAPHIC CHANNEL
 http://fl30.moveonjoy.com/National_Geographic/index.m3u8
@@ -594,7 +594,7 @@ https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Pursuit.Channel.us2" tvg-logo="" tvg-name="PURSUIT CHANNEL", PURSUIT CHANNEL
-http://fl7.moveonjoy.com/Pursuit_Channel/index.m3u8
+http://fl30.moveonjoy.com/Pursuit_Channel/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="QVC.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/qvc-us.png" tvg-name="QVC", QVC
 http://fl30.moveonjoy.com/QVC/index.m3u8
@@ -633,13 +633,13 @@ http://fl30.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 http://fl30.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Sony.Movie.Channel.HD.us2" tvg-logo="" tvg-name="SONY MOVIE CHANNEL", SONY MOVIE CHANNEL
-http://fl7.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+http://fl30.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/sny-us.png" tvg-name="SPORTSNET NEW YORK", SPORTSNET NEW YORK
 http://fl30.moveonjoy.com/SNY/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Sportsman.Channel.us2" tvg-logo="" tvg-name="SPORTSMAN CHANNEL", SPORTSMAN CHANNEL
-http://fl7.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
+http://fl30.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="plex.tv.Stadium.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/stadium-us.png?raw=true" tvg-name="Stadium", STADIUM CHANNEL
 http://fl30.moveonjoy.com/STADIUM/index.m3u8
@@ -753,7 +753,7 @@ http://fl30.moveonjoy.com/VICELAND/index.m3u8
 http://fl30.moveonjoy.com/W_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Willow.Cricket.HD.us2" tvg-logo="" tvg-name="WILLOW CRICKET", WILLOW CRICKET
-http://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+http://fl30.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="The.Weather.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png" tvg-name="Weather Channel", WEATHER CHANNEL
 http://fl30.moveonjoy.com/THE_WEATHER_CHANNEL/index.m3u8
@@ -766,10 +766,10 @@ http://cord-cutter.net:8080/E7p7DU/011587/9237
 http://fl30.moveonjoy.com/WGN/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="World.Fishing.Network.HD.(US).us2" tvg-logo="" tvg-name="WORLD FISHING NETWORK", WORLD FISHING NETWORK
-http://fl7.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
+http://fl30.moveonjoy.com/WORLD_FISHING_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="WWE.Network.us2" tvg-logo="" tvg-name="WWE NETWORK", WWE NETWORK
-http://fl7.moveonjoy.com/WWE/index.m3u8
+http://fl30.moveonjoy.com/WWE/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Yes.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES Network", YES NETWORK
 http://fl30.moveonjoy.com/YES_NETWORK/index.m3u8
