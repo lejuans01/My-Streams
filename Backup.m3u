@@ -163,7 +163,7 @@ http://fl7.moveonjoy.com/BLOOMBERG/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Boomerang.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" tvg-name="Boomerang", BOOMERANG
 http://fl7.moveonjoy.com/BOOMERANG/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Bounce.TV.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="BOUNCE 1", BOUNCE
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Bounce.TV.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-name="BOUNCE", BOUNCE (Offline)
 http://fl30.moveonjoy.com/BOUNCE_TV/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="plex.tv.Bounce.XL.plex" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/67bb1f39c612ac06e49755f639aa08ab.png" tvg-name="Bounce XL", BOUNCE XL
@@ -216,7 +216,7 @@ http://fl30.moveonjoy.com/CMT/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="CNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" tvg-name="CNBC", CNBC
 http://fl30.moveonjoy.com/CNBC/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="CNBC.World.us2" tvg-logo="" tvg-name="CNBC WORLD", CNBC WORLD
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="CNBC.World.us2" tvg-logo="" tvg-name="CNBC WORLD", CNBC WORLD (Offline)
 http://fl30.moveonjoy.com/CNBC_World/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="CNN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" tvg-name="CNN", CNN
@@ -230,12 +230,12 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="CNN.International.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cnn-us.png?raw=true" tvg-name="CNN INTERNATIONAL", CNN INTERNATIONAL
 http://fl7.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Comedy.Central.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL", COMEDY CENTRAL (EAST)
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Comedy.Central.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL", COMEDY CENTRAL
 http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
 # http://cord-cutter.net:8080/E7p7DU/011587/7466
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL", COMEDY CENTRAL (WEST)
-http://fl30.moveonjoy.com/Comedy_Central/index.m3u8
+# EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL", COMEDY CENTRAL (Offline)
+# http://fl30.moveonjoy.com/Comedy_Central/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Comedy.TV.HD.us2" tvg-logo="" tvg-name="COMEDY TV", COMEDY TV
 http://fl30.moveonjoy.com/Comedy_TV/index.m3u8
@@ -255,7 +255,7 @@ http://fl30.moveonjoy.com/Cowboy_Channel/index.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Cooking.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png" tvg-name="COOKING", COOKING CHANNEL
 http://fl30.moveonjoy.com/COOKING_CHANNEL/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Court.TV.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/court-tv-us.png?raw=true" tvg-name="COURT TV", COURT TV
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Court.TV.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/court-tv-us.png?raw=true" tvg-name="COURT TV", COURT TV (Offline)
 http://fl30.moveonjoy.com/COURT_TV/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="COZI.TV.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cozi-tv-us.png?raw=true" tvg-name="COZI TV", COZI TV
@@ -360,7 +360,7 @@ https://jmp2.uk/plex-5e20b730f2f8d5003d739db7-604bf68f499957002d574f45.m3u8
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FS1.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" tvg-name="FS1", FS1
 https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FS2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" tvg-name="FS2", FS2
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FS2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" tvg-name="FS2", FS2 (Offline)
 https://fl7.moveonjoy.com/FOX_Sports_2/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="Fuse.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png" tvg-name="FUSE", FUSE
@@ -2450,6 +2450,7 @@ http://fl7.moveonjoy.com/PPV_5/index.m3u8
 http://fl30.moveonjoy.com/PPV_6/index.m3u8
 #EXTINF:-1 group-title="Events" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 6b", PPV 6b
 http://fl7.moveonjoy.com/PPV_6/index.m3u8
+
 
 
 
