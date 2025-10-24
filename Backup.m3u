@@ -79,7 +79,7 @@ http://fl7.moveonjoy.com/FL_Tampa_ABC/index.m3u8
 #EXTINF:-1 tvg-id="WCBS-DT.us_locals1" tvg-name="CBS (WCBS)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" group-title="MoveOnJoy+", CBS (WCBS) NY
 http://fl7.moveonjoy.com/CBSEAST/index.m3u8
 
-#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FOX.35.Plus.(WRBW).Orlando,.FL.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)", FOX (WRBW) FL
+#EXTINF:-1 group-title="MoveOnJoy+" tvg-id="FOX.35.Plus.(WRBW).Orlando,.FL.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WRBW) FL", FOX (WRBW) FL
 http://fl7.moveonjoy.com/FOX_EAST/index.m3u8
 
 #EXTINF:-1 group-title="MoveOnJoy+" tvg-id="WNBC-DT.us_locals1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true", NBC (WNBC) NY
@@ -2450,6 +2450,7 @@ http://fl7.moveonjoy.com/PPV_5/index.m3u8
 http://fl30.moveonjoy.com/PPV_6/index.m3u8
 #EXTINF:-1 group-title="Events" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 6b", PPV 6b
 http://fl7.moveonjoy.com/PPV_6/index.m3u8
+
 
 
 
