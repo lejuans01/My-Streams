@@ -71,7 +71,7 @@ async def scrape_tv_urls():
                 await new_page.goto(full_url)
 
                 try:
-                    await new_page.get_by_text(f"Load {quality} Stream", exact=True).click(timeout=5000)
+                    await new_page.get_by_text(f"Load {quality} Stream", exact=True).click(timeout=60000)
                 except:
                     pass
 
@@ -122,7 +122,7 @@ async def scrape_section_urls(context, section_path, group_name):
             await new_page.goto(full_url)
 
             try:
-                await new_page.get_by_text(f"Load {quality} Stream", exact=True).click(timeout=5000)
+                await new_page.get_by_text(f"Load {quality} Stream", exact=True).click(timeout=60000)
                 await asyncio.sleep(4)
             except:
                 pass
